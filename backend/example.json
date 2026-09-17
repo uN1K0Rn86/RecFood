@@ -1,0 +1,31 @@
+{
+  "name": "NIMI",
+  "preparation_time": "5-10",
+  "servings": "4-6",
+  "ingredients": [
+    {
+      "amount": 5,
+      "unit": "g",
+      "name": "suola"
+    },
+    {
+      "amount": 5,
+      "unit": "g",
+      "name": "suola"
+    },
+    {
+      "amount": 5,
+      "unit": "g",
+      "name": "suola"
+    }
+  ],
+  "instructions": ["ohje1", "ohje2", "ohje3"],
+  "nutrition": {
+    "protein_g": 15,
+    "fat_g": 10,
+    "carbohydrates_g": 30,
+    "fiber_g": 9,
+    "cholesterol_mg": 20,
+    "energy_kcal": 270
+  }
+}
