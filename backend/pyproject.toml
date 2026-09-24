@@ -9,6 +9,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 pandas = "^3.0.5"
+libvoikko = "^4.3"
 
 
 [build-system]
