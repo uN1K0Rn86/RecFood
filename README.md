@@ -14,6 +14,12 @@ All instructions assume you are in the project root folder.
 - `cd backend`
 - `poetry install`
 
+3. Create .env in backend:
+
+- `cd backend`
+- `touch .env`
+- Contents: `DATABASE_URL=<your-db-url>`
+
 3. Run frontend:
 
 - `cd frontend`
