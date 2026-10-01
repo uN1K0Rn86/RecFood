@@ -1,5 +1,10 @@
-from fastapi import FastAPI
+from fastapi import Depends, FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from sqlalchemy import text
+from sqlalchemy.ext.asyncio import AsyncSession
+
+from database import get_db
+
 
 app = FastAPI(title="RecFood API")
 
@@ -20,3 +25,8 @@ def root():
 @app.get("/health")
 def health():
     return {"status": "ok"}
+
+@app.get("/db-health")
+async def db_health(db: AsyncSession = Depends(get_db)):
+    result = await db.execute(text("SELECT 1"))
+    return {"database": result.scalar_one()}

@@ -3,23 +3,33 @@ import axios from "axios";
 
 const App = () => {
   const [message, setMessage] = useState("");
+  const [dbHealth, setDbHealth] = useState("");
+  const [error, setError] = useState("");
 
   useEffect(() => {
-    const getMessage = async () => {
+    const loadData = async () => {
       try {
-        const response = await axios.get("http://localhost:8000/");
-        setMessage(response.data.message);
+        const [messageResponse, dbResponse] = await Promise.all([
+          axios.get("http://127.0.0.1:8000/"),
+          axios.get("http://127.0.0.1:8000/db-health"),
+        ]);
+
+        setMessage(messageResponse.data.message);
+        setDbHealth(String(dbResponse.data.database));
       } catch (error) {
-        console.error("Request failed:", error);
+        console.error(error);
+        setError(error.message);
       }
     };
 
-    getMessage();
+    loadData();
   }, []);
 
   return (
     <div>
+      {error ? <div>Request failed: {error}</div> : null}
       <div>{message || "Loading..."}</div>
+      <div>Database status: {dbHealth || "Loading..."}</div>
     </div>
   );
 };
