@@ -1,0 +1,2637 @@
+[
+  {
+    "name": "PRIMAVERA",
+    "preparation_time": "25 minuuttia",
+    "cooking_time": "10-15 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "pastaa"
+      },
+      {
+        "amount": 2.5,
+        "unit": "dl",
+        "name": "pakastettuja härkäpapuja"
+      },
+      {
+        "amount": 200.0,
+        "unit": "g",
+        "name": "sokeriherneitä"
+      },
+      {
+        "amount": 155.0,
+        "unit": "g",
+        "name": "tuoreita parsan versoja"
+      },
+      {
+        "amount": 30.0,
+        "unit": "g",
+        "name": "voita"
+      },
+      {
+        "amount": 2.5,
+        "unit": "dl",
+        "name": "kermaa"
+      },
+      {
+        "amount": 60.0,
+        "unit": "g",
+        "name": "vastaraastettua parmesaania"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "suolaa ja pippuria"
+      }
+    ],
+    "instructions": [
+      "Keitä pasta runsaana, voimakkaasti kiehuvass suolatusa vedessä al dente. Valuta ja pane takaisin kattilaan, jotta se pysyisi lämpimänä.",
+      "Keitä papuja kiehuvassa vedessä 2 minuuttia. Upota ne sitten jääveteen ja valuta. Poista härkä papujen kuoret ja heitä ne pois ne lähtevät tavallisesti vain pusertamalla, muutoin viillä ensin kuoret varovasti auki.",
+      "Leikkaa irti herneitten varret ja katkaise parsojen puisevat osat. Leikkaa parsat pieniksi pätkiksi.",
+      "Sulata voi paksupohjaisessa paistinpannussa, Lisää vihannekset, kerma ja parmesaani. Hauduta hiljaa keskilämmöllä 3-4 minuuttia, tai kunnes herneet ja parsa ovat kirkkaan vihreitä ja juuri ja juuri kypsiä. Mausta ripauksella suolaa ja pippuria, Kaada kastike lämpimän pastan päälle ja sekoita. Tarjoa heti.",
+      "HUOM, Primaverakastike tarjotaan perinteisesti. spagetin kera. Kuvassa se on esitetty spaghettinin, ohuen spagetin kera."
+    ],
+    "nutrition": {
+      "carbohydrates_g": 95.0,
+      "fiber_g": 12.0,
+      "cholesterol_mg": 105.0
+    }
+  },
+  {
+    "name": "POMODORO",
+    "preparation_time": "15 minuuttia",
+    "cooking_time": "10-15 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "pastaa"
+      },
+      {
+        "amount": 1.5,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "hienonnettu sipuli"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "x 400 g (tlk) italialaisia tomaatteja pilkottuna"
+      },
+      {
+        "amount": 0.5,
+        "unit": "dl",
+        "name": "tuoreita basilikanlehtiä"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "suolaa ja pippuria"
+      }
+    ],
+    "instructions": [
+      "Keitä pasta runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente. Valuta, pane takaisin kattilaan ja pidä lämpimänä.",
+      "Kuumenna öljy isossa paistinparinussa. Lisää sipuli, ja pehmitä se keskilämmöllä. Sekoita joukkoon pilkottu tomaatti ja anna kiehua hiljaa 5-6 minuuttia, tai kunnes kastike on kiehunut hieman kokoon ja saostunut. Mausta suolalla ja vastajauhetulla pippurilla. Sekoita joukkoon basilikanlehdet ja keitä vielä minuutti. Kaada kastike lämpimän pastan päälle ja sekoita kevyesti. Tarjoa heti. Tämä kastike sopii tarjot tavaksi vastaraastetun parmesaanin kera. HUOM. Pomodoro tarjotaan perinteisesti tagli tellen kera. Kuvassa se on fettuccinen kera."
+    ],
+    "nutrition": {
+      "protein_g": 20.0,
+      "fat_g": 10.0,
+      "carbohydrates_g": 95.0,
+      "fiber_g": 10.0,
+      "cholesterol_mg": 5.0
+    }
+  },
+  {
+    "name": "KLASSINEN BOLOGNESE",
+    "preparation_time": "25 minuuttia",
+    "cooking_time": "vähintään 3 tuntia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 50.0,
+        "unit": "g",
+        "name": "voita"
+      },
+      {
+        "amount": 180.0,
+        "unit": "g",
+        "name": "paksuja pekoniviipaleita tai silavaa, ilman nahkaa ja hienoksi kuutioituna"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "iso hienonnettu sipuli"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "hienonnettu porkkana"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "hienonnettu lehtisellerin varsi"
+      },
+      {
+        "amount": 400.0,
+        "unit": "g",
+        "name": "vähärasvaista jauhettua naudanlihaa"
+      },
+      {
+        "amount": 150.0,
+        "unit": "g",
+        "name": "broilerinmaksaa hienoksi paloiteltuna"
+      },
+      {
+        "amount": 5.0,
+        "unit": "dl",
+        "name": "lihalientä"
+      },
+      {
+        "amount": 2.5,
+        "unit": "dl",
+        "name": "paseerattuja tomaatteja"
+      },
+      {
+        "amount": 2.75,
+        "unit": "dl",
+        "name": "punaviiniä"
+      },
+      {
+        "amount": 0.25,
+        "unit": "tl",
+        "name": "vastaraastettua muskottipähkinää"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "pastaa"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "vastaraastettua parmesaania tarjoiluun"
+      }
+    ],
+    "instructions": [
+      "Kuumenna poolet voista paksapohjaisessa pais timpanimosa. Lisää pekoni ja paista kullanväriseksi. Lisää sipuli, porkkana ja selleri ja kypsennä miedolla",
+      "lammöllä 8 minuuttia silloin tällöin hämmentäen, 2 Nosta lämpöä, lisää loppu voi, ja kun pannu on kuuma, lisää jauheliha. Murenna pieneksi haarukalla ja ruskista. Lisää broilerinmaksa ja sekoita, kunnes se muuttaa väriä. lisää lihaliemi, tomaattinsunka, viini ja muskorttipähkinä sekä suolaa ja pipporia maun mukaan.",
+      "Kuumenna ja anna kiehua hiljaa kannen alla miedolla lämmöllä 2-5 tuntia, lisää hieman lihalientä, jos kasike kuivuu liikaa. Mitä pitempään kastiketta keitetään, sitä maukkaampi siitä tulee.",
+      "Keiti pasta runsaasa, voimakkaasti kiehuvassa soolatusa vedeva al dente. Valuta ja jaa lämmitettyihin annoskulhoihin. Tarjoa kastike pastan päällä ja ripottele pinnalle vastaraastettua parmesaania",
+      "HUOM. Bolognese tarjottiin perinteisesti tagliatellen kera, mutta me tarjoamme sen nyt spagetin kera"
+    ],
+    "nutrition": {
+      "cholesterol_mg": 145.0
+    }
+  },
+  {
+    "name": "ALFREDO",
+    "preparation_time": "10 minuuttia",
+    "cooking_time": "15 minuuttia",
+    "servings": "4-6 annosta",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "pastaa"
+      },
+      {
+        "amount": 90.0,
+        "unit": "g",
+        "name": "voita"
+      },
+      {
+        "amount": 3.75,
+        "unit": "dl",
+        "name": "vastaraastettua parmesaania"
+      },
+      {
+        "amount": 3.0,
+        "unit": "dl",
+        "name": "kermaa"
+      },
+      {
+        "amount": 3.0,
+        "unit": "rkl",
+        "name": "hienonnettua tuoretta persiljaa"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "suolaa ja pippuria"
+      }
+    ],
+    "instructions": [
+      "keitä pasta runsaasa, voimakkaasti kiehuvana suolatuna vedessä al dente. Valuta ja kaada takaisin kattilaan.",
+      "Pastan kiehuessa sulata voi pannussa miedolla lämmöllä. lisää parmesaani sekä kerma ja kuumenna kiehuvaksi koko ajan hämmentäen.",
+      "Pienennä lämpöä ja anna kiehua hiljaa sekoit taen, kunnes kastike on hieman saostunut. lisää hienonnettu tuore persilja, suolaa ja pippuria maun mukaan ja sekoita hyvin keskenään.",
+      "lisää kastike pastan joukkoon ja sekoita hyvin niin, että kastike peittää pastan. tämä ruoka voidaan koristaa hienonnetuilla yrteillä tai tuoreiden yrttien oksilla, esimerkiksi timjamilla.",
+      "HUOM. tämän kastikkeen kanssa käytetään perinteisesti tavallista fettuccinea, kuten kuvassa, mutta voit käyttää Mitä pastaa hyvänsä. Kastike on hyvin helppo tehdä, ja se tulisi valmistaa juuri ennen kuin pasta on kiehunut."
+    ],
+    "nutrition": {
+      "protein_g": 20.0,
+      "fat_g": 40.0,
+      "carbohydrates_g": 60.0,
+      "fiber_g": 4.0,
+      "cholesterol_mg": 125.0
+    }
+  },
+  {
+    "name": "NAPOLITANA",
+    "preparation_time": "",
+    "cooking_time": "I tunti",
+    "servings": "4-6 annosta",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "hienonnettu sipuli"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "hienonnettu porkkana"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "hienonnettu lehtisellerin varsi"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "oikein kypsiä tomaatteja pilkottuna"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "hienonnettua tuoretta persiljaa"
+      },
+      {
+        "amount": 2.0,
+        "unit": "tl",
+        "name": "sokeria"
+      },
+      {
+        "amount": 3.0,
+        "unit": "dl",
+        "name": "vettä"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "pastaa"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "suolaa ja pippuria"
+      }
+    ],
+    "instructions": [
+      "Kuumenna öljy paksupohjaisessa parinussa. lisää sipuli, porkkana ja selleri. peitä kannella ja kypsennä 10 minuuttia miedolla lämmöllä silloin tällöin hämmentäen.",
+      "lisää tomaatit vihannesten joukkoon sekä persilja, sokeri ja 1 1/4 dl vettä. Kuumenna kiehuvaksi, Pienennä miedolle lämmölle, peitä kannella ja anna kiehua hiljaa 45 minuuttia silloin tällöin hämmentäen. Mausta suolalla ja vastajauhetulla mustapippurilla maun mukaan. lisää tarpeen mukaan korkeintaan 1 3/4 dl vettä, kunnes kastike on tarpeeksi sakeaa.",
+      "Noin 15 minuuttia ennen tarjoamista lisää pasta runsaaseen, voimakkaasti kiehuvaan suolattuun veteen ja keitä al dente. Valuta ja kaada takaisin kattilaan. Kaada kastike pastan päälle ja sekoita kevyesti keskenään. Tarjoa yksittäisistä kulhoista tai lautasilta.",
+      "HUOM. tämän kastikkeen kanssa käytetään perinteisesti spagettia, mutta voit käyttää Mitä pastaa hyvänsä. Kuvassa on penne rigate. Kastiketta voidaan tiivistää keittämällä sitä pitemmän aikaa. säilytä sitä jääkaapissa ja ohenna se tarvittaessa lisäämällä vettä tai lihalientä uudelleen lämmitettäessä."
+    ],
+    "nutrition": {
+      "protein_g": 10.0,
+      "fat_g": 7.0,
+      "carbohydrates_g": 65.0,
+      "fiber_g": 6.0,
+      "cholesterol_mg": 0.0
+    }
+  },
+  {
+    "name": "CARBONARA",
+    "preparation_time": "",
+    "cooking_time": "",
+    "servings": "",
+    "ingredients": [],
+    "instructions": [],
+    "nutrition": {}
+  },
+  {
+    "name": "(KERMAINEN MUNAPEKONIKASTIKE)",
+    "preparation_time": "15 minuuttia",
+    "cooking_time": "25 minuuttia",
+    "servings": "4-6 annosta",
+    "ingredients": [
+      {
+        "amount": 8.0,
+        "unit": "",
+        "name": "pekoniviipaletta"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "pastaa"
+      },
+      {
+        "amount": 4.0,
+        "unit": "",
+        "name": "munaa"
+      },
+      {
+        "amount": 2.75,
+        "unit": "dl",
+        "name": "vastaraastettua parmesaania"
+      },
+      {
+        "amount": 3.0,
+        "unit": "dl",
+        "name": "kermaa"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "mustapippuria"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "Irrota pekonin nahka ja heitä se pois, leikkaa pekoni ohuiksi suikaleiksi. Paista paksupohjaisessa pannussa keskilämmöllä rapeiksi. Valuta talouspaperin päällä."
+      }
+    ],
+    "instructions": [
+      "lisää pasta runsaaseen, voimakkaasti kiehuvaan suolattuun veteen ja keitä al dente. Valuta ja kaada takaisin kattilaan.",
+      "Pastan kichuessa vatkaa munat, parmesaani ja kerma kulhossa hyvin sekaisin. lisää pekoni seokseen. Kaada kastike kuuman pastan päälle ja sekoita kevyesti, kunnes kastike peittää pastan.",
+      "Kuumenna pannu uudelleen hyvin miedolle lämmölle ja keitä 1/2-1 minuuttia, tai kunnes kastike on hieman saostunut. Vastajauhettua mustapippuria voidaan lisätä maun mukaan.",
+      "HUOM. tämän ruoan kanssa käytetään perinteisesti fettuccinea, mutta voit käyttää Mitä pastaa haluat. Kuvassa on käytetty tagliatellea."
+    ],
+    "nutrition": {
+      "protein_g": 30.0,
+      "fat_g": 35.0,
+      "carbohydrates_g": 60.0,
+      "fiber_g": 4.0,
+      "cholesterol_mg": 225.0
+    }
+  },
+  {
+    "name": "PESTO",
+    "preparation_time": "10-15 minuuttia",
+    "cooking_time": "ei tarpeen",
+    "servings": "4-6 annosta",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "pastaa"
+      },
+      {
+        "amount": 3.0,
+        "unit": "rkl",
+        "name": "pinjansiemeniä"
+      },
+      {
+        "amount": 5.0,
+        "unit": "dl",
+        "name": "tuoreita basilikanlehtiä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "kuorittua valkosipulinkynttä"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tl",
+        "name": "suolaa"
+      },
+      {
+        "amount": 3.0,
+        "unit": "rkl",
+        "name": "vastaraastettua parmesaania"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "vastaraastettua pecorinojuustoa (el välttämätön)"
+      },
+      {
+        "amount": 1.25,
+        "unit": "dl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "mustapippuria"
+      }
+    ],
+    "instructions": [
+      "keitä pasta runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente, Valuta, kaada takaisin kattilaan ja pidä lämpimänä.",
+      "lisää noin 5 minuuttia ennen pastan kypsymistä pinjansiemenet paksupohjaiseen pannuun ja hämmennä miedolla lämmöllä 2-3 minuuttia, tai kunnes ne ovat kullankeltaisia. Anna jäähtyä. Hienonna pinjansiemeniä, basilikanlehtiä, valkosipulia, suolaa ja juustoja monitoimikoneessa 20 sekuntia, Kaavi kulhon reunat puhtaaksi.",
+      "lisää koneen käydessä öljy vähitellen ohuena, tasaisena nauhana, kunnes seos muotoutuu tahnaksi. lisää vastajauhettua mustapippuria maun mukaan. Sekoita kastike hyvin lämpimään pastaan.",
+      "HUOM. Peston kanssa käytetään perinteisesti linguinea, kuten kuvassa, mutta voit tarjota sen minkä hyvänsä pastan kera. Pestokastike voidaan tehdä jopa viikko etukäteen ja säilyttää jääkaapissa ilmatiiviissä astiassa. Varmista, että pesto on pakattu tiiviisti ja sulje pinta ilmatiiviisti muovikelmulla tai kaada hieman öljyä päälle, mikä estää pestoa mustumasta."
+    ],
+    "nutrition": {
+      "protein_g": 15.0,
+      "fat_g": 30.0,
+      "carbohydrates_g": 60.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 8.0
+    }
+  },
+  {
+    "name": "AMATRICIANA (MAUSTEINEN PEKONITOMAATTIKASTIKE)",
+    "preparation_time": "45 minuuttia",
+    "cooking_time": "20 minuuttia",
+    "servings": "4-6 annosta",
+    "ingredients": [
+      {
+        "amount": 6.0,
+        "unit": "",
+        "name": "ohutta pancettaviipaletta tai 3 pekoniviipaletta"
+      },
+      {
+        "amount": 1.0,
+        "unit": "kg",
+        "name": "oikein kypsiä tomaatteja"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "suolaa ja pippuria"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "pastaa"
+      },
+      {
+        "amount": 1.0,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "pieni sipuli hienonnettuna"
+      },
+      {
+        "amount": 2.0,
+        "unit": "tl",
+        "name": "hienonnettua tuoretta chilipippuria"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "parmesaanilastuja tarjoiluun"
+      }
+    ],
+    "instructions": [
+      "Paloittele pancetta tai pekonit hienoksi. Viillä ristiviilto tomaattien kantaan. Liota kiehuvassa vedessä 1-2 minuuttia, valuta ja pistä hetkeksi kylmään veteen. Kuori ristiviillosta alaspäin. Leikkaa kahtia, poista siemenet ja pilko malto.",
+      "lisää pasta runsaaseen, voimakkaasti kiehuvaan veteen ja keitä al dente. Valuta ja kaada takaisin kattilaan.",
+      "Kuumenna noin 5 minuuttia ennen pastan kypsymistä öljy paksupohjaisessa paistinpannussa. lisää pancetta tai pekoni, sipuli ja chili ja hämmennä keskilämmöllä 3 minuuttia. lisää tomaatit sekä suolaa ja pippuria maun mukaan. Pienennä lämpöä ja hauduta vielä 3 minuuttia. lisää kastike pastan joukkoon ja sekoita hyvin keskenään. Tarjoa parmesaanilastuilla koristeltuna. Vastajauhettua mustapippuria voidaan lisätä maun mukaan.",
+      "HUOM. tämän ruuan arvellaan olevan lähtöisin Amatricen kaupungista, missä pekoni on arvostettu paikallinen tuote. Tavallisten tomaattien sijasta voit vaihteeksi kokeilla tässä reseptissä luumutomaatteja. Ne ovat kiinteälihaisia, vähäsiemenisiä ja keitettyinä voimakkaan makuisia. tämän kastikkeen kanssa käytetään perinteisesti bucatinia, kuten kuvassa, mutta voit käyttää Mitä hyvänsä pastaa."
+    ],
+    "nutrition": {
+      "protein_g": 15.0,
+      "carbohydrates_g": 60.0,
+      "fiber_g": 6.0,
+      "cholesterol_mg": 15.0
+    }
+  },
+  {
+    "name": "KERMAINEN BOSCAIOLA",
+    "preparation_time": "15 minuuttia",
+    "cooking_time": "20-25 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "pastaa"
+      },
+      {
+        "amount": 6.0,
+        "unit": "",
+        "name": "pekoniviipaletta, ilman nahkaa ja paloiteltuna"
+      },
+      {
+        "amount": 200.0,
+        "unit": "g",
+        "name": "nuoria herkkusieniä viipaloituna"
+      },
+      {
+        "amount": 6.0,
+        "unit": "dl",
+        "name": "kermaa"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "viipaloitua kevätsipulia"
+      },
+      {
+        "amount": 1.0,
+        "unit": "rkl",
+        "name": "hienonnettua tuoretta persiljaa"
+      }
+    ],
+    "instructions": [
+      "keitä pasta runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente. Valuta, kaada takaisin kattilaan ja pidä lämpimänä.",
+      "Pastan kiehuessa kuumenna noin 1 rkl öljyä isossa paistinpannussa, lisää pekoni ja herkkusienet ja paista hämmentäen 5 minuuttia, tai kunnes ne ovat kullanruskeita.",
+      "Sekoita joukkoon hieman kermaa ja raaputa",
+      "irti puulusikalla pannun pohjaan tarttuneet pekonit.",
+      "lisää loppu kerma, kuumenna kiehuvaksi ja keitä kovalla lämmöllä 15 minuuttia, tai kunnes kastike on niin sakeaa, että se peittää lusikan selkäpuolen. Sekoita kevätsipulit seokseen. Kaada kastike pastan päälle ja sekoita. Ripottele päälle hienonnettua tuoretta persiljaa ja tarjoa. HUOM. tämä kastike tarjotaan tavallisesti spagetin kera, mutta voit käyttää Mitä pastaa",
+      "hyvänsä. Kuvassa se on casereccien kera. Jos sinulla ei ole aikaa keittää kastiketta kokoon",
+      "minuuttia, sen voi saostaa sekoittamalla 2 tl maissijauhoa ja 1 rkl vettä. Sekoita kunnes seos kiehuu ja saostuu. \"Boscaiola\" tarkoittaa puunhakkaajaa herkkusienten keruu on osa puunhakkaajien perintöä."
+    ],
+    "nutrition": {
+      "protein_g": 30.0,
+      "fat_g": 60.0,
+      "carbohydrates_g": 95.0,
+      "fiber_g": 8.0,
+      "cholesterol_mg": 200.0
+    }
+  },
+  {
+    "name": "PUTTANESCA",
+    "preparation_time": "",
+    "cooking_time": "",
+    "servings": "",
+    "ingredients": [],
+    "instructions": [],
+    "nutrition": {}
+  },
+  {
+    "name": "(KAPRISOLIIVIANJOVISKASTIKE)",
+    "preparation_time": "20 minuuttia",
+    "cooking_time": "20 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "pastaa"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 3.0,
+        "unit": "",
+        "name": "murskattua valkosipulinkynttä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "hienonnettua tuoretta persiljaa"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "1/4-1/2 tl chilipippurihiutaleita tai -jauhetta"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "x 425 g (tlk) tomaattimurskaa"
+      },
+      {
+        "amount": 1.0,
+        "unit": "rkl",
+        "name": "kapriksia"
+      },
+      {
+        "amount": 3.0,
+        "unit": "",
+        "name": "anjovisfilettä ohueksi viipaloituna"
+      },
+      {
+        "amount": 0.5,
+        "unit": "dl",
+        "name": "mustia oliiveja"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "mustapippuria"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "vastaraastettua parmesaania tarjoiluun"
+      }
+    ],
+    "instructions": [
+      "keitä pasta runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente. Valuta, kaada takais?n kattilaan ja pidä lämpimänä.",
+      "Pastan kichuessa kuumenna öljy isossa paksupohjaisessa paistinpannussa. lisää valkosipuli, persilja ja chilihiutaleet ja sekoita koko ajan noin 1 minuutti keskilämmöllä.",
+      "lisää tomaatit pannuun ja kuumenna kiehuvaksi. Pienennä lämpöä ja anna kiehua hiljaa kannen alla 5 minuuttia.",
+      "lisää kaprikset, anjovikset sekä oliivit ja sekoita vielä 5 minuuttia. Mausta mustapippurilla maun mukaan. lisää kastike pastan joukkoon ja sekoita kevyesti, kunnes kastike on levinnyt tasaisesti. Tarjoa heti vastaraastetun parmesaanin kera.",
+      "HUOM. Kastikkeen kanssa tarjotaan perinteisesti spagettia, mutta voit käyttää halutessasi myös muuta pastaa. Kuvan lasagnette antaa poikkeuksellisen ulkomuodon."
+    ],
+    "nutrition": {
+      "protein_g": 20.0,
+      "fat_g": 15.0,
+      "carbohydrates_g": 95.0,
+      "fiber_g": 9.0,
+      "cholesterol_mg": 8.0
+    }
+  },
+  {
+    "name": "MAROKKOLAISTA LAMMASTA JA PAISTETTUA PAPRIKAA FUSILLIN KERA",
+    "preparation_time": "25 minuuttia + marinointi yön yli",
+    "cooking_time": "25 minuuttia",
+    "servings": "4-6 annosta",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "lampaanfileitä"
+      },
+      {
+        "amount": 3.0,
+        "unit": "tl",
+        "name": "jauhettua juustokuminaa"
+      },
+      {
+        "amount": 1.0,
+        "unit": "rkl",
+        "name": "jauhettua korianteria."
+      },
+      {
+        "amount": 2.0,
+        "unit": "tl",
+        "name": "jauhettua maustepippuria"
+      },
+      {
+        "amount": 1.0,
+        "unit": "tl",
+        "name": "jauhettua kanelia"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tl",
+        "name": "jauhettua cayennepippuria"
+      },
+      {
+        "amount": 4.0,
+        "unit": "",
+        "name": "murskattua valkosipulinkynttä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "dl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 2.75,
+        "unit": "dl",
+        "name": "sitruunamehua."
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "punaista paprikaa"
+      },
+      {
+        "amount": 400.0,
+        "unit": "g",
+        "name": "fusillia"
+      },
+      {
+        "amount": 0.5,
+        "unit": "dl",
+        "name": "kylmäpuristettua oliiviöljyä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "tl",
+        "name": "harissaa"
+      },
+      {
+        "amount": 150.0,
+        "unit": "g",
+        "name": "rucolaa"
+      }
+    ],
+    "instructions": [
+      "Leikkaa fileet kahtia, jos ne ovat hyvin pitkiä. Sekoita juustokumina, korianteri, maustepippuri, kaneli, cayennepippuri, valkosipuli, oliiviöljy ja puolet sitruunamehusta kulhossa. lisää lampaanliha ja sekoita niin, että liha peittyy kunnolla. Marinoi kannella peitettynä jääkaapissa yön yli.",
+      "Leikkaa paprikat isoiksi paloiksi, heitä pois sieme net ja kalvot. Pane kuoripuoli ylöspäin kuumaan grilliin ja paista 8 minuuttia, tai kunnes kuori on tummaa ja rakkuloilla. Ota pois grillistä ja peitä kostealla astiapyyhkeellä. Kuori jäähtyneenä ja viipaloi ohueksi.",
+      "keitä fusilli runsaassa, voimakkaasti kiehuvassa",
+      "suolatussa vedessä al dente. Valuta, pidä lämpimänä. 4 Valuta lampaar?liha, kuumenna 1 rkl kylmäpuristettua oliiviöljyä paistinpannussa ja kypsennä kovalla lämmöllä sopivaksi. Ota pois pannusta ja peitä.",
+      "Kuumenna 1 tl öljyä paistinpannussa ja kypsennä harissaa keskilämmöllä muutama sekunti. Varo, sillä seos voi räiskyä. Ota pois ja laita pieneen kannelliseen purkkiin lopun öljyn ja sitruunamehun kanssa, ja ravista purkkia niin, että ainekset sekoittuvat hyvin. lisää mausteita maun mukaan.",
+      "Viipaloi lampaanlihafileet ohueksi ja sekoita lämpimän pastan, viipaloidun paprikan ja rucolan kanssa. Sekoita harissakastike pastan joukkoon. Tarjoa lämpimänä."
+    ],
+    "nutrition": {
+      "protein_g": 25.0,
+      "fat_g": 30.0,
+      "carbohydrates_g": 50.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 55.0
+    }
+  },
+  {
+    "name": "SIANLIHAA JA PAPRIKAA PASTAN KERA",
+    "preparation_time": "15 minuuttia",
+    "cooking_time": "15-20 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "pappardellea"
+      },
+      {
+        "amount": 20.0,
+        "unit": "g",
+        "name": "voita"
+      },
+      {
+        "amount": 1.5,
+        "unit": "tl",
+        "name": "kasviöljyä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "ohueksi viipaloitu sipuli"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "murskattu valkosipulinkynsi"
+      },
+      {
+        "amount": 2.0,
+        "unit": "tl",
+        "name": "paprikajauhetta"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "ripaus cayennepippuria"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "vähärasvaista sianlihaa (fileetä tai reisipaistia) ohueksi viipaloituna"
+      },
+      {
+        "amount": 1.0,
+        "unit": "rkl",
+        "name": "hienonnettua tuoretta persiljaa"
+      },
+      {
+        "amount": 1.0,
+        "unit": "rkl",
+        "name": "portviiniä tai muuta kuivaa väkevää viiniä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "rkl",
+        "name": "tomaattipyreetä (kaksinkertainen väkevöite)"
+      },
+      {
+        "amount": 300.0,
+        "unit": "g",
+        "name": "hapankermaa"
+      },
+      {
+        "amount": 150.0,
+        "unit": "g",
+        "name": "nuoria herkkusieniä viipaloituna"
+      },
+      {
+        "amount": 2.0,
+        "unit": "tl",
+        "name": "unikonsiemeniä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "hienonnettua tuoretta persiljaa"
+      }
+    ],
+    "instructions": [
+      "keitä pappardelle runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente. Valuta ja kaada takaisin pannuun.",
+      "Kuumenna voi ja 1/2 rkl öljyä paistinpannussa ja paista kevyesti viipaloitua sipulia 6-8 minuuttia, tai kunnes se on pehmeää. lisää valkosipuli, paprikajauhe, cayennepippuri, sianliha ja persilja ja mausta vastajauhetulla pippurilla maun mukaan. Ruskista sianliha nopeasti kovalla lämmöllä kypsäksi. lisää portviini, kuumenna kiehuvaksi ja hämmennä hetki, noin 10 sekuntia. lisää tomaattipyree ja hapankerma ja sekoita hyvin. Sekoita joukkoon herkkusienet ja lisää mausteita tarpeen mukaan. Pienennä miedolle lämmölle.",
+      "Sekoita loppu öljy ja unikonsiemenet lämpimän pastan joukkoon. Tarjoa sianliha lusikoituna pastan päälle. Koristele tuoreella persiljalla juuri ennen tarjoamista."
+    ],
+    "nutrition": {
+      "protein_g": 40.0,
+      "fat_g": 45.0,
+      "carbohydrates_g": 65.0,
+      "fiber_g": 6.0,
+      "cholesterol_mg": 170.0
+    }
+  },
+  {
+    "name": "ZITIA VIHANNESTEN JA MAKKARAN KERA",
+    "preparation_time": "30 minuuttia",
+    "cooking_time": "",
+    "servings": "",
+    "ingredients": [],
+    "instructions": [],
+    "nutrition": {}
+  },
+  {
+    "name": "PASTAA JA",
+    "preparation_time": "",
+    "cooking_time": "40 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "punainen paprika"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "vihreä paprika"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "pieni viipaloitu munakoiso"
+      },
+      {
+        "amount": 0.5,
+        "unit": "dl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "viipaloitu sipuli"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "murskattu valkosipulinkynsi"
+      },
+      {
+        "amount": 250.0,
+        "unit": "g",
+        "name": "viipaloituja prinssimakkaroita"
+      },
+      {
+        "amount": 425.0,
+        "unit": "g",
+        "name": "(tlk) tomaattimurskaa"
+      },
+      {
+        "amount": 2.75,
+        "unit": "dl",
+        "name": "punaviiniä"
+      },
+      {
+        "amount": 0.5,
+        "unit": "dl",
+        "name": "halkaistuja kivettömiä mustia oliiveja"
+      },
+      {
+        "amount": 1.0,
+        "unit": "rkl",
+        "name": "hienonnettua tuoretta basilikaa"
+      },
+      {
+        "amount": 1.0,
+        "unit": "rkl",
+        "name": "hienonnettua tuoretta persiljaa"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "zitiä"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "vastaraastettua parmesaania tarjoiluun"
+      }
+    ],
+    "instructions": [
+      "Leikkaa paprikat isoiksi litteiksi paloiksi, heitä pois siemenet ja kalvot. Pane paprikat kuoripuoli ylöspäin kuumaan grilliin ja kypsennä 8 minuuttia, tai kunnes kuori on musta ja rakkuloilla. Ota pois grillistä ja peitä kostealla astiapyyhkeellä. Kuori ne jäähtyneinä, paloittele malto ja pane syrjään.",
+      "Sivele munakoisot tilkalla öljyä. Grillaa molemmin puolin kullankeltaisiksi sivellen lisää öljyä tarpeen mukaan. Pane syrjään.",
+      "Kuumenna loppu öljy paistinpannussa. lisää sipuli ja valkosipuli ja sekoita miedolla lämmöllä pehmeiksi. lisää prinssimakkarat ja ruskista hyvin.",
+      "Sekoita joukkoon tomaatti, viini, oliivit, basilika, persilja sekä suolaa ja pippuria maun mukaan. Kuumenna kiehuvaksi, Pienennä lämpöä ja anna kiehua hiljaa 15 minuuttia. lisää vihannekset ja kuumenna läpikotaisin.",
+      "Kastikkeen kypsyessä keitä ziti runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente. Valuta ja kaada takaisin kattilaan. Sekoita vihannekset ja kastike kuuman pastan joukkoon.",
+      "Ripottele päälle parmesaania ennen tarjoilua.",
+      "HUOM. Ziti on leveää, putkimaista pastaa, joka sopii erinomaisesti tämän ruuan kanssa. Halutessasi voit korvata sen fettuccinella tai spagetilla."
+    ],
+    "nutrition": {
+      "fat_g": 35.0,
+      "carbohydrates_g": 105.0,
+      "fiber_g": 10.0,
+      "cholesterol_mg": 35.0
+    }
+  },
+  {
+    "name": "RIGATONIA CHORIZON JA TOMAATIN KERA",
+    "preparation_time": "15 minuuttia",
+    "cooking_time": "20-25 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "viipaloitu sipuli"
+      },
+      {
+        "amount": 250.0,
+        "unit": "g",
+        "name": "viipaloitua chorizomakkaraa"
+      },
+      {
+        "amount": 425.0,
+        "unit": "g",
+        "name": "(tlk) tomaattimurskaa"
+      },
+      {
+        "amount": 1.25,
+        "unit": "dl",
+        "name": "kuivaa valkoviiniä"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "1/2-1 tl pilkottua chilipippuria, ei välttämätön"
+      },
+      {
+        "amount": 375.0,
+        "unit": "g",
+        "name": "rigatonia"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "hienonnettua tuoretta persiljaa"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "vastaraastettua parmesaania"
+      }
+    ],
+    "instructions": [
+      "Kuumenna öljy paistinpannussa. lisää sipuli ja sekoittele miedolla lämmöllä pehmeäksi.",
+      "lisää makkarat pannuun ja paista usein käännellen 2-3 minuuttia. lisää tomaatti, viini, chilipippuri sekä suolaa ja pippuria maun mukaan ja sekoita. Kuumenna kiehuvaksi, Pienennä lämpö ja anna kiehua hiljaa 15-20 minuuttia.",
+      "Kastikkeen kypsyessä keitä rigatonit runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente. Valuta ja kaada takaisin pannuun. lisää kastike kuumaan pastaan. Sekoita hyvin.",
+      "Ripottele päälle yhteen sekoitetut tuore persilja ja raastettu parmesaani ja tarjoile."
+    ],
+    "nutrition": {
+      "protein_g": 25.0,
+      "fat_g": 30.0,
+      "carbohydrates_g": 70.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 50.0
+    }
+  },
+  {
+    "name": "UUNIPASTAA JA JAUHELIHAA",
+    "preparation_time": "20 minuuttia",
+    "cooking_time": "",
+    "servings": "",
+    "ingredients": [],
+    "instructions": [],
+    "nutrition": {}
+  },
+  {
+    "name": "PASTAA JA LIHAA",
+    "preparation_time": "",
+    "cooking_time": "2 tuntia",
+    "servings": "",
+    "ingredients": [],
+    "instructions": [],
+    "nutrition": {
+      "fat_g": 30.0,
+      "fiber_g": 5.0
+    }
+  },
+  {
+    "name": "NOPEA SPAGHETTI BOLOGNESE",
+    "preparation_time": "15 minuuttia",
+    "cooking_time": "30 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "unit": "tl",
+        "name": "kylmäpuristettua oliiviöljyä"
+      },
+      {
+        "amount": 75.0,
+        "unit": "g",
+        "name": "pekonia tai pancettaa hienoksi pilkottuna"
+      },
+      {
+        "amount": 400.0,
+        "unit": "g",
+        "name": "vähärasvaista jauhettua naudanlihaa"
+      },
+      {
+        "amount": 5.0,
+        "unit": "dl",
+        "name": "valmista tomaattipastakastiketta"
+      },
+      {
+        "amount": 2.0,
+        "unit": "tl",
+        "name": "punaviinietikkaa"
+      },
+      {
+        "amount": 2.0,
+        "unit": "tl",
+        "name": "sokeria"
+      },
+      {
+        "amount": 1.0,
+        "unit": "tl",
+        "name": "kuivattua oreganoa"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "spagettia"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "vastaraastettua parmesaania tarjoiluun"
+      }
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa paistinpannussa ja rus kista pekoni tai pancetta kevyesti. lisää jauhen naudanliha ja ruskista hyvin kovalla lämmöllä.",
+      "Murenna lihapaakut haarukalla.",
+      "lisää pastakastike, viinietikka, sokeri ja kuivattu oregano pannuun ja kuumenna kiehuvaksi. Pienennä lämpöä ja anna kiehua hiljaa 15 minuuttia. hämmennä usein, jotta kastike ei tarttuisi kiinni pannun pohjaan.",
+      "keitä spagetti noin 10 minuuttia ennen kastikkeen valmistumista runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente. Valuta ja jaa neljään annoskulhoon. Pane päälle runsaasti bolognesekastiketta, ripottele päälle vastaraastettua parmesaania ja tarjoa."
+    ],
+    "nutrition": {
+      "protein_g": 40.0,
+      "fat_g": 30.0,
+      "carbohydrates_g": 100.0,
+      "fiber_g": 10.0,
+      "cholesterol_mg": 150.0
+    }
+  },
+  {
+    "name": "SPAGETTIA SALAMIN JA PAPRIKAN KERA",
+    "preparation_time": "15 minuuttia",
+    "cooking_time": "55 minuuttia",
+    "servings": "4-6 annosta",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "iso hienonnettu sipuli"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "murskattua valkosipulinkynttä"
+      },
+      {
+        "amount": 150.0,
+        "unit": "g",
+        "name": "siivutettua mausteista salamia suikaleiksi leikattuna"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "isoa punaista paprikaa pilkottuna"
+      },
+      {
+        "amount": 825.0,
+        "unit": "g",
+        "name": "(tlk) tomaattimurskaa"
+      },
+      {
+        "amount": 2.75,
+        "unit": "dl",
+        "name": "kuivaa valkoviiniä"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "spagettia"
+      }
+    ],
+    "instructions": [
+      "Kuumenna öljy paksupohjaisessa paistinpannussa. lisää sipuli, valkosipuli ja salami ja kypsennä hämmentäen 5 minuuttia keskilämmöllä. lisää paprikat, peitä kannella ja kypsennä 5 minuuttia. 2 lisää tomaatti ja kuiva valkoviini ja kuumenna kiehuvaksi. Pienennä lämpöä ja anna kiehua hiljaa kannen alla 15 minuuttia. Ota kansi pois ja",
+      "keitä vielä 15 minuuttia, tai kunnes neste on kiehunut kokoon ja kastikkeella on haluttu koostumus. lisää suolaa ja pippuria maun mukaan.",
+      "keitä spagetti noin 15 minuuttia ennen kastikkeen valmistumista runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente. Valuta ja kaada takaisin pannuun. Sekoita puolet kastikkeesta pastan joukkoon ja jaa annoskulhoihin. Pane loput kastikkeesta päälle ja tarjoa."
+    ],
+    "nutrition": {
+      "protein_g": 20.0,
+      "fat_g": 15.0,
+      "carbohydrates_g": 70.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 25.0
+    }
+  },
+  {
+    "name": "TAGLIATELLEA VASIKANLIHAN, VIININ JA KERMAN KERA",
+    "preparation_time": "15 minuuttia",
+    "cooking_time": "20 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "unit": "",
+        "name": "vasikanleikkeitä ohuiksi suikaleiksi Jeikattuna"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "suolalla ja pippurilla maustettuja vehnäjauhoja"
+      },
+      {
+        "amount": 60.0,
+        "unit": "g",
+        "name": "voita"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "viipaloitu sipuli"
+      },
+      {
+        "amount": 1.25,
+        "unit": "dl",
+        "name": "kuivaa valkoviiniä"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "3-4 rkl liha- tai kanalientä"
+      },
+      {
+        "amount": 1.5,
+        "unit": "dl",
+        "name": "kermaa"
+      },
+      {
+        "amount": 600.0,
+        "unit": "g",
+        "name": "tuoretta tavallista tai pinaattitagliatellea"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "(tai molempien sekoitusta)"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "vastaraastettua parmesaania"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "leivitä vasikanlihasuikaleet maustetuilla jauhoilla Sulata voi pannussa. lisää vasikanlihasuikaleet ja ruskista nopeasti. Nosta pois reikä-kauhalla ja pane syrjään."
+      }
+    ],
+    "instructions": [
+      "lisää sipuliviipaleet pannuun ja hämmennä pehmeiksi ja kullanvärisiksi, noin 8-10 minuuttia, Kaada joukkoon viini ja keitä neste nopeasti kokoon. lisää lihaliemi sekä kerma ja mausta suolalla ja pippurilla maun mukaan. keitä kastiketta jälleen kokoon ja lisää vasikanliha keittämisen loppupuolella.",
+      "keitä tagliatelle sillä välin runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente. Valuta ja siirrä lämpimään tarjoiluastiaan.",
+      "Sekoita 1 rkl parmesaania kastikkeeseen. Kaada kastike pastan päälle. Ripottele pinnalle parmesaania ja tarjoile. lisäkoristeena voidaan käyttää hiukan hienonnettuja yrttejä, jotka antavat lisämakua.",
+      "HUOM. tämä ruoka on ihanaa salaattisekoituksen kera tarjottuna. Jos pidät enemmän kevyemmästä kastikkeesta, voit jättää kerman pois. Maku on aivan yhtä ihana."
+    ],
+    "nutrition": {
+      "protein_g": 45.0,
+      "fat_g": 35.0,
+      "carbohydrates_g": 75.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 205.0
+    }
+  },
+  {
+    "name": "SPAGHETTI BOLOGNESE",
+    "preparation_time": "20 minuuttia",
+    "cooking_time": "I tunti 40 minuuttia",
+    "servings": "4-6 annosta",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "murskattua valkosipulinkynttä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "iso pilkottu sipuli"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "pilkottu porkkana"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "pilkottu lehtisellerin varsi"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "jauhettua naudanlihaa"
+      },
+      {
+        "amount": 5.0,
+        "unit": "dl",
+        "name": "lihalientä"
+      },
+      {
+        "amount": 3.75,
+        "unit": "dl",
+        "name": "punaviiniä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "x 425 g (tlk) tomaattimurskaa"
+      },
+      {
+        "amount": 1.0,
+        "unit": "tl",
+        "name": "sokeria"
+      },
+      {
+        "amount": 0.5,
+        "unit": "dl",
+        "name": "hienonnettua tuoretta persiljaa"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "spagettia"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "vastaraastettua parmesaania tarjoiluun"
+      }
+    ],
+    "instructions": [
+      "Kuumenna oliiviöljy isossa, syvässä pannussa lisää valkosipuli, sipuli, porkkana ja selleri ja hämmennä 5 minuuttia miedolla lämmöllä, kunnes vihannekset ovat kullankeltaisia.",
+      "Nosta lämpöä, lisää jauheliha ja ruskista hyvin sekoittaen. Riko lihamurut pieniksi haarukalla kypsymisen aikana. lisää lihaliemi, viini, tomaatti, sokeri ja persilja.",
+      "Kuumenna seos kiehuvaksi, Pienennä lämpöä ja anna kiehua hiljaa 1 1/2 tuntia silloin tällöin hämmentäen. lisää mausteita maun mukaan.",
+      "keitä pasta runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente samalla, kun kastike hautuu, hieman ennen tarjoamista. Valuta ja jaa sitten annoskulhoihin. Tarjoa kastike pastan päällä ja ripottele pinnalle vastaraastettua parmesaania."
+    ],
+    "nutrition": {
+      "protein_g": 30.0,
+      "fat_g": 20.0,
+      "carbohydrates_g": 65.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 55.0
+    }
+  },
+  {
+    "name": "LAMMASFUSILLIKEITTO",
+    "preparation_time": "25 minuuttia",
+    "cooking_time": "40 minuuttia",
+    "servings": "6-8 annosta",
+    "ingredients": [
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "vähärasvaista lampaanlihaa kuutioituna"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "hienonnettua sipulia"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "kuutioitua porkkanaa"
+      },
+      {
+        "amount": 4.0,
+        "unit": "",
+        "name": "kuutioitua lehtisellerin vartta"
+      },
+      {
+        "amount": 425.0,
+        "unit": "g",
+        "name": "(tlk) tomaattimurskaa"
+      },
+      {
+        "amount": 21.0,
+        "unit": "",
+        "name": "lihalientä"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "fusillia"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "hienonnettua tuoretta persiljaa tarjoiluun"
+      }
+    ],
+    "instructions": [
+      "Kuumenna tilkka öljyä isossa pannussa ja kuutioitu lammas pienissä erissä kullanruskeaksi. Ota",
+      "valmiit lammaskuutiot pois ja valuta talouspaperin päällä. lisää sipuli pannuun ja paista 2 minuuttia, tai kunnes se on pehmeää. Pane liha takaisin pannuun.",
+      "lisää porkkana, selleri, tomaatti ja lihaliemi. Sekoita ja kuumenna kiehuvaksi. Pienennä miedolle lämmölle ja anna kiehua hiljaa kannen alla 15 minuuttia.",
+      "lisää fusilli pannuun. Sekoita hetki, ettei pasta tartu pannuun. Anna kiehua hiljaa ilman kantta vielä 10 minuuttia, tai kunnes lammas ja pasta ovat kypsiä. Ripottele päälle hienonnettua tuoretta persiljaa ennen tarjoilua."
+    ],
+    "nutrition": {
+      "protein_g": 25.0,
+      "fat_g": 5.0,
+      "carbohydrates_g": 50.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 40.0
+    }
+  },
+  {
+    "name": "KURPITSAPASTAKEITTO",
+    "preparation_time": "25 minuuttia",
+    "cooking_time": "20 minuuttia",
+    "servings": "4-6 annosta",
+    "ingredients": [
+      {
+        "amount": 700.0,
+        "unit": "g",
+        "name": "kurpitsaa"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "perunaa"
+      },
+      {
+        "amount": 1.0,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 30.0,
+        "unit": "g",
+        "name": "voita"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "iso hienonnettu sipuli"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "murskattua valkosipulinkynttä"
+      },
+      {
+        "amount": 3.0,
+        "unit": "",
+        "name": "I valmista nestemäistä kanalientä"
+      },
+      {
+        "amount": 125.0,
+        "unit": "g",
+        "name": "stelliniä tai rissonia"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "hienonnettua tuoretta persiljaa tarjoiluun"
+      }
+    ],
+    "instructions": [
+      "Paloittele kuorittu kurpitsa ja perunat pieniksi kuutioiksi. Kuumenna öljy ja voi isossa pannassa, lisää sipuli ja valkosipuli ja hämmennä mied a lämmöllä 5 minuuttia.",
+      "lisää paloiteltu kurpitsa, peruna ja kanalier Nosta lämpöä, pane kansi päälle ja keitä 10 n nuuttia, tai kunnes vihannekset ovat kypsiä.",
+      "lisää pasta ja keitä silloin tällöin hämmentäen",
+      "minuuttia, tai kunnes pasta on aivan kypsää. Ripottele päälle hienonnettua tuoretta persiljaa. Tarjoa heti.",
+      "HUOM. Mehevimmän maun saat butternut- tai japkurpitsasta. Parhaimman maun saat käyttämällä hyvälaatuista kanalientä, jolloin varmistat, ettei keitosta tule liian suolaista."
+    ],
+    "nutrition": {
+      "protein_g": 5.0,
+      "fat_g": 10.0,
+      "carbohydrates_g": 35.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 15.0
+    }
+  },
+  {
+    "name": "KANAPASTAKEITTO",
+    "preparation_time": "",
+    "cooking_time": "",
+    "servings": "",
+    "ingredients": [],
+    "instructions": [],
+    "nutrition": {}
+  },
+  {
+    "name": "KEITOT",
+    "preparation_time": "20 minuuttia",
+    "cooking_time": "20 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "broilerin rintafilettä"
+      },
+      {
+        "amount": 90.0,
+        "unit": "g",
+        "name": "herkkusieniä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "hienoksi kuutioitu sipuli"
+      },
+      {
+        "amount": 180.0,
+        "unit": "g",
+        "name": "spagettia pätkittynä"
+      },
+      {
+        "amount": 0.5238095238095238,
+        "unit": "",
+        "name": "kanalientä"
+      },
+      {
+        "amount": 2.5,
+        "unit": "dl",
+        "name": "revittyjä tuoreita basilikanlehtiä"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "suolaa ja pippuria"
+      }
+    ],
+    "instructions": [
+      "Leikkaa broilerin rintafileet hienoiksi kuutioiksi ja paloittele karkeasti herkkusienet. Kuumenna oliiviöljy pannussa ja pehMitä sipuli kullankeltaiseksi. lisää broileri, herkkusienet, spagetin palat ja kanaliemi. Kuumenna kiehuvaksi 2 Pienennä lämpöä ja anna kiehua hiljaa 10 minuuttia. Sekoita joukkoon tuoreet basilikanlehdet. Mausta suolalla ja vastajauhetulla mustapippurilla maun mukaan.",
+      "HUOM. tämä on melko tanakka keitto. Jos pidät ohuemmasta keitosta, voit lisätä kanalientä. Keitto on parasta heti nautittuna."
+    ],
+    "nutrition": {
+      "protein_g": 20.0,
+      "fat_g": 10.0,
+      "carbohydrates_g": 35.0,
+      "fiber_g": 4.0,
+      "cholesterol_mg": 30.0
+    }
+  },
+  {
+    "name": "VALKOSIPULIPASTAKALAKEITTO",
+    "preparation_time": "30 minuuttia",
+    "cooking_time": "40 minuuttia",
+    "servings": "4-6 annosta",
+    "ingredients": [
+      {
+        "amount": 4.0,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "viipaloitu purjosipuli"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "20-30 ohueksi viipaloitua valkosipulinkynttä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "paloiteltua perunaa"
+      },
+      {
+        "amount": 21.0,
+        "unit": "",
+        "name": "kalalientä"
+      },
+      {
+        "amount": 1.25,
+        "unit": "dl",
+        "name": "minipastaa"
+      },
+      {
+        "amount": 10.0,
+        "unit": "",
+        "name": "pientä keltaista kiekkokurpitsaa halkaistuna"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "kesäkurpitsaa paksuiksi viipaleiksi leikattuna"
+      },
+      {
+        "amount": 300.0,
+        "unit": "g",
+        "name": "kalafileitä isoiksi paloiksi leikattuna"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "1-2 rkl sitruunamehua"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "suikaleiksi revittyä tuoretta basilikaa"
+      }
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa pannussa, lisää purjosipuli, valkosipuli ja perunat ja kypsennä keskilämmöllä 10 minuuttia. lisää 5 dl kalalientä ja keitä 10 minuuttia.",
+      "Anna jäähtyä hieman ennen kuin soseutat ainekset monitoimikoneessa tai tehosekoittimessa.",
+      "Kaada loppu kalaliemi pannuun ja kuumenna kiehuvaksi. lisää pasta, kurpitsa ja kesäkurpitsa sekä sose ja anna kiehua hiljaa 15 minuuttia.",
+      "Kun pasta on pehmeää, lisää kala ja keitä 5 minuuttia, tai kunnes se on kypsää. lisää sitruunamehu ja basilika, mausta suolalla ja pippurilla maun mukaan."
+    ],
+    "nutrition": {
+      "protein_g": 15.0,
+      "fat_g": 15.0,
+      "carbohydrates_g": 20.0,
+      "fiber_g": 4.0,
+      "cholesterol_mg": 35.0
+    }
+  },
+  {
+    "name": "PASTAPAPUKEITTO",
+    "preparation_time": "20 minuuttia + lotus yön yli Kypsennys: I tunti 25 minuuttia",
+    "cooking_time": "",
+    "servings": "4-6 annosta",
+    "ingredients": [
+      {
+        "amount": 50.0,
+        "unit": "g",
+        "name": "borlottipapuja vedessä yön yli liotettuna"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "sian takapotka"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "pilkottu sipuli"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "ripaus jauhettua kanelia"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "ripaus cayennepippuria"
+      },
+      {
+        "amount": 2.0,
+        "unit": "tl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "S di kanalientä"
+      },
+      {
+        "amount": 125.0,
+        "unit": "g",
+        "name": "tagliatellea (tavallista tai pinaattitagliatellea) pätkittynä"
+      }
+    ],
+    "instructions": [
+      "I Valuta ja huuhdo borlottipavut, kaada kattilaan kylmää vettä niiden päälle niin, että ne peittyvät, ja kuumenna kiehuvaksi. Sekoita, Pienennä lämpöä ja anna kiehua hiljaa 15 minuuttia.",
+      "Valuta pavut ja siirrä isoon kattilaan, jossa on tiukka kami. lisää potka, sipuli, kaneli, cayenne, oliiviöljy ja kanalieni, sekä kylmää vettä sen verran, että ainekset peittyvät. Pane kansi päälle ja aina kichua hiljaa miedolla lämmöllä 1 tunti, tai kunmes pavut ovat kypsiä ja ovat alkaneet sakeuttaa keittoa. Ota potka pois ja leikkaa siitä lihat irti. Paloittele lihat ja pistä takaisin kattilaan, heitä luu pois. 3 Tarkista maku ja lisää suolaa tarpeen mukaan. Kuumenna keitto uudelleen kiehuvaksi, sekoita joukkoon tagliatelle ja keitä kunnes se on al dente. Ota kattila pois levyltä ja pane syrjään 1-2 minuutiksi ennen tarjoamista. Koristele tuoreilla yrteillä."
+    ],
+    "nutrition": {
+      "protein_g": 13.0,
+      "fat_g": 3.0,
+      "carbohydrates_g": 40.0,
+      "cholesterol_mg": 4.0
+    }
+  },
+  {
+    "name": "PISTOUKEITTO BASILIKA KASTIKKEEN KERA",
+    "preparation_time": "1 tunti",
+    "cooking_time": "35-40 minuuttia",
+    "servings": "8 annosta",
+    "ingredients": [
+      {
+        "amount": 3.0,
+        "unit": "",
+        "name": "tuoretta persiljanvartta"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "iso tuore rosmariininoksa"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "iso tuore timjaminoksa"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "iso tuore meiraminoksa laakerinlehti"
+      },
+      {
+        "amount": 0.5,
+        "unit": "dl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "ohueksi viipaloitua sipulia"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "ohueksi viipaloitu purjosipuli"
+      },
+      {
+        "amount": 375.0,
+        "unit": "g",
+        "name": "kurpitsaa pieniksi paloiksi pilkottuna"
+      },
+      {
+        "amount": 250.0,
+        "unit": "g",
+        "name": "perunaa pieniksi paloiksi pilkottuna"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "porkkana pituussuuntaan halkaistuna ja ohueksi viipaloituna"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "pientä ohueksi viipaloitua kesäkurpitsaa I tl suolaa"
+      },
+      {
+        "amount": 21.0,
+        "unit": "",
+        "name": "vettä tai kasvislientä"
+      },
+      {
+        "amount": 2.75,
+        "unit": "dl",
+        "name": "tuoreita tai pakastettuja härkäpapuja"
+      },
+      {
+        "amount": 2.75,
+        "unit": "dl",
+        "name": "tuoreita tai pakasteherneitä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "oikein kypsää tomaattia kuorittuna ja pilkottuna"
+      },
+      {
+        "amount": 2.75,
+        "unit": "dl",
+        "name": "lyhyttä makaronia tai conchiglieta (simpukankuoripastaa)"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "Pistou"
+      },
+      {
+        "amount": 2.75,
+        "unit": "dl",
+        "name": "tuoreita basilikanlehtiä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "isoa murskattua valkosipulinkynttä"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tl",
+        "name": "mustapippuria"
+      },
+      {
+        "amount": 1.0,
+        "unit": "dl",
+        "name": "vastaraastettua parmesaania"
+      },
+      {
+        "amount": 1.0,
+        "unit": "dl",
+        "name": "oliiviöljyä"
+      }
+    ],
+    "instructions": [
+      "Sido tuore persilja, rosmariini, timjami, meirami ja laakerinlehti yhteen narulla. Kuumenna öljy paksupohjaisessa pannussa, lisää viipaloitu sipuli ja purjosipuli ja kypsennä miedolla lämmöllä 10 minuuttia, tai kunnes ne ovat pehmeitä.",
+      "lisää yrttinippu, kurpitsa, peruna, porkkana, kesäkurpitsa, suolaa ja vettä tai kasvislientä pannuun. Pane kansi päälle ja anna kiehua hiljaa 10 minuuttia, tai kunnes vihannekset ovat lähes kypsiä.",
+      "lisää härkäpavut, herneet, tomaatti ja pasta. peitä kannella ja keitä vielä 15 minuuttia, tai",
+      "kunnes vihannekset ovat hyvin pehmeitä ja pasta on kypsää (lisää vettä tarpeen mukaan). Ota yrtit pois. Keiton kiehuessa valmista pistou.",
+      "Valmista pistou jauhamalla tuoreet basilikanlehdet valkosipulin, pippurin ja parmesaanin kanssa monitoimikoneessa 20 sekuntia, tai kunnes ne ovat hienontuneet. Kaada koneen käydessä vähitellen joukkoon öljy ja hienonna tasaiseksi. Tarjoa pieniä määriä pistouta lusikoituna keiton päälle.",
+      "HUOM. tämä tukeva keitto sopii pääruuaksi.",
+      "Sen voi tehdä mistä hyvänsä kauden vihanneksista. Tarjoa keitto tuoreiden leipäviipaleiden, sämpylöiden tai pitaleivän kera."
+    ],
+    "nutrition": {
+      "protein_g": 5.0,
+      "fat_g": 20.0,
+      "carbohydrates_g": 20.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 5.0
+    }
+  },
+  {
+    "name": "RATATOUILLEPASTAKEITTO",
+    "preparation_time": "25 minuuttia + seisottaminen",
+    "cooking_time": "40 minuuttia",
+    "servings": "6 annosta",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "keskikokoinen munakoiso"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "iso pilkottu sipuli"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "iso pilkottu punainen paprika"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "iso pilkottu vihreä paprika"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "murskattua valkosipulinkynttä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "viipaloitua kesäkurpitsaa"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "x 400 g (tlk) tomaattimurskaa"
+      },
+      {
+        "amount": 1.0,
+        "unit": "tl",
+        "name": "kuivattuja oreganonlehtiä"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tl",
+        "name": "kuivattuja timjaminlehtiä"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "II kasvislientä"
+      },
+      {
+        "amount": 1.25,
+        "unit": "dl",
+        "name": "fusillia"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "parmesaanilastuja tarjoiluun"
+      }
+    ],
+    "instructions": [
+      "Paloittele munakoiso. Poista kitkeryys levittämällä munakoison palaset lävikköön ja ripottelemalla päälle runsaasti suolaa. Pane syrjään 20 minuutiksi, huuhtele läpikotaisin ja taputtele kuivaksi talouspaperilla.",
+      "Kuumenna öljy isossa paksupohjaisessa pannussa ja paista sipulia keskilämmöllä 10 minuuttia, tai kunnes se on pehmeää ja hivenen kullankeltaista. lisää paprikat, valkosipuli, kesäkurpitsa ja munakoiso ja pikapaista hämmentäen 5 minuuttia.",
+      "lisää tomaatit, yrtit ja kasvisliemi pannuun. Kuumenna kiehuvaksi, Pienennä lämpöä ja anna kiehua hiljaa 10 minuuttia, tai kunnes vihannekset ovat kypsiä. lisää fusilli ja keitä vielä 15 minuuttia, tai kunnes fusilli on kypsää. Tarjoa parmesaanilastujen kera.",
+      "HUOM. tämä herkullinen keitto voidaan tarjota italialaisen leivän kera."
+    ],
+    "nutrition": {
+      "protein_g": 5.0,
+      "fat_g": 5.0,
+      "carbohydrates_g": 20.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 0.0
+    }
+  },
+  {
+    "name": "PEKONIHERNEKEITTO",
+    "preparation_time": "20 minuuttia",
+    "cooking_time": "15 minuuttia",
+    "servings": "4-6 annosta",
+    "ingredients": [
+      {
+        "amount": 4.0,
+        "unit": "",
+        "name": "pekoniviipaletta"
+      },
+      {
+        "amount": 50.0,
+        "unit": "g",
+        "name": "voita"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "iso hienonnettu sipuli"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "ohueksi viipaloitu lehtisellerin varsi"
+      },
+      {
+        "amount": 21.0,
+        "unit": "",
+        "name": "kanalientä"
+      },
+      {
+        "amount": 2.5,
+        "unit": "dl",
+        "name": "pakasteherneitä"
+      },
+      {
+        "amount": 250.0,
+        "unit": "g",
+        "name": "rissonia"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "hienonnettua tuoretta persiljaa"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "suolaa ja pippuria"
+      }
+    ],
+    "instructions": [
+      "Poista pekonista nahka ja ylimääräinen rasva ja pilko pieniksi paloiksi.",
+      "Sulata voi isossa paksupohjaisessa pannussa ja paista pekonia, sipulia ja selleriä miedolla lämmöllä 5 minuuttia välillä hämmentäen. lisää kanaliemi ja herneet ja anna kiehua hiljaa kannen alla 5 minuuttia. Nosta lämpöä, lisää rissoni ja keitä ilman kantta silloin tällöin hämmentäen 5 minuuttia, tai kunnes rissoni ovat kypsää.",
+      "lisää hienonnettu tuore persilja ja mausta suolalla ja pippurilla maun mukaan juuri ennen tarjoamista."
+    ],
+    "nutrition": {
+      "protein_g": 10.0,
+      "fat_g": 10.0,
+      "carbohydrates_g": 35.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 35.0
+    }
+  },
+  {
+    "name": "PARSAKAALIKEITTO",
+    "preparation_time": "15 minuuttia.",
+    "cooking_time": "20 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "iso ohueksi viipaloitu sipuli"
+      },
+      {
+        "amount": 50.0,
+        "unit": "g",
+        "name": "kuutioitua prosciuttoa tai keittokinkkua"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "murskattu valkosipulinkynsi"
+      },
+      {
+        "amount": 2.75,
+        "unit": "",
+        "name": "kanalientä"
+      },
+      {
+        "amount": 50.0,
+        "unit": "g",
+        "name": "stelliniä tai muuta minipastaa"
+      },
+      {
+        "amount": 250.0,
+        "unit": "g",
+        "name": "parsakaalia, latvat pieniksi kukinnoiksi"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "leikattuna ja varren pehmeät osat ohuiksi suikaleiksi leikattuna"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "vastaraastettua parmesaania tarjoiluun"
+      }
+    ],
+    "instructions": [
+      "Kuumenna öljy isossa pannussa miedolla lämmöllä, lisää sipuli, prosciutto ja valkosipuli ja kypsennä 4-5 minuuttia.",
+      "Kaada joukkoon kanaliemi, kuumenna kiehuvaksi, Pienennä hieman lämpöä ja anna kiehua hiljaa 10 minuuttia kannen ollessa raollaan.",
+      "lisää stellini ja parsakaali ja keitä, kunnes pasta on al dente ja parsakaali on rapeaa, mutta kypsää.",
+      "Mausta suolalla ja vastajauhetulla mustapippurilla maun mukaan. Tarjoa lämpimistä kulhoista raastetun parmesaanin kera."
+    ],
+    "nutrition": {
+      "protein_g": 10.0,
+      "fat_g": 15.0,
+      "carbohydrates_g": 10.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 10.0
+    }
+  },
+  {
+    "name": "TOMAATTIKEITTO PASTAN JA BASILIKAN KERA",
+    "preparation_time": "25 minuuttia",
+    "cooking_time": "35-40 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 3.0,
+        "unit": "",
+        "name": "isoa oikein kypsää tomaattia (noin 750 g)"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "hienonnettu sipuli"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "murskattu valkosipulinkynsi"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "pieni punainen paprika hienonnettuna"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "Il kana- tai kasvislientä"
+      },
+      {
+        "amount": 0.5,
+        "unit": "dl",
+        "name": "tomaattipyreetä (kaksinkertainen väkevöite)"
+      },
+      {
+        "amount": 1.0,
+        "unit": "tl",
+        "name": "sokeria"
+      },
+      {
+        "amount": 0.5,
+        "unit": "dl",
+        "name": "tuoreita basilikanlehtiä"
+      },
+      {
+        "amount": 2.5,
+        "unit": "dl",
+        "name": "conchiglieta (simpukankuoripastaa) tai makaronia"
+      }
+    ],
+    "instructions": [
+      "Tee pieni ristiviilto tomaattien lakeen. Upota tomaatit kiehuvaan veteen 1-2 minuutiksi, sitten kylmään veteen. vedä kuoria alaspäin ristiviillosta ja heitä pois. Poista siemenet ja pilko tomaatit isohkoiksi paloiksi. Kuumenna öljy isossa paksupohjaisessa pannussa ja kypsennä sipuli, valkosipuli ja paprika hämmentäen 10 minuuttia, tai kunnes ne ovat pehmeitä..",
+      "lisää tomaatit ja keitä vielä 10 minuuttia.",
+      "lisää liemi, tomaattipyree, sokeri sekä suolaa ja pippuria maun mukaan. Pane kansi päälle ja anna kiehua hiljaa 15 minuuttia. Ota pois liedeltä ja lisää basilikanlehdet. Anna jäähtyä hieman, ennen kuin hienonnat seoksen tasaiseksi erissä monitoimikoneessa tai tehosekoittimessa. Pane seos takaisin pannuun ja kuumenna hiljaa uudestaan.",
+      "Keiton kypsyessä lisää pasta runsaaseen, voimakkaasti kiehuvaan suolattuun veteen ja keitä al dente. Valuta, lisää keittoon ja kuumenna läpikotaisin. Koristele halutessasi basilikanlehdillä.",
+      "HUOM. Basilika lisätään kypsentämisen lopussa, jotta sen maku ei heikentyisi."
+    ],
+    "nutrition": {
+      "protein_g": 10.0,
+      "fat_g": 10.0,
+      "carbohydrates_g": 40.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 0.0
+    }
+  },
+  {
+    "name": "MAUSTEINEN KANAKEITTO KORIANTERIPASTAN KERA",
+    "preparation_time": "tunti",
+    "cooking_time": "50 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 350.0,
+        "unit": "g",
+        "name": "broilerinreisiä tai siipiä ilman nahkaa"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "hienonnettua porkkanaa"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "hienonnettua lehtisellerin vartta"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "hienonnettua pientä purjosipulia"
+      },
+      {
+        "amount": 3.0,
+        "unit": "",
+        "name": "munanvalkuaista"
+      },
+      {
+        "amount": 0.5238095238095238,
+        "unit": "",
+        "name": "kanalientä"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "tabascoa"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "suolaa ja pippuria"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "Korianteripasta"
+      },
+      {
+        "amount": 1.25,
+        "unit": "dl",
+        "name": "vehnäjauhoja"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "muna"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tl",
+        "name": "seesaminöljyä"
+      },
+      {
+        "amount": 90.0,
+        "unit": "g",
+        "name": "korianterinlehtiä"
+      }
+    ],
+    "instructions": [
+      "I Pane broileripalat, porkkana, sellers ja pu supuh noon paksuupohjaiseen panmuun. Surea broideri tomelle sivulle ja lisää mmanvalkuaner vihannesten joukkoon. Vatkaa lankavispilälla nom minuutin verran vaahtoavaksi (varo käyttämästä pannua, joka voi naarmuuntua).",
+      "lämmitä kanaliemi toisessa pannussa ja lisäa urten vähitellen ensimmäiseen painuun, vaah. dota munanvalkuaisia jatkuvasti vatkaamalla Jatka vispaamista kuumentaen samalla hitaasti kichuvaksi. Tee lusikalla reikä vaahtoon ja anna kichua hiljaa 30 minuuttia hämmentämättä 3 Vuoraa iso sirvilä kostealla astiapyyhkeellä tai kakunkertaisella harvokankaalla ja siivilöi hemi tyhjään kulhoon (heitä pois broileri ja vihannek set). Mausta suolalla, pippurilla ja tabascolla maun mukaan. Pane syrjään, kunnes olet valmis tarjoamaan.",
+      "Valmista korianteripasta: siivilöi jauhot kulhoon ja tee keskelle syvennys. Vatkaa muna ja öljy yhteen ja kaada syvennykseen. Tee pehmeä pastataikina ja alusta tasaiseksi kevyesti jauhotetulla alustalla 2 minuuttia.",
+      "Jaa pastataikina neljään yhtä suureen osaan. Kauli yksi osa hyvin ohueksi levyksi ja peitä kerroksella tasaisesti aseteltuja korianterinlehtiä. Kauli toinen pastaosa levyksi ja aseta tämä leh tien päälle, kauli sitten kerrokset varovasti yhteen. Tee sama lopulle pastalle ja korianterille. 6 Leikkaa pastaneliöitä lehtien ympäriltä. Pasta voidaan sitten jättää lepäämään ja kuivahtamaan, jos sitä ei tarvita heti. Kun olet valmis tarjoamaan, kuumenna kanaliemi varovasti pannussa. Liemen poreillessa hiljaa, lisää pasta ja keitä 1 minuutti. Tarjoa heti.",
+      "HUOM. Vihannes- ja kanaliemeen lisätyt munanvalkuaiset tekevät liemestä pikemminkin hyvin kirkkaan kuin jättävät sen normaaliksi, sameaksi kanaliemeksi. tätä sanotaan liemen kirkastamiseksi. Kun siivilöit liemen harsokankaan tai astiapyyhkeen läpi, älä purista kiinteitä aineita kaiken nesteen uuttamiseksi tai muutoin liemestä tulee sameaa. Vaahtoon täytyy tehdä reikä, jotta liemi ei kiehuisi yli."
+    ],
+    "nutrition": {
+      "protein_g": 25.0,
+      "fat_g": 5.0,
+      "carbohydrates_g": 20.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 95.0
+    }
+  },
+  {
+    "name": "PAPUMAKKARAKEITTO",
+    "preparation_time": "25 minuuttia",
+    "cooking_time": "40 minuuttia",
+    "servings": "4-6 annosta",
+    "ingredients": [
+      {
+        "amount": 4.0,
+        "unit": "",
+        "name": "italialaista makkaraa"
+      },
+      {
+        "amount": 2.0,
+        "unit": "tl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "viipaloitua purjosipulia"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "murskattu valkosipulinkynsi"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "iso porkkana pieneksi kuutioituna"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "viipaloitua lehtisellerin vartta"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "vehnäjauhoja"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "murennettua lihaliemikuutiota"
+      },
+      {
+        "amount": 21.0,
+        "unit": "",
+        "name": "kuumaa vettä"
+      },
+      {
+        "amount": 2.75,
+        "unit": "dl",
+        "name": "valkoviiniä"
+      },
+      {
+        "amount": 125.0,
+        "unit": "g",
+        "name": "conchiglieta (simpukankuoripastaa)"
+      },
+      {
+        "amount": 440.0,
+        "unit": "g",
+        "name": "(tlk) kolmen pavun sekoitusta valutettuna"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "suolaa ja pippuria"
+      }
+    ],
+    "instructions": [
+      "Paloittele makkarat pieniksi paloiksi. Kuumenna öljy isossa paksupohjaisessa pannussa ja lisää makkaranpalat. Paista keskilämmöllä 5 minuuttia",
+      "säännöllisin välein sekoittaen, tai kunnes ne ovat kullankeltaisia. Ota pois pannusta ja valuta talouspaperin päällä.",
+      "lisää purjosipuli, valkosipuli, porkkana ja selleri pannuun ja kypsennä 2-3 minuuttia silloin tällöin hämmentäen, tai kunnes ne ovat pehmeitä.",
+      "lisää jauhot ja sekoita 1 minuutti. Sekoita vähitellen joukkoon liemikuutiot, vesi ja viini. Kuumenna kiehuvaksi, Pienennä lämpöä ja anna kiehua hiljaa 10 minuuttia.",
+      "lisää pasta ja pavut pannuun. Nosta lämpöä ja keitä 8-10 minuuttia, tai kunnes pasta on kypsää. Pane makkara takaisin pannuun ja mausta suolalla ja pippurilla maun mukaan. Tarjoa halutessasi hienonnetun tuoreen persiljan kera.",
+      "HUOM. käytä halutessasi kuivattuja papuja. Pane ne kulhoon, peitä vedellä ja liota yön yli. Valuta ja pane isoon pannuun, lisää vettä niin, että pavut peittyvät kunnolla. Kuumenna kiehuvaksi. Pienennä lämpöä ja anna kiehua hiljaa 1 tunti. Valuta hyvin ennen keittoon lisäämistä."
+    ],
+    "nutrition": {
+      "protein_g": 15.0,
+      "fat_g": 10.0,
+      "carbohydrates_g": 30.0,
+      "fiber_g": 9.0,
+      "cholesterol_mg": 20.0
+    }
+  },
+  {
+    "name": "SOKERIHERNEKATKARAPUPASTAKEITTO",
+    "preparation_time": "30 minuuttia",
+    "cooking_time": "15 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 12.0,
+        "unit": "",
+        "name": "jättikatkarapua"
+      },
+      {
+        "amount": 100.0,
+        "unit": "g",
+        "name": "sokeriherneita"
+      },
+      {
+        "amount": 1.0,
+        "unit": "rkl",
+        "name": "öljyä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "pilkottua sipulia"
+      },
+      {
+        "amount": 0.5238095238095238,
+        "unit": "",
+        "name": "kanalientä"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tl",
+        "name": "raastettua tuoretta inkivääriä"
+      },
+      {
+        "amount": 200.0,
+        "unit": "g",
+        "name": "enkelinhiuspastaa cai spagettinia"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "tuoreita basilikanlehtiä koristelua varten"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "suolaa ja pippuria"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "Kuori katkaravut, poista suolet, mutta jätä pyrstöt paikoilleen. Perkaa herneenpalot, ja jos ne ovat isoja, pilko pienemmiksi."
+      }
+    ],
+    "instructions": [
+      "Kuumenna öljy pannussa, lisää sipuli ja pehMitä miedolla lämmöllä. lisää kanaliemi pannuun ja kuumenna kiehuvaksi,",
+      "lisää tuore inkivääri, sokeriherneet, katkaravut ja pasta. keitä keskilämmöllä 4 minuuttia. Maus... ta suolalla ja pippurilla ja tarjoa heti tuoreilla basilikanlehdillä koristeltuna."
+    ],
+    "nutrition": {
+      "protein_g": 20.0,
+      "fat_g": 6.0,
+      "cholesterol_mg": 85.0
+    }
+  },
+  {
+    "name": "RISSONIHERKKUSIENIKEITTO",
+    "preparation_time": "15 minuuttia.",
+    "cooking_time": "20-25 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 90.0,
+        "unit": "g",
+        "name": "voita"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "viipaloitua valkosipulinkynttä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "isoa sipulia viipaloituna"
+      },
+      {
+        "amount": 375.0,
+        "unit": "g",
+        "name": "herkkusieniä ohueksi viipaloituna"
+      },
+      {
+        "amount": 2.75,
+        "unit": "",
+        "name": "kanalientä"
+      },
+      {
+        "amount": 125.0,
+        "unit": "g",
+        "name": "rissonia"
+      },
+      {
+        "amount": 3.0,
+        "unit": "dl",
+        "name": "kermaa"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "suolaa ja pippuria"
+      }
+    ],
+    "instructions": [
+      "Sulata voi isossa pannussa miedolla lämmöllä. lisää valkosipuli ja sipuli ja kypsennä 1 minuutti. lisää viipaloidut herkkusienet ja paista kevyesti ruskistamatta 5 minuuttia. Pane syrjään muutama herkkusieniviipale koristamista varten. lisää kanaliemi ja keitä 10 minuuttia.",
+      "lisää sillä välin rissoni runsaaseen, voimakkaas ti kiehuvaan suolattuun veteen ja keitä al dente. Valuta ja pane syrjään.",
+      "Anna sieniseoksen jäähtyä hieman ennen kuin sekoitat sen tehosekoittimessa tai monitoimikoneessa tasaiseksi.",
+      "Pane seos takaisin pannuun ja sekoita joukkoon rissoni sekä kerma. Kuumenna läpikotaisin ja mausta suolalla ja pippurilla maun mukaan. Tarjoa kannellisesta liemikulhosta tai yksittäisistä kulhoista. Koristele talteen otetuilla herkkusienillä."
+    ],
+    "nutrition": {
+      "protein_g": 10.0,
+      "fat_g": 55.0,
+      "carbohydrates_g": 30.0,
+      "fiber_g": 5.0,
+      "cholesterol_mg": 165.0
+    }
+  },
+  {
+    "name": "MINESTRONE",
+    "preparation_time": "30 minuuttia + liotus yön yli",
+    "cooking_time": "3 tuntia",
+    "servings": "6-8 annosta",
+    "ingredients": [
+      {
+        "amount": 250.0,
+        "unit": "g",
+        "name": "kuivattuja borlottipapuja yön yli vedessä liotettuna"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "pilkottua sipulia"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "murskattua valkosipulinkynttä"
+      },
+      {
+        "amount": 3.0,
+        "unit": "",
+        "name": "pilkottua pekoniviipaletta"
+      },
+      {
+        "amount": 4.0,
+        "unit": "",
+        "name": "kuorittua ja pilkottua luumutomaattia"
+      },
+      {
+        "amount": 3.0,
+        "unit": "rkl",
+        "name": "hienonnettua tuoretta persiljaa"
+      },
+      {
+        "amount": 2.25,
+        "unit": "",
+        "name": "1 liha- tai kasvislientä"
+      },
+      {
+        "amount": 0.5,
+        "unit": "dl",
+        "name": "punaviiniä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "paloiteltu porkkana ja I kuutioitu lanttu"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "kuutioitua perunaa"
+      },
+      {
+        "amount": 3.0,
+        "unit": "rkl",
+        "name": "tomaattipyreetä (kaksinkertainen väkevöite)"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "viipaloitua kesäkurpitsaa"
+      },
+      {
+        "amount": 1.25,
+        "unit": "dl",
+        "name": "herneitä"
+      },
+      {
+        "amount": 1.25,
+        "unit": "dl",
+        "name": "pikkumakaroneja"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "vastaraastettua parmesaania ja pestoa tarjoiluun"
+      }
+    ],
+    "instructions": [
+      "Valuta ja huuhdo borlottipavut. Laita pannuun ja peitä kylmällä vedellä. Kuumenna kiehuvaksi. hämmennä, Pienennä lämpöä ja anna kiehua hiljaa 15 minuuttia. Valuta.",
+      "Kuumenna 2 rkl öljyä paksupohjaisessa pannussa. Kypsennä sipuli, valkosipuli ja pekoni, kunnes sipuli on pehmeää ja pekoni kullankeltaista",
+      "lisää porkkana, lanttu, perunat ja tomaattipyre. pane kansi päälle ja anna kiehua hiljaa 20 minuuttia. lisää tomaatit, persilja, borlottipavut, liemi ja punaviini. Anna kiehua hiljaa kannen alla miedol la lämmöllä 2 tuntia.",
+      "lisää kesäkurpitsa, herneet ja makaronit. Pane kansi päälle ja anna kiehua hiljaa 10-15 minuuttia, tai kunnes vihannekset ja makaroni ovat kypsiä. lisää mausteita maun mukaan ja tarjoa päällä parmesaania ja hieman pestokastiketta. Tuoreita yrttejä voidaan käyttää koristamiseen."
+    ],
+    "nutrition": {
+      "protein_g": 15.0,
+      "fat_g": 7.0,
+      "carbohydrates_g": 35.0,
+      "fiber_g": 8.0,
+      "cholesterol_mg": 8.0
+    }
+  },
+  {
+    "name": "MARINARA",
+    "preparation_time": "50 minuuttia",
+    "cooking_time": "30 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "pilkottu sipuli"
+      },
+      {
+        "amount": 2.0,
+        "unit": "",
+        "name": "murskattua valkosipulinkynttä"
+      },
+      {
+        "amount": 1.25,
+        "unit": "dl",
+        "name": "punaviiniä"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "tomaattipyreetä"
+      },
+      {
+        "amount": 425.0,
+        "unit": "g",
+        "name": "(tlk) tomaattimurskaa"
+      },
+      {
+        "amount": 2.5,
+        "unit": "dl",
+        "name": "valmista tomaattipastakastiketta"
+      },
+      {
+        "amount": 1.0,
+        "unit": "rkl",
+        "name": "hienonnettua tuoretta basilikaa ja oreganoa"
+      },
+      {
+        "amount": 12.0,
+        "unit": "",
+        "name": "sinisimpukkaa puhtaaksi harjattuna (heitä pois valmiiksi auenneet)"
+      },
+      {
+        "amount": 30.0,
+        "unit": "g",
+        "name": "voita"
+      },
+      {
+        "amount": 125.0,
+        "unit": "g",
+        "name": "pieniä mustekalanrenkaita"
+      },
+      {
+        "amount": 125.0,
+        "unit": "g",
+        "name": "ruodottomia siikafileitä kuutioiksi leikattuna"
+      },
+      {
+        "amount": 200.0,
+        "unit": "g",
+        "name": "tuoreita katkarapuja kuorittuna"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "pastaa"
+      }
+    ],
+    "instructions": [
+      "Kuumenna tilkka oliiviöljyä pannussa. lisää sipuli ja valkosipuli, kypsennä miedolla lämmöllä 2-3 minuuttia. Nosta lämpöä ja lisää viini, tomaattipyree, tomaatit ja pastakastike. Anna kiehua hiljaa välillä hämmentäen 5-10 minuuttia, tai kunnes kastike kiehuu kokoon ja saostuu. lisää yrtit ja mausteita maun mukaan. pidä lämpimänä.",
+      "Kastikkeen kiehuessa hiljaa kuumenna 1 1/4 dl vettä kattilassa. lisää sinisimpukat, peitä kannella ja keitä höyryssä 3-5 minuuttia, tai kunnes simpukat ovat muuttaneet väriä ja avautuneet. heitä pois avautumattomat simpukat. Ota pois ja pane syrjään.",
+      "Sekoita jäljellä oleva neste tomaattikastikkeeseen.",
+      "Kuumenna voi pannussa ja ruskista kevyesti mos tekalanrenkaita, kalaa ja katkarapuja 1-2 minuure tai kunnes ne ovat kypsiä. lisää kala ja äyriäiset lämpimään tomaattikastikkeeseen ja sekoita kevyesti",
+      "keitä pasta runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente, valuta. Sekoita kala- ja",
+      "äyriäiskastike kuuman pastan kanssa ja tarjoa.",
+      "HUOM. Tarjotaan perinteisesti spagetin kera."
+    ],
+    "nutrition": {
+      "protein_g": 40.0,
+      "fat_g": 10.0,
+      "carbohydrates_g": 100.0,
+      "fiber_g": 10.0,
+      "cholesterol_mg": 205.0
+    }
+  },
+  {
+    "name": "ARRABBIATA (TULINEN TOMAATTIKASTIKE)",
+    "preparation_time": "30 minuuttia",
+    "cooking_time": "50 minuuttia",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": null,
+        "name": "Chiliumi-"
+      },
+      {
+        "amount": 2.75,
+        "unit": "dl",
+        "name": "pekonin rasvaa"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "2-3 tuoretta punaista chilipippuria"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "oliiviöljyä"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "iso hienonnettu sipuli"
+      },
+      {
+        "amount": 1.0,
+        "unit": "",
+        "name": "hienonnettu valkosipulinkynsi"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "oikein kypsiä tomaatteja hienoksi"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "pilkottuna"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "suolaa ja pippuria"
+      },
+      {
+        "amount": 500.0,
+        "unit": "g",
+        "name": "pastaa"
+      },
+      {
+        "amount": 2.0,
+        "unit": "rkl",
+        "name": "hienonnettua tuoretta persiljaa"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "name": "vastaraastettua parmesaani- tai pecorinojuustoa tarjoiluun"
+      }
+    ],
+    "instructions": [
+      "Pilko pekonin rasva hienoksi isolla veitsellä.",
+      "Paloittele chilipippurit, varo ihon ärsyyntymistä - kumihanskojen käyttä auttaa. Kuumenna öljy paksupohjaisessa pannussa ja lisää pekonin rasva, chili, sipuli ja valkosipuli. Kypsennä 8 minuuttia keskilämmöllä silloin tällöin hämmentäen.",
+      "lisää pilkotut tomaatit sekä 1 1/4 dl vettä, mausta suolalla ja vastajauhetulla mustapippurilla maun mukaan. Pane kansi päälle ja anna kiehua hiljaa noin 40 minuuttia, tai kunnes kastike on sakeaa ja täyteläistä.",
+      "Kun kastike on lähes kypsää, keitä pasta runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente. Valuta ja kaada takaisin kattilaan.",
+      "lisää persilja kastikkeeseen. Maista ja lisää mausteita tarpeen mukaan. Kaada kastike pastan päälle pannuun ja sekoita kevyesti. Ripottele päälle vastaraastettua parmesaani- tai pecorinojuustoa ja tarjoa.",
+      "HUOM. tämän kastikkeen kanssa käytetään perinteisesti penne rigatea, kuten kuvassa, mutta voit käyttää myös muuta pastaa."
+    ],
+    "nutrition": {
+      "protein_g": 20.0,
+      "fat_g": 25.0,
+      "carbohydrates_g": 95.0,
+      "fiber_g": 9.0,
+      "cholesterol_mg": 20.0
+    }
+  }
+]
