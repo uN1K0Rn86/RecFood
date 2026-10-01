@@ -1,0 +1,973 @@
+[
+    {
+        "name": "Jauheliha-kaalipata",
+        "preparation_time": "20-40",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "2",
+                "unit": "kpl",
+                "name": "sipulia"
+            },
+            {
+                "amount": "1-2",
+                "unit": "kpl",
+                "name": "valkosipulinkynttä"
+            },
+            {
+                "amount": "2",
+                "unit": "kpl",
+                "name": "porkkanaa"
+            },
+            {
+                "amount": "500",
+                "unit": "g",
+                "name": "valkokaalia"
+            },
+            {
+                "amount": "300",
+                "unit": "g",
+                "name": "jauhelihaa"
+            },
+            {
+                "amount": "3-4",
+                "unit": "dl",
+                "name": "vettä"
+            },
+            {
+                "amount": "1",
+                "unit": "tl",
+                "name": "suolaa"
+            },
+            {
+                "amount": "½",
+                "unit": "dl",
+                "name": "riisiä tai rikottuja ohrasuurimoita"
+            },
+            {
+                "amount": "1",
+                "unit": "rkl",
+                "name": "siirappia"
+            },
+            {
+                "amount": "½",
+                "unit": "tl",
+                "name": "kirveliä"
+            },
+            {
+                "amount": "½",
+                "unit": "tl",
+                "name": "meiramia"
+            }
+        ],
+        "instructions": "Kuori sipulit ja porkkanat. Viipaloi porkkanat ja hienonna sipulit ja kaali. Ruskista jauheliha ilman rasvaa padan pohjalla. Lisää kasvikset, vesi, suola ja riisi tai ohra. Hauduta pataa kannen alla 20-40 minuuttia, kunnes suurimot ja kaali ovat kypsiä. Talvikaali vaatii pitemmän kypsymisajan. Lisää loput mausteet ja tarkista maku. Lisää tarvittaessa nestettä.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Juurespihvit",
+        "preparation_time": "10",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "noin 800",
+                "unit": "g",
+                "name": "punajuurta, selleriä, maa-artisokkaa tai palsternakkaa"
+            },
+            {
+                "amount": "1",
+                "unit": "kpl",
+                "name": "muna"
+            },
+            {
+                "amount": "2",
+                "unit": "dl",
+                "name": "korppujauhetta"
+            },
+            {
+                "amount": "1-1½",
+                "unit": "tl",
+                "name": "suolaa"
+            },
+            {
+                "amount": "1",
+                "unit": "tl",
+                "name": "paprikajauhetta"
+            },
+            {
+                "amount": "½",
+                "unit": "tl",
+                "name": "valkopippuria"
+            }
+        ],
+        "instructions": "Pese ja kuori juurekset. Leikkaa ne ½-1 cm paksuiksi viipaleiksi. Paista pihvejä miedolla lämmöllä molemmin puolin, kunnes ne ovat pehmeitä (noin 10 minuuttia). Mausta pihvit. Valmiiden pihvien pinnalle voit ripotella tuoreita yrttejä. Tarjoa pihvit kasvisaterian pääruoaksi sipulirenkaiden kanssa tai liharuoan lisäkkeeksi. Voit leivittää pihvit kääntelemällä ne ensin vatkatussa munassa ja sitten korppujauheessa. Leivitettyjen pihvien paistamiseen tarvitaan runsaasti rasvaa. Voit lyhentää paistoaikaa keittämällä juurekset puolikypsiksi ennen paistamista tai kypsentämällä niitä mikroaaltouunissa kannen alla täydellä teholla 3-4 minuuttia.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Kurpitsapihvit",
+        "preparation_time": "5",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "800",
+                "unit": "g",
+                "name": "kurpitsaa tai kesäkurpitsaa"
+            },
+            {
+                "amount": "1-1½",
+                "unit": "tl",
+                "name": "suolaa"
+            },
+            {
+                "amount": "½",
+                "unit": "tl",
+                "name": "valkopippuria tai mustapippuria"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "name": "timjamia, basilikaa tai muuta yrttimaustetta"
+            },
+            {
+                "amount": "1",
+                "unit": "dl",
+                "name": "smetanaa"
+            },
+            {
+                "amount": "½",
+                "unit": "dl",
+                "name": "vettä"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "name": "rasvaa paistamiseen"
+            }
+        ],
+        "instructions": "Kuori kurpitsa ja leikkaa 1½-1 cm paksuiksi viipaleiksi. Poista siemenet. Kesäkurpitsaa ei kuorita eikä sen siemeniä poisteta. Paista viipaleet molemmin puolin vaaleanruskeaksi ja mausta. Lisää pannulle smetanaa ja vettä. Hauduta noin 5 minuuttia ennen tarjoilua. Tarjoa liharuoan lisäkkeenä. Vinkki: Voit höystää kurpitsapihvit sinihomejuustolla ennen haudutusta.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Tofupihvit",
+        "preparation_time": "10-15",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "200",
+                "unit": "g",
+                "name": "kovaa tofua"
+            },
+            {
+                "amount": "1",
+                "unit": "kpl",
+                "name": "muna"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "name": "öljyä paistamiseen"
+            },
+            {
+                "amount": "½",
+                "unit": "dl",
+                "name": "ruisjauhoja"
+            },
+            {
+                "amount": "½",
+                "unit": "dl",
+                "name": "seesaminsiemeniä, vehnänalkioita tai kauraleseitä"
+            },
+            {
+                "amount": "1",
+                "unit": "rkl",
+                "name": "viinietikkaa"
+            },
+            {
+                "amount": "½",
+                "unit": "dl",
+                "name": "vettä"
+            },
+            {
+                "amount": "½",
+                "unit": "rkl",
+                "name": "hunajaa"
+            },
+            {
+                "amount": "1½",
+                "unit": "rkl",
+                "name": "soijakastiketta"
+            },
+            {
+                "amount": "ripaus",
+                "unit": "",
+                "name": "mustapippuria"
+            },
+            {
+                "amount": "½",
+                "unit": "rkl",
+                "name": "limetti- tai sitruunamehua"
+            },
+            {
+                "amount": "muutama",
+                "unit": "tippa",
+                "name": "tabaskoa"
+            }
+        ],
+        "instructions": "Leikkaa tofu noin 1 cm paksuiksi viipaleiksi. Riko muna lautaselle ja sekoita kevyesti kierrevatkaimella. Kierittele tofuviipaleet ensin jauhoissa, sitten munassa ja viimeiseksi seesaminsiemenissä. Kuumenna öljy paistinpannulla ja lisää tofupihvit. Paista niitä keskilämmöllä molemmilta puolilta, kunnes pinta on saanut väriä, yhteensä 10-15 minuuttia. Sekoita hapanimeläkastikkeen ainekset keskenään ja tarjoa pihvien kera.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Kasvismureke ja -pihvit",
+        "preparation_time": "15-60",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "8",
+                "unit": "dl",
+                "name": "keitettyjä, raastettuja juureksia (selleriä, palsternakkaa, porkkanaa, punajuurta)"
+            },
+            {
+                "amount": "1",
+                "unit": "kpl",
+                "name": "suuri sipuli"
+            },
+            {
+                "amount": "½",
+                "unit": "dl",
+                "name": "smetanaa, ranskankermaa tai kermaviiliä"
+            },
+            {
+                "amount": "1",
+                "unit": "kpl",
+                "name": "muna"
+            },
+            {
+                "amount": "noin 2",
+                "unit": "dl",
+                "name": "vehnäjauhoja tai hiivaleipäjauhoja"
+            },
+            {
+                "amount": "1",
+                "unit": "tl",
+                "name": "suolaa"
+            },
+            {
+                "amount": "½",
+                "unit": "tl",
+                "name": "valko- tai mustapippuria"
+            },
+            {
+                "amount": "2",
+                "unit": "tl",
+                "name": "valkosipulijauhetta"
+            },
+            {
+                "amount": "1",
+                "unit": "tl",
+                "name": "viinietikkaa"
+            },
+            {
+                "amount": "1",
+                "unit": "tl",
+                "name": "timjamia"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "name": "rasvaa paistamiseen"
+            }
+        ],
+        "instructions": "Pese juurekset ja keitä ne kypsiksi. Kuori juurekset ja sipuli ja raasta ne hyvin hienoksi tai hienonna monitoimikoneessa. Sekoita kaikki ainekset keskenään ja mausta. Jos seos on liian löysää, lisää jauhoja. Liian sakean seoksen voit notkistaa kermalla tai maidolla. Voit maustaa seoksen jollakin maustekastikkeella. Muotoile taikinasta pihvejä ja paista niitä pannulla rasvassa tai pellillä leivinpaperin päällä 200 asteen lämmössä noin 15 minuuttia. Pihvitaikinan on oltava kiinteää. Vuoassa paistettava murekeseos saa olla löysähkö. Käytä siihen 2 kananmunaa. Mureke kypsyy 175 asteen lämmössä noin tunnissa ja mikroaaltouunissa täydellä teholla noin 15 minuutissa. Jos et esikeitä kasviksia vaan raastat ne raakoina, kypsennysaika on pidempi. Tarjoa lisäkkeeksi perunoita sekä kermaviili-, voisula- tai keitettyä majoneesikastiketta ja salaattia. Vinkki: Voit korvata osan jauhoista kypsällä riisillä, korppujauheella, soijajauhoilla, kauraleseillä tai seesaminsiemenillä. Meheviä pihvejä saat lisäämällä taikinaan juustoraastetta.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Falafelpyörykät",
+        "preparation_time": "",
+        "servings": "16-20 kpl",
+        "ingredients": [
+            {
+                "amount": "6",
+                "unit": "dl",
+                "name": "liotettuja ja keitettyjä kahviherneitä"
+            },
+            {
+                "amount": "1",
+                "unit": "kpl",
+                "name": "sipuli"
+            },
+            {
+                "amount": "2",
+                "unit": "kpl",
+                "name": "valkosipulinkynttä"
+            },
+            {
+                "amount": "1½",
+                "unit": "dl",
+                "name": "hienonnettua persiljaa"
+            },
+            {
+                "amount": "2",
+                "unit": "rkl",
+                "name": "hienonnettua korianteria"
+            },
+            {
+                "amount": "1",
+                "unit": "tl",
+                "name": "kuivattua korianteria"
+            },
+            {
+                "amount": "1",
+                "unit": "tl",
+                "name": "juustokuminaa"
+            },
+            {
+                "amount": "ripaus",
+                "unit": "",
+                "name": "cayennenpippuria"
+            },
+            {
+                "amount": "1",
+                "unit": "tl",
+                "name": "suolaa"
+            },
+            {
+                "amount": "2",
+                "unit": "kpl",
+                "name": "keltuaista tai 1 muna"
+            },
+            {
+                "amount": "noin 1",
+                "unit": "dl",
+                "name": "vehnäjauhoja"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "name": "öljyä paistamiseen"
+            }
+        ],
+        "instructions": "Hienonna sipuli ja maustevihannekset. Soseuta kaikki aineet monitoimikoneessa mutta vain sen verran, että seos on tasaista (noin 30 sekuntia). Jos seos on löysää, lisää vähän jauhoja. Muotoile seoksesta tasakokoisia pieniä pyöryköitä (16-20 kpl) ja uppopaista ne öljyssä kullanruskeiksi. Vinkki: Voit muotoilla seoksen myös kahvihernepihveiksi ja jauhottaa ne vehnäjauhoilla ennen kypsentämistä. Falafelit ovat arabimaissa ja Israelissa suosittu kasvisruoka.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Sienimureke ja -pihvit",
+        "preparation_time": "15-20",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "5",
+                "unit": "dl",
+                "name": "esikäsiteltyjä, kuumennettuja sieniä"
+            },
+            {
+                "amount": "2",
+                "unit": "kpl",
+                "name": "sipulia"
+            },
+            {
+                "amount": "1-1½",
+                "unit": "dl",
+                "name": "kermaa"
+            },
+            {
+                "amount": "1-1½",
+                "unit": "dl",
+                "name": "korppujauhetta"
+            },
+            {
+                "amount": "2",
+                "unit": "kpl",
+                "name": "munaa"
+            },
+            {
+                "amount": "½",
+                "unit": "dl",
+                "name": "perunajauhoja"
+            },
+            {
+                "amount": "1½",
+                "unit": "tl",
+                "name": "mustapippuria"
+            },
+            {
+                "amount": "1½-2",
+                "unit": "tl",
+                "name": "suolaa"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "name": "rasvaa paistamiseen"
+            }
+        ],
+        "instructions": "Jauha sienet ja sipulit tehosekoittimessa tai hakkaa ne veitsellä työtason päällä hienoksi silpuksi. Anna korppujauheen turvota hetki kermassa. Sekoita kaikki aineet keskenään. Sakeuta tarvittaessa lisäämällä perunajauhoja tai korppujauhetta. Notkista tarvittaessa lisäämällä maitoa. Muotoile seoksesta pihvejä ja paista niitä rasvassa pannulla hitaasti miedolla lämmöllä tai pellillä leivinpaperin päällä 200 asteen lämmössä 15-20 minuuttia. Murekeseos voi olla löysempi kuin pihviseos. Siihen kannattaa käyttää 3 munaa. Paista mureketta voidellussa vuoassa 175 asteen lämmössä noin tunnin ajan, mikroaaltouunissa täydellä teholla noin 15 minuuttia. Tarjoa kuten kasvismureke. Vinkki: Saat meheviä pihvejä, kun lisäät taikinaan juustoraastetta.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Paistetut lanttukuutiot",
+        "preparation_time": "15-25",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "½",
+                "unit": "l",
+                "name": "lanttukuutioita"
+            },
+            {
+                "amount": "½",
+                "unit": "tl",
+                "name": "suolaa"
+            },
+            {
+                "amount": "2",
+                "unit": "tl",
+                "name": "siirappia tai fariinisokeria"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "name": "vettä"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "name": "rasvaa paistamiseen"
+            }
+        ],
+        "instructions": "Ruskista lanttukuutiot (1½ x 1½ cm) rasvassa. Lisää mausteet sekä vähän vettä ja hauduta kannen alla kypsiksi, 15-25 minuuttia.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Paistetut sienet",
+        "preparation_time": "30",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "1",
+                "unit": "l",
+                "name": "puhdistettuja, ryöppäämättä syötäviä sieniä"
+            },
+            {
+                "amount": "1",
+                "unit": "kpl",
+                "name": "sipuli"
+            },
+            {
+                "amount": "2-3",
+                "unit": "rkl",
+                "name": "rasvaa"
+            },
+            {
+                "amount": "3/4",
+                "unit": "tl",
+                "name": "suolaa"
+            },
+            {
+                "amount": "hiven",
+                "unit": "",
+                "name": "valko- tai mustapippuria"
+            }
+        ],
+        "instructions": "Myös muut sienet sopivat tähän ruokaan, mutta ne on ryöpättävä ennen käyttöä. Kuivattujen ja suolattujen sienten käyttö soveltuu myös tähän reseptiin. Paloittele sienet ja sipuli. Pane sienet kuumalle pannulle ja anna kosteuden haihtua niistä. Lisää rasva ja hienonnettu sipuli. Hauduta kypsäksi silloin tällöin sekoittaen, noin puoli tuntia. Mausta sienet suolalla ja pippurilla. Halutessasi voit höystää ne kermalla. Tarjoa sienet sellaisenaan tai liha- tai kalaruoan lisäkkeenä. Sieni-kinkkupannu: Paista sienten kanssa hienonnettua kinkkua. Tarjoa pääruoaksi esimerkiksi perunasoseen kanssa.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Paistettu kasvisraaste",
+        "preparation_time": "20",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "½",
+                "unit": "kg",
+                "name": "punajuurta, selleriä tai palsternakkaa"
+            },
+            {
+                "amount": "2",
+                "unit": "rkl",
+                "name": "öljyä"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "name": "vettä"
+            },
+            {
+                "amount": "1",
+                "unit": "tl",
+                "name": "suolaa"
+            },
+            {
+                "amount": "hiven",
+                "unit": "",
+                "name": "valkopippuria"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "name": "kermaa tai smetanaa"
+            }
+        ],
+        "instructions": "Pese, kuori ja raasta juurekset. Paista raastetta öljyssä paistinpannulla jatkuvasti käännellen noin 5 minuuttia. Lisää vähän vettä ja hauduta kannen alla kypsäksi, noin 15 minuuttia. Mausta raaste haudutuksen lopulla. Halutessasi voit höystää kypsän raasteen tilkalla kermaa tai smetanaa. Tarjoa liharuoan lisäkkeeksi. Voit maustaa raasteen erilaisilla yrttiseoksilla.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Paistetut sipulirenkaat",
+        "preparation_time": "5-10",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "3-4",
+                "unit": "kpl",
+                "name": "sipulia"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "name": "rasvaa"
+            },
+            {
+                "amount": "½",
+                "unit": "tl",
+                "name": "suolaa"
+            }
+        ],
+        "instructions": "Kuori sipulit ja leikkaa ne renkaiksi. Paista renkaat miedolla lämmöllä pehmeiksi ja kullanruskeiksi, 5-10 minuuttia, ja mausta suolalla. Tarjoa liharuokien lisäkkeenä. Haudutetut sipulirenkaat: Hauduta sipulirenkaat mausteisessa vesitilkassa (1-1½ dl vettä, 1 rkl soijakastiketta, hiven mustapippuria ja 1½ tl paprikajauhetta). Voit myös hauduttaa sipulit liha- tai kasvisliemessä. Mikroaaltouunissa sipulit kypsyvät täydellä teholla noin 4 minuutissa.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Paistetut kasvikset kiinalaisittain",
+        "preparation_time": "",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "2",
+                "unit": "kpl",
+                "name": "porkkanaa"
+            },
+            {
+                "amount": "1",
+                "unit": "kpl",
+                "name": "purjo"
+            },
+            {
+                "amount": "1",
+                "unit": "kpl",
+                "name": "punainen paprika"
+            },
+            {
+                "amount": "1",
+                "unit": "kpl",
+                "name": "vihreä paprika"
+            },
+            {
+                "amount": "2",
+                "unit": "kpl",
+                "name": "ananasrengasta"
+            },
+            {
+                "amount": "1",
+                "unit": "dl",
+                "name": "herneitä"
+            },
+            {
+                "amount": "2",
+                "unit": "rkl",
+                "name": "öljyä"
+            },
+            {
+                "amount": "2",
+                "unit": "rkl",
+                "name": "soijakastiketta"
+            },
+            {
+                "amount": "2",
+                "unit": "tl",
+                "name": "sokeria"
+            },
+            {
+                "amount": "1",
+                "unit": "tl",
+                "name": "inkivääriä"
+            },
+            {
+                "amount": "2",
+                "unit": "kpl",
+                "name": "valkosipulinkynttä"
+            },
+            {
+                "amount": "hiven",
+                "unit": "",
+                "name": "chilipippuria"
+            },
+            {
+                "amount": "1",
+                "unit": "dl",
+                "name": "vettä"
+            },
+            {
+                "amount": "1",
+                "unit": "rkl",
+                "name": "maissijauhoja"
+            }
+        ],
+        "instructions": "Pese ja kuori porkkanat. Pese muut kasvikset ja leikkaa ne suikaleiksi. Kuumenna öljy vokissa tai pinnoitetussa pannussa ja lisää mausteet. Kiehauta mausteet öljyssä. Lisää kasvikset ja kääntele niitä pannulla muutaman minuutin ajan. Sekoita suurus ja lisää kasvisten joukkoon. Kypsennä vielä 3 minuuttia. Kasvisten tulee jäädä hieman koviksi.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Vokkikasvikset",
+        "preparation_time": "",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "2",
+                "unit": "kpl",
+                "name": "sipulia"
+            },
+            {
+                "amount": "3",
+                "unit": "kpl",
+                "name": "valkosipulinkynttä"
+            },
+            {
+                "amount": "2",
+                "unit": "kpl",
+                "name": "porkkanaa"
+            },
+            {
+                "amount": "1",
+                "unit": "kpl",
+                "name": "paprika"
+            },
+            {
+                "amount": "1",
+                "unit": "kpl",
+                "name": "chili"
+            },
+            {
+                "amount": "1",
+                "unit": "kpl",
+                "name": "pieni kesäkurpitsa"
+            },
+            {
+                "amount": "3-4",
+                "unit": "kpl",
+                "name": "kiinankaalinlehteä"
+            },
+            {
+                "amount": "4",
+                "unit": "kpl",
+                "name": "ananasrengasta"
+            },
+            {
+                "amount": "2",
+                "unit": "rkl",
+                "name": "öljyä"
+            },
+            {
+                "amount": "1",
+                "unit": "dl",
+                "name": "ananasmehua"
+            },
+            {
+                "amount": "1",
+                "unit": "rkl",
+                "name": "soijakastiketta"
+            },
+            {
+                "amount": "½",
+                "unit": "rkl",
+                "name": "sitruunamehua"
+            },
+            {
+                "amount": "1",
+                "unit": "rkl",
+                "name": "fariinisokeria"
+            },
+            {
+                "amount": "½",
+                "unit": "tl",
+                "name": "raastettua inkivääriä"
+            },
+            {
+                "amount": "1½",
+                "unit": "dl",
+                "name": "kana- tai kasvislientä"
+            },
+            {
+                "amount": "2",
+                "unit": "tl",
+                "name": "maissitärkkelystä"
+            },
+            {
+                "amount": "1",
+                "unit": "rkl",
+                "name": "soijakastiketta"
+            },
+            {
+                "amount": "½",
+                "unit": "tl",
+                "name": "sokeria"
+            },
+            {
+                "amount": "ripaus",
+                "unit": "",
+                "name": "suolaa"
+            }
+        ],
+        "instructions": "Kuori sipulit ja porkkanat. Halkaise paprika (ja chili) ja poista siemenet. Hienonna sipuli, valkosipuli (ja chili) ja leikkaa muut kasvikset ohuiksi suikaleiksi. Paloittele ananasrenkaat. Kuullota sipuli, valkosipuli (ja chili) öljyssä vokissa tai suuressa paistinpannussa. Lisää muut kasvikset ja sekoittele muutamia minuutteja. Sekoita kastike 1 tai kastike 2 tasaiseksi ja lisää se vokkiin koko ajan hämmentäen. Kypsennä vielä pari minuuttia. Kasvisten tulee olla kiinteitä tarjotessa. Vinkki: Voit paloitella vokkiin kiinteää tofua ja muita kasviksia tai käyttää valmiita kasvissekoituksia.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Juureskastike",
+        "preparation_time": "30",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "1 l",
+                "unit": "",
+                "name": "juuresraastetta (punajuurta, selleriä, palsternakkaa, porkkanaa)"
+            },
+            {
+                "amount": "½",
+                "unit": "tl",
+                "name": "mustapippuria"
+            },
+            {
+                "amount": "2",
+                "unit": "kpl",
+                "name": "sipulia"
+            },
+            {
+                "amount": "1",
+                "unit": "tl",
+                "name": "suolaa"
+            },
+            {
+                "amount": "2",
+                "unit": "rkl",
+                "name": "öljyä"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "name": "persiljaa"
+            },
+            {
+                "amount": "½",
+                "unit": "l",
+                "name": "vettä"
+            },
+            {
+                "amount": "1",
+                "unit": "dl",
+                "name": "smetanaa tai ranskankermaa"
+            },
+            {
+                "amount": "1",
+                "unit": "rkl",
+                "name": "soijakastiketta"
+            },
+            {
+                "amount": "",
+                "unit": "",
+                "name": "timjamia tai muuta yrttimaustetta"
+            }
+        ],
+        "instructions": "Pese, kuori ja raasta juurekset ja sipulit. Kiehauta sipuliraaste öljyssä kasarissa. Lisää juuresraaste ja vesi. Mausta. Hauduta kannen alla noin puoli tuntia. Tarkista maku. Ripottele pinnalle runsaasti persiljaa ennen tarjoilua. Lisää smetana tai ranskankerma lopuksi kastikkeen päälle tai tarjoa erikseen yrttimausteilla maustettuna. Tarjoa kastike perunoiden, pastan tai kokojyväriisin kanssa. Vinkki: Voit valmistaa kastikkeen myös vihanneksista, kuten paprikasta tai kesäkurpitsasta. Vihanneksia ei tarvitse raastaa, vaan voit paloitella ne kastikkeeseen. Kasvis-juustokastike: Valmista juureskastikkeen tapaan kypsentämällä paloiteltuja kasviksia. Lisää 150 g paloiteltua sulatejuustoa haudutuksen puolivälissä. Jätä smetana tai ranskankerma pois. Vinkki: Voit tehdä kasvis-juustokastikkeen myös valmistamalla vaalean peruskastikkeen, sulattamalla siihen 100 g sulatejuustoa ja lisäämällä kastikkeeseen noin ½ kg esikäsiteltyjä, haudutettuja kasviksia.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Sienimuhennos",
+        "preparation_time": "15",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "1",
+                "unit": "l",
+                "name": "puhdistettuja sieniä (herkkusieniä, kantarelleja, tatteja tai suppilovahveroita)"
+            },
+            {
+                "amount": "1",
+                "unit": "kpl",
+                "name": "sipuli"
+            },
+            {
+                "amount": "25-50",
+                "unit": "g",
+                "name": "rasvaa"
+            },
+            {
+                "amount": "1-1½",
+                "unit": "rkl",
+                "name": "vehnäjauhoja"
+            },
+            {
+                "amount": "3-4",
+                "unit": "dl",
+                "name": "maitoa tai kermaa"
+            },
+            {
+                "amount": "noin 1",
+                "unit": "tl",
+                "name": "suolaa"
+            },
+            {
+                "amount": "hiven",
+                "unit": "",
+                "name": "valkopippuria"
+            }
+        ],
+        "instructions": "Hienonna sienet. Kuori ja hienonna sipuli. Keitä sieniä ja sipulia omassa liemessään. Kun liemi on haihtunut, lisää rasva ja keitä sieniä vielä vähän aikaa. Ripottele jauhot sienten päälle ja sekoita hyvin. Kun jauhot ovat turvonneet, lisää neste. Hauduta noin 15 minuuttia ja mausta. Juhlavaa sienimuhennosta haudutetaan pitkään ja siihen lisätään kermaa haudutuksen aikana pienissä erissä.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    },
+    {
+        "name": "Hernemuhennos (kuivatuista herneistä)",
+        "preparation_time": "12 h + 1-1½ h",
+        "servings": "",
+        "ingredients": [
+            {
+                "amount": "1½",
+                "unit": "dl",
+                "name": "kuivattuja herneitä"
+            },
+            {
+                "amount": "½",
+                "unit": "l",
+                "name": "vettä"
+            },
+            {
+                "amount": "½",
+                "unit": "rkl",
+                "name": "margariinia tai voita"
+            },
+            {
+                "amount": "½",
+                "unit": "tl",
+                "name": "sokeria"
+            },
+            {
+                "amount": "½",
+                "unit": "tl",
+                "name": "suolaa"
+            },
+            {
+                "amount": "1",
+                "unit": "tl",
+                "name": "sinappia"
+            }
+        ],
+        "instructions": "Huuhdo herneet ja liota niitä vedessä noin 12 tuntia. Lisää rasva ja sokeri. Keitä herneet pehmeiksi, 1-1½ tuntia. Mausta ja tarjoa muhennos sianliharuokien lisäkkeenä.",
+        "nutrition": {
+            "protein_g": null,
+            "fat_g": null,
+            "carbohydrates_g": null,
+            "fiber_g": null,
+            "cholesterol_mg": null,
+            "energy_kcal": null
+        }
+    }
+]

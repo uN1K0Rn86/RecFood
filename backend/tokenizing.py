@@ -24,16 +24,26 @@ def clean_ingredient_name(name):
 def tokenize_ingredient(name):
     return name.split()
 
-# HUOM! Tähän pitää korvata oma json-reseptitiedosto
-with open("<OMA-RESEPTI-JSON>", "r", encoding="utf-8") as f:
-    recipes = json.load(f)
+json_files = [
+    "recipes_sami.json",
+    "recipes_sandra.json",
+    "reseptit_mari.json"
+]
 
-for recipe in recipes:
-    for ingredient in recipe["ingredients"]:
-        ingredient["clean_name"] = clean_ingredient_name(ingredient["name"])
+all_recipes = []
 
-        ingredient["tokens"] = tokenize_ingredient(ingredient["clean_name"])
-        #print(ingredient["tokens"])
+for filename in json_files:
+    with open(filename, "r", encoding="utf-8") as f:
+        recipes = json.load(f)
+
+    for recipe in recipes:
+        for ingredient in recipe["ingredients"]:
+            ingredient["clean_name"] = clean_ingredient_name(ingredient["name"])
+
+            ingredient["tokens"] = tokenize_ingredient(ingredient["clean_name"])
+            #print(ingredient["tokens"])
+
+    all_recipes.extend(recipes)
 
 # name = "Raastettua valkokaalia"
 # tokens = tokenize_ingredient(name)
@@ -42,7 +52,7 @@ for recipe in recipes:
 # HUOM! Yhteinen json sitten meidän kaikkien tokenisoiduille resepteille
 with open("recipes_tokenized.json", "w", encoding="utf-8") as f:
     json.dump(
-        recipes,
+        all_recipes,
         f,
         ensure_ascii=False,
         indent=2
