@@ -1,0 +1,2554 @@
+[
+  {
+    "name": "Värikäs paprika-fetapiirakka",
+    "ingredients": [
+      {
+        "amount": "2",
+        "unit": "pkt",
+        "name": "(400g) Pirkka piirakkataikinaa",
+        "clean_name": "piirakkataikinaa",
+        "tokens": [
+          "piirakkataikinaa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "iso (n. 200g) keltainen paprika",
+        "clean_name": "keltainen paprika",
+        "tokens": [
+          "keltainen",
+          "paprika"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "iso (n. 200g) punainen paprika",
+        "clean_name": "punainen paprika",
+        "tokens": [
+          "punainen",
+          "paprika"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "pieni (n. 100g) vihreä paprika",
+        "clean_name": "vihreä paprika",
+        "tokens": [
+          "vihreä",
+          "paprika"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tlk",
+        "name": "(385g) Pirkka salaattijuustokuutioita suolavedessä",
+        "clean_name": "salaattijuustokuutioita suolavedessä",
+        "tokens": [
+          "salaattijuustokuutioita",
+          "suolavedessä"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Kourallinen oliiveja",
+        "clean_name": "kourallinen oliiveja",
+        "tokens": [
+          "kourallinen",
+          "oliiveja"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rs",
+        "name": "(200g) Pirkka kevyt Italian yrtit tuorejuustoa",
+        "clean_name": "kevyt italian yrtit tuorejuustoa",
+        "tokens": [
+          "kevyt",
+          "italian",
+          "yrtit",
+          "tuorejuustoa"
+        ]
+      },
+      {
+        "amount": "3",
+        "unit": "dl",
+        "name": "Pirkka ruokakermaa",
+        "clean_name": "ruokakermaa",
+        "tokens": [
+          "ruokakermaa"
+        ]
+      },
+      {
+        "amount": "4",
+        "unit": "",
+        "name": "kananmunaa",
+        "clean_name": "kananmunaa",
+        "tokens": [
+          "kananmunaa"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "rkl",
+        "name": "hienonnettuja tuoreita yrttejä (basilika, rosmariini, oregano)",
+        "clean_name": "hienonnettuja tuoreita yrttejä",
+        "tokens": [
+          "hienonnettuja",
+          "tuoreita",
+          "yrttejä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tl",
+        "name": "suolaa",
+        "clean_name": "suolaa",
+        "tokens": [
+          "suolaa"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Sulata piirakkataikinat ja painele nen yhteen. Kauli taikina uunipannun kokoiseksi levyksi leivinpaperin päällä.",
+      "2. Leikkaa paprikat pieniksi kuutioiksi ja levitä tasaisesti pohjalle. Siivilöi salaattijuustokuutiot liemestä ja murenna niitä hiukan. Ripottele juustot tasaisesti piirakan pinnalle. Halkaise oliivit ja painele puolikkaat piirakan päälle tasaisin välein.",
+      "3. Sekoita tuorejuusto ja ruokakerma keskenään, vatkaa joukkoon munat. Mausta yrteillä ja suolalla.",
+      "4. Kaada liemi piirakan päälle ja paista 225 asteessa uunissa alatasolla 25 minuuttia, kunnes täyte on täysin hyytynyt ja pohja kypsä. Leikkaa piirakka noin 6 x 6 cm:n neliöiksi. Tarjoa haaleana tai kylmänä."
+    ]
+  },
+  {
+    "name": "Churros",
+    "servings": "n. 20 kpl",
+    "ingredients": [
+      {
+        "amount": "2,5",
+        "unit": "del",
+        "name": "vettä",
+        "clean_name": "vettä",
+        "tokens": [
+          "vettä"
+        ]
+      },
+      {
+        "amount": "100",
+        "unit": "g",
+        "name": "voita",
+        "clean_name": "voita",
+        "tokens": [
+          "voita"
+        ]
+      },
+      {
+        "amount": "¼",
+        "unit": "tl",
+        "name": "suolaa",
+        "clean_name": "suolaa",
+        "tokens": [
+          "suolaa"
+        ]
+      },
+      {
+        "amount": "2,5",
+        "unit": "dl",
+        "name": "vehnäjauhoja",
+        "clean_name": "vehnäjauhoja",
+        "tokens": [
+          "vehnäjauhoja"
+        ]
+      },
+      {
+        "amount": "3",
+        "unit": "",
+        "name": "munaa",
+        "clean_name": "munaa",
+        "tokens": [
+          "munaa"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Mittaa vesi, voi sekä suola kattilaan ja kiehauta. Lisää jauhot ja vatkaa voimakkaasti muutama minuutti, kunnes taikinasta muodostuu pallo. Nosta kattila liedeltä.",
+      "2. Vatkaa munat toisessa kulhossa kevyesti vaahdoksi. Kaada munavaahto vähitellen lämpimän taikinan joukkoon samalla vatkaten. Siirrä taikina pursotuspussiin tai muovipussiin, josta leikkaat kulman pois.",
+      "3. Kuumenna öljy uppopaistamista varten suurehkossa kattilassa. Öljy on riittävän kuumaa, kun siihen pudotettu taikinapala nousee heti pintaan, ja öljy alkaa voimakkaasti kuplia.",
+      "4. Pursota taikinasta öljyyn sormenpaksuisia, reilun kymmenen sentin paksuisia paloja. Voit leikata taikinan poikki saksilla. Varo, ettei taikinapussi koske kuumaan öljyyn. Paista muutama churro kerrallaan molemmin puolin reilusti ruskeaksi. Nosta churrot reikäkauhalla talouspaperin päälle valumaan ja kääntele leivonnaiset sitten sokerissa. Halutessasi voit maustaa sokerin kanelilla tai käyttää valmista kaneli-sokeriseosta."
+    ]
+  },
+  {
+    "name": "Salmiakkiletut (n. 20 pientä)",
+    "ingredients": [
+      {
+        "amount": "5",
+        "unit": "dl",
+        "name": "kivennäisvettä",
+        "clean_name": "kivennäisvettä",
+        "tokens": [
+          "kivennäisvettä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "dl",
+        "name": "lakritsikastiketta",
+        "clean_name": "lakritsikastiketta",
+        "tokens": [
+          "lakritsikastiketta"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "ps",
+        "name": "(250g) ohukais- ja vohvelijauheseosta",
+        "clean_name": "ohukais- ja vohvelijauheseosta",
+        "tokens": [
+          "ohukais-",
+          "ja",
+          "vohvelijauheseosta"
+        ]
+      },
+      {
+        "amount": "4",
+        "unit": "rkl",
+        "name": "hienonnettuja turkinpippureita",
+        "clean_name": "hienonnettuja turkinpippureita",
+        "tokens": [
+          "hienonnettuja",
+          "turkinpippureita"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Mittaa kivennäisvesi ja lakritsikastike kulhoon. Vispaa jauheseos joukkoon.",
+      "2. Sekoita taikinaan pieniksi rouhitut turkinpippurit.",
+      "3. Anna taikinan turvota 10-15 minuuttia. Paista letut keskilämmöllä molemmin puolin. Tarjoile lakritsikastikkeen kera."
+    ]
+  },
+  {
+    "name": "Tulinen suppilovahverokeitto",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "l",
+        "name": "(n. 200g) suppilovahveroita",
+        "clean_name": "suppilovahveroita",
+        "tokens": [
+          "suppilovahveroita"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "sipuli",
+        "clean_name": "sipuli",
+        "tokens": [
+          "sipuli"
+        ]
+      },
+      {
+        "amount": "1-2",
+        "unit": "",
+        "name": "valkosipulinkynttä",
+        "clean_name": "valkosipulinkynttä",
+        "tokens": [
+          "valkosipulinkynttä"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "rkl",
+        "name": "voita",
+        "clean_name": "voita",
+        "tokens": [
+          "voita"
+        ]
+      },
+      {
+        "amount": "1-2",
+        "unit": "tl",
+        "name": "sambal oelekia",
+        "clean_name": "sambal oelekia",
+        "tokens": [
+          "sambal",
+          "oelekia"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "rkl",
+        "name": "vehnäjauhoja",
+        "clean_name": "vehnäjauhoja",
+        "tokens": [
+          "vehnäjauhoja"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "prk (500g) tomaattimurskaa",
+        "clean_name": "prk tomaattimurskaa",
+        "tokens": [
+          "prk",
+          "tomaattimurskaa"
+        ]
+      },
+      {
+        "amount": "5",
+        "unit": "dl",
+        "name": "vettä",
+        "clean_name": "vettä",
+        "tokens": [
+          "vettä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rkl",
+        "name": "hunajaa",
+        "clean_name": "hunajaa",
+        "tokens": [
+          "hunajaa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tl",
+        "name": "suolaa",
+        "clean_name": "suolaa",
+        "tokens": [
+          "suolaa"
+        ]
+      },
+      {
+        "amount": "½",
+        "unit": "tl",
+        "name": "kuivattua timjamia",
+        "clean_name": "kuivattua timjamia",
+        "tokens": [
+          "kuivattua",
+          "timjamia"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Puhdista ja paloittele suppilovahverot. Hienonna sipuli ja valkosipulinkynsi.",
+      "2. Sulata voi ison kattilan pohjalla. Paista sieniä miedolla lämmöllä, kunnes suurin osa nesteestä on haihtunut. Lisää sipulit ja kuullota. Pyöräytä joukkoon sambal oelek ja vehnäjauhot.",
+      "3. Kaada kattilaan tomaattimurska ja vesi, jolla olet huuhtonut tomaattitölkin. Mausta hunajalla, suolalla ja timjamilla.",
+      "4. Keitä miedolla lämmöllä kannen alla välillä sekoittaen noin 10 minuuttia. Tarkista maku ja tarjoile."
+    ]
+  },
+  {
+    "name": "Kikhernepyörykät",
+    "servings": "n. 4 annosta",
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "tlk",
+        "name": "(380g) kypsiä kikherneitä",
+        "clean_name": "kypsiä kikherneitä",
+        "tokens": [
+          "kypsiä",
+          "kikherneitä"
+        ]
+      },
+      {
+        "amount": "½",
+        "unit": "dl",
+        "name": "persiljaa hienonnettuna",
+        "clean_name": "persiljaa hienonnettuna",
+        "tokens": [
+          "persiljaa",
+          "hienonnettuna"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "valkosipulinkyni",
+        "clean_name": "valkosipulinkyni",
+        "tokens": [
+          "valkosipulinkyni"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "kananmuna",
+        "clean_name": "kananmuna",
+        "tokens": [
+          "kananmuna"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "rkl",
+        "name": "maissitärkkelystä",
+        "clean_name": "maissitärkkelystä",
+        "tokens": [
+          "maissitärkkelystä"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "rkl",
+        "name": "sitruunamehua",
+        "clean_name": "sitruunamehua",
+        "tokens": [
+          "sitruunamehua"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rkl",
+        "name": "jeeraa",
+        "clean_name": "jeeraa",
+        "tokens": [
+          "jeeraa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tl",
+        "name": "suolaa",
+        "clean_name": "suolaa",
+        "tokens": [
+          "suolaa"
+        ]
+      },
+      {
+        "amount": "½",
+        "unit": "tl",
+        "name": "chilimaustetta",
+        "clean_name": "chilimaustetta",
+        "tokens": [
+          "chilimaustetta"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "maustamatonta jogurttia",
+        "clean_name": "maustamatonta jogurttia",
+        "tokens": [
+          "maustamatonta",
+          "jogurttia"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tl",
+        "name": "sitruunamehua",
+        "clean_name": "sitruunamehua",
+        "tokens": [
+          "sitruunamehua"
+        ]
+      },
+      {
+        "amount": "½",
+        "unit": "tl",
+        "name": "suolaa",
+        "clean_name": "suolaa",
+        "tokens": [
+          "suolaa"
+        ]
+      },
+      {
+        "amount": "¼",
+        "unit": "tl",
+        "name": "mustapippuria",
+        "clean_name": "mustapippuria",
+        "tokens": [
+          "mustapippuria"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Huuhtele ja valuta kikherneet.",
+      "2. Sekoita kaikki aineet murekemassaksi yleiskoneella.",
+      "3. Muotoile massasta pyöryköitä ja nosta leivinpaperoidulle pellille.",
+      "4. Paista 200-asteessa noin 20 minuuttia.",
+      "5. Sekoita kastikkeen aineet keskenään ja anna tekeytyä jääkaapissa pyöryköiden paistamisen ajan."
+    ]
+  },
+  {
+    "name": "Kaali-kookoskeitto",
+    "servings": "4 annosta",
+    "ingredients": [
+      {
+        "amount": "1/½",
+        "unit": "rkl",
+        "name": "rypsiöljyä",
+        "clean_name": "rypsiöljyä",
+        "tokens": [
+          "rypsiöljyä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rkl",
+        "name": "currytahnaa",
+        "clean_name": "currytahnaa",
+        "tokens": [
+          "currytahnaa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tl",
+        "name": "paprikajauhetta",
+        "clean_name": "paprikajauhetta",
+        "tokens": [
+          "paprikajauhetta"
+        ]
+      },
+      {
+        "amount": "1/2",
+        "unit": "tl",
+        "name": "ti jauhettua muskottipahkinää",
+        "clean_name": "ti jauhettua muskottipahkinää",
+        "tokens": [
+          "ti",
+          "jauhettua",
+          "muskottipahkinää"
+        ]
+      },
+      {
+        "amount": "500",
+        "unit": "g",
+        "name": "raastettua valkokaalia",
+        "clean_name": "raastettua valkokaalia",
+        "tokens": [
+          "raastettua",
+          "valkokaalia"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "raastettu porkkana",
+        "clean_name": "raastettu porkkana",
+        "tokens": [
+          "raastettu",
+          "porkkana"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "sipuli hienonnettuna",
+        "clean_name": "sipuli hienonnettuna",
+        "tokens": [
+          "sipuli",
+          "hienonnettuna"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "",
+        "name": "valkosipulinkynttä hienonnettuna",
+        "clean_name": "valkosipulinkynttä hienonnettuna",
+        "tokens": [
+          "valkosipulinkynttä",
+          "hienonnettuna"
+        ]
+      },
+      {
+        "amount": "4",
+        "unit": "dl",
+        "name": "kookosmaitoa",
+        "clean_name": "kookosmaitoa",
+        "tokens": [
+          "kookosmaitoa"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "vettä",
+        "clean_name": "vettä",
+        "tokens": [
+          "vettä"
+        ]
+      },
+      {
+        "amount": "1 1/2",
+        "unit": "rkl",
+        "name": "kasvisfondia",
+        "clean_name": "kasvisfondia",
+        "tokens": [
+          "kasvisfondia"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rkl",
+        "name": "soijakastiketta",
+        "clean_name": "soijakastiketta",
+        "tokens": [
+          "soijakastiketta"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tl",
+        "name": "inkivääriä raastettuna (tuore)",
+        "clean_name": "inkivääriä raastettuna",
+        "tokens": [
+          "inkivääriä",
+          "raastettuna"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "tl",
+        "name": "mustapippuria",
+        "clean_name": "mustapippuria",
+        "tokens": [
+          "mustapippuria"
+        ]
+      }
+    ],
+    "instructions": [
+      "KUUMENNA öljy kattilasssa. Lisää mausteet ja kuumenna hetki sekoitellen.",
+      "KUMOA kaali, porkkana ja sipulit kattilaan. Kuullota kasviksia 10 minuutin ajan.",
+      "LISÄÄ kookosmaito, vesi, fondi, soija ja inkivääri. Hauduta keittoa noin 15 minuuttia.",
+      "MAUSTA pippurilla. Ripottele pinnalle kookoshiutaleita halutessasi paahdettuja cashewpähkinöitä."
+    ]
+  },
+  {
+    "name": "Tuorepuuro",
+    "ingredients": [
+      {
+        "amount": "3",
+        "unit": "dl",
+        "name": "jogurttia",
+        "clean_name": "jogurttia",
+        "tokens": [
+          "jogurttia"
+        ]
+      },
+      {
+        "amount": "½",
+        "unit": "dl",
+        "name": "pähkinärouhetta",
+        "clean_name": "pähkinärouhetta",
+        "tokens": [
+          "pähkinärouhetta"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "dl",
+        "name": "pikakaurahiutaleita",
+        "clean_name": "pikakaurahiutaleita",
+        "tokens": [
+          "pikakaurahiutaleita"
+        ]
+      },
+      {
+        "amount": "½",
+        "unit": "dl",
+        "name": "vehnänalkioita tai -leseitä",
+        "clean_name": "vehnänalkioita tai -leseitä",
+        "tokens": [
+          "vehnänalkioita",
+          "tai",
+          "-leseitä"
+        ]
+      },
+      {
+        "amount": "½",
+        "unit": "dl",
+        "name": "kuivattuja hedelmiä",
+        "clean_name": "kuivattuja hedelmiä",
+        "tokens": [
+          "kuivattuja",
+          "hedelmiä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rkl",
+        "name": "hunajaa",
+        "clean_name": "hunajaa",
+        "tokens": [
+          "hunajaa"
+        ]
+      }
+    ],
+    "instructions": [
+      "Sekoita kaikki keskenään ja anna tekeytyä jääkaapissa vähintään 5 tuntia."
+    ]
+  },
+  {
+    "name": "Mausteinen linssi-juurespata",
+    "ingredients": [
+      {
+        "amount": "3",
+        "unit": "dl",
+        "name": "vihreitä linssejä",
+        "clean_name": "vihreitä linssejä",
+        "tokens": [
+          "vihreitä",
+          "linssejä"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "",
+        "name": "porkkanaa",
+        "clean_name": "porkkanaa",
+        "tokens": [
+          "porkkanaa"
+        ]
+      },
+      {
+        "amount": "100",
+        "unit": "g",
+        "name": "selleriä",
+        "clean_name": "selleriä",
+        "tokens": [
+          "selleriä"
+        ]
+      },
+      {
+        "amount": "100",
+        "unit": "g",
+        "name": "palsternakkaa",
+        "clean_name": "palsternakkaa",
+        "tokens": [
+          "palsternakkaa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "sipuli",
+        "clean_name": "sipuli",
+        "tokens": [
+          "sipuli"
+        ]
+      },
+      {
+        "amount": "3",
+        "unit": "",
+        "name": "valkosipulinkynttä",
+        "clean_name": "valkosipulinkynttä",
+        "tokens": [
+          "valkosipulinkynttä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rkl",
+        "name": "hienonnettua inkivääriä",
+        "clean_name": "hienonnettua inkivääriä",
+        "tokens": [
+          "hienonnettua",
+          "inkivääriä"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tl",
+        "name": "juustokuminaa",
+        "clean_name": "juustokuminaa",
+        "tokens": [
+          "juustokuminaa"
+        ]
+      },
+      {
+        "amount": "½",
+        "unit": "tl",
+        "name": "chilipippuria",
+        "clean_name": "chilipippuria",
+        "tokens": [
+          "chilipippuria"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "rkl",
+        "name": "tomaattisosetta",
+        "clean_name": "tomaattisosetta",
+        "tokens": [
+          "tomaattisosetta"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rkl",
+        "name": "öljyä",
+        "clean_name": "öljyä",
+        "tokens": [
+          "öljyä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rkl",
+        "name": "voita",
+        "clean_name": "voita",
+        "tokens": [
+          "voita"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "kanelitanko",
+        "clean_name": "kanelitanko",
+        "tokens": [
+          "kanelitanko"
+        ]
+      },
+      {
+        "amount": "3",
+        "unit": "",
+        "name": "neilikkaa",
+        "clean_name": "neilikkaa",
+        "tokens": [
+          "neilikkaa"
+        ]
+      },
+      {
+        "amount": "5",
+        "unit": "dl",
+        "name": "kasvislientä",
+        "clean_name": "kasvislientä",
+        "tokens": [
+          "kasvislientä"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "kookoskermaa",
+        "clean_name": "kookoskermaa",
+        "tokens": [
+          "kookoskermaa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rkl",
+        "name": "hunajaa",
+        "clean_name": "hunajaa",
+        "tokens": [
+          "hunajaa"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Mausteita",
+        "clean_name": "mausteita",
+        "tokens": [
+          "mausteita"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Keitä linssit pakkauksen ohjeen mukaan. Kuori ja paloittele juurekset, kuori ja silppua sipuli ja valkosipulinkynnet.",
+      "2. Kuumenna voi-öljyseos padassa. Lisää inkivääri, sipulit, juustokumina, chili ja tomaattisose. Kuumenna sekoitellen hetki.",
+      "3. Lisää kaneli ja neilikat sekä juurekset, kuumenna hetki. Kaada päälle kasvisliemi. Kypsennä puolisen tuntia.",
+      "4. Lisää linssit, kookoskerma ja hunaja. Mausta suolalla ja pippurilla. Anna kiehua 5 minuuttia. Silppua päälle persiljaa tai korianteria."
+    ]
+  },
+  {
+    "name": "Intialainen linssicurry",
+    "servings": "n. 2:lle",
+    "ingredients": [
+      {
+        "amount": "3",
+        "unit": "",
+        "name": "perunaa",
+        "clean_name": "perunaa",
+        "tokens": [
+          "perunaa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "porkkana",
+        "clean_name": "porkkana",
+        "tokens": [
+          "porkkana"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "sipuli",
+        "clean_name": "sipuli",
+        "tokens": [
+          "sipuli"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "valkosipuli",
+        "clean_name": "valkosipuli",
+        "tokens": [
+          "valkosipuli"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "tölkki punaisia linssejä (liemessä)",
+        "clean_name": "tölkki punaisia linssejä",
+        "tokens": [
+          "tölkki",
+          "punaisia",
+          "linssejä"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Öljyä",
+        "clean_name": "öljyä",
+        "tokens": [
+          "öljyä"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Currya n. 2-3 tl",
+        "clean_name": "currya n. 2-3 tl",
+        "tokens": [
+          "currya",
+          "n.",
+          "2-3",
+          "tl"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Limeä",
+        "clean_name": "limeä",
+        "tokens": [
+          "limeä"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Lehtipersiljaa",
+        "clean_name": "lehtipersiljaa",
+        "tokens": [
+          "lehtipersiljaa"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Kuori sipulit, perunat ja porkkana.",
+      "2. Hienonna sipulit ja kuutioi perunat ja porkkana n. 1 cm kuutioiksi.",
+      "3. Lämmitä laakea kasari tai kattila keskilämmöllä ja lisää joukkoon öljy ja curry.",
+      "4. Kuullota currya n. 1 min ja lisää sitten mukaan kaikki kasvikset.",
+      "5. Kuullota kasviksia n. 3 min ja lisää sitten linssit.",
+      "6. Kaada päälle vettä niin että kasvikset peittyvät juuri ja juuri.",
+      "7. Hauduta, lisää vettä jos tarve. Mausta limellä ja pippurilla."
+    ]
+  },
+  {
+    "name": "Rapsakka raparperipaistos",
+    "ingredients": [
+      {
+        "amount": "400",
+        "unit": "g",
+        "name": "raparperia",
+        "clean_name": "raparperia",
+        "tokens": [
+          "raparperia"
+        ]
+      },
+      {
+        "amount": "1,5",
+        "unit": "dl",
+        "name": "fariinisokeria tai ruokosokeria",
+        "clean_name": "fariinisokeria tai ruokosokeria",
+        "tokens": [
+          "fariinisokeria",
+          "tai",
+          "ruokosokeria"
+        ]
+      },
+      {
+        "amount": "100",
+        "unit": "g",
+        "name": "margariinia tai voita",
+        "clean_name": "margariinia tai voita",
+        "tokens": [
+          "margariinia",
+          "tai",
+          "voita"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "neljän viljan hiutaleita tai kaurahiutaleita",
+        "clean_name": "neljän viljan hiutaleita tai kaurahiutaleita",
+        "tokens": [
+          "neljän",
+          "viljan",
+          "hiutaleita",
+          "tai",
+          "kaurahiutaleita"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "dl",
+        "name": "sokeria",
+        "clean_name": "sokeria",
+        "tokens": [
+          "sokeria"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "dl",
+        "name": "vehnäjauhoja",
+        "clean_name": "vehnäjauhoja",
+        "tokens": [
+          "vehnäjauhoja"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tl",
+        "name": "kanelia tai kardemummaa",
+        "clean_name": "kanelia tai kardemummaa",
+        "tokens": [
+          "kanelia",
+          "tai",
+          "kardemummaa"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Leikkaa raparperit paloiksi ja liata voidellulle uunivuoalle. Ripottele päälle sokeria.",
+      "2. Nypi muut ainekset muruiseksi seokseksi ja ripottele päälle. Kypsennä 200-asteisessa uunissa n. puoli tuntia."
+    ]
+  },
+  {
+    "name": "Pizzapohja (pellillinen)",
+    "ingredients": [
+      {
+        "amount": "25",
+        "unit": "g",
+        "name": "tuorehiivaa tai 1 ps kuivahiivaa",
+        "clean_name": "tuorehiivaa tai 1 ps kuivahiivaa",
+        "tokens": [
+          "tuorehiivaa",
+          "tai",
+          "1",
+          "ps",
+          "kuivahiivaa"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "vettä",
+        "clean_name": "vettä",
+        "tokens": [
+          "vettä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tl",
+        "name": "suolaa",
+        "clean_name": "suolaa",
+        "tokens": [
+          "suolaa"
+        ]
+      },
+      {
+        "amount": "3",
+        "unit": "rkl",
+        "name": "öljyä",
+        "clean_name": "öljyä",
+        "tokens": [
+          "öljyä"
+        ]
+      },
+      {
+        "amount": "5",
+        "unit": "dl",
+        "name": "vehnäjauhoja",
+        "clean_name": "vehnäjauhoja",
+        "tokens": [
+          "vehnäjauhoja"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Sekoita hiiva kädenlämpöiseen veteen. Lisää suola ja öljy.",
+      "2. Sekoita vehnäjauhot joukkoon (tarvittaessa enemmän ettei taikina jää kiinni sormiin).",
+      "3. Kohota n. 30 min.",
+      "4. Kaulitse, täytä ja paista 225 asteessa n. 20 min."
+    ]
+  },
+  {
+    "name": "Kurpitsakeitto",
+    "ingredients": [
+      {
+        "amount": "800",
+        "unit": "g",
+        "name": "kurpitsaa (esim. Butternut)",
+        "clean_name": "kurpitsaa",
+        "tokens": [
+          "kurpitsaa"
+        ]
+      },
+      {
+        "amount": "½",
+        "unit": "",
+        "name": "punainen chili",
+        "clean_name": "punainen chili",
+        "tokens": [
+          "punainen",
+          "chili"
+        ]
+      },
+      {
+        "amount": "½",
+        "unit": "tl",
+        "name": "raastettua tuoretta inkivääriä",
+        "clean_name": "raastettua tuoretta inkivääriä",
+        "tokens": [
+          "raastettua",
+          "tuoretta",
+          "inkivääriä"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "rkl",
+        "name": "oliiviöljyä",
+        "clean_name": "oliiviöljyä",
+        "tokens": [
+          "oliiviöljyä"
+        ]
+      },
+      {
+        "amount": "400",
+        "unit": "g",
+        "name": "perunaa",
+        "clean_name": "perunaa",
+        "tokens": [
+          "perunaa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "keltasipuli",
+        "clean_name": "keltasipuli",
+        "tokens": [
+          "keltasipuli"
+        ]
+      },
+      {
+        "amount": "3",
+        "unit": "rkl",
+        "name": "voita",
+        "clean_name": "voita",
+        "tokens": [
+          "voita"
+        ]
+      },
+      {
+        "amount": "6",
+        "unit": "dl",
+        "name": "laihaa kasvislientä",
+        "clean_name": "laihaa kasvislientä",
+        "tokens": [
+          "laihaa",
+          "kasvislientä"
+        ]
+      },
+      {
+        "amount": "½",
+        "unit": "tl",
+        "name": "kanelia",
+        "clean_name": "kanelia",
+        "tokens": [
+          "kanelia"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Pieni ripaus muskottipähkinää",
+        "clean_name": "ripaus muskottipähkinää",
+        "tokens": [
+          "ripaus",
+          "muskottipähkinää"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Karkeaa suolaa & pippuria",
+        "clean_name": "karkeaa suolaa & pippuria",
+        "tokens": [
+          "karkeaa",
+          "suolaa",
+          "&",
+          "pippuria"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "dl",
+        "name": "kuohukermaa",
+        "clean_name": "kuohukermaa",
+        "tokens": [
+          "kuohukermaa"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Kuori ja pilko kurpitsa reiluiksi paloiksi. Poista siemenet ja nosta palat uunivuokaan. Lisää joukkoon hienonnettua chiliä, hienoksi raatettua inkivääriä ja oliiviöljyä. Kääntele paloja öljyssä ja mausteissa.",
+      "2. Paahda uunissa 200 asteessa keskitasolla 30-40 min kunnes kurpitsa on kypsän pehmeää.",
+      "3. Kuori ja kuutioi perunat ja sipuli. Kuumenna voi isossa kattilassa ja kuullota kuutioita keskilämmöllä 10 min.",
+      "4. Kaada laiha kasvisliemi kattilaan ja keitä perunat pehmeiksi.",
+      "5. Mausta keitto kanelilla, aavistuksella muskottipähkinäjauhetta ja kevyesti suolalla ja pippurilla.",
+      "6. Lisää sekaan kypsät kurpitsapalat. Nosta keitto pois liedeltä ja soseuta varovasti sauvasekoittimella. Lisää kerma, tarvittaessa lisää vettä ja kiehauta. Tarjoile creme fraichen kanssa."
+    ]
+  },
+  {
+    "name": "Omena-saksanpähkinäkakku",
+    "ingredients": [
+      {
+        "amount": "2,5",
+        "unit": "dl",
+        "name": "vehänäjauhoja",
+        "clean_name": "vehänäjauhoja",
+        "tokens": [
+          "vehänäjauhoja"
+        ]
+      },
+      {
+        "amount": "2,5",
+        "unit": "dl",
+        "name": "täysjyvävehnäjauhoja",
+        "clean_name": "täysjyvävehnäjauhoja",
+        "tokens": [
+          "täysjyvävehnäjauhoja"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tl",
+        "name": "leivinjauhetta",
+        "clean_name": "leivinjauhetta",
+        "tokens": [
+          "leivinjauhetta"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tl",
+        "name": "ruokasoodaa",
+        "clean_name": "ruokasoodaa",
+        "tokens": [
+          "ruokasoodaa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tl",
+        "name": "kanelia",
+        "clean_name": "kanelia",
+        "tokens": [
+          "kanelia"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Reilu ripaus muskottipähkinää",
+        "clean_name": "reilu ripaus muskottipähkinää",
+        "tokens": [
+          "reilu",
+          "ripaus",
+          "muskottipähkinää"
+        ]
+      },
+      {
+        "amount": "1,5",
+        "unit": "dl",
+        "name": "maustamatonta jogurttia",
+        "clean_name": "maustamatonta jogurttia",
+        "tokens": [
+          "maustamatonta",
+          "jogurttia"
+        ]
+      },
+      {
+        "amount": "1,25",
+        "unit": "dl",
+        "name": "vaaleaa muscovadosokeria",
+        "clean_name": "vaaleaa muscovadosokeria",
+        "tokens": [
+          "vaaleaa",
+          "muscovadosokeria"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tl",
+        "name": "vaniljasokeria",
+        "clean_name": "vaniljasokeria",
+        "tokens": [
+          "vaniljasokeria"
+        ]
+      },
+      {
+        "amount": "100",
+        "unit": "g",
+        "name": "sulatettua voita tai leivontamargariinia",
+        "clean_name": "sulatettua voita tai leivontamargariinia",
+        "tokens": [
+          "sulatettua",
+          "voita",
+          "tai",
+          "leivontamargariinia"
+        ]
+      },
+      {
+        "amount": "½",
+        "unit": "dl",
+        "name": "vaaleaa siirappia",
+        "clean_name": "vaaleaa siirappia",
+        "tokens": [
+          "vaaleaa",
+          "siirappia"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "",
+        "name": "kananmunaa",
+        "clean_name": "kananmunaa",
+        "tokens": [
+          "kananmunaa"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "3-4- omenaa, 2,5 dl raastettuna ja reilu 1 dl pilkottuna",
+        "clean_name": "3-4- omenaa, 2,5 dl raastettuna ja reilu 1 dl pilkottuna",
+        "tokens": [
+          "3-4-",
+          "omenaa,",
+          "2,5",
+          "dl",
+          "raastettuna",
+          "ja",
+          "reilu",
+          "1",
+          "dl",
+          "pilkottuna"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "saksanpähkinöitä",
+        "clean_name": "saksanpähkinöitä",
+        "tokens": [
+          "saksanpähkinöitä"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Saksanpähkinöitä",
+        "clean_name": "saksanpähkinöitä",
+        "tokens": [
+          "saksanpähkinöitä"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Kanelisokeria",
+        "clean_name": "kanelisokeria",
+        "tokens": [
+          "kanelisokeria"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Kuori, raasta ja pilko omenat. Yhdistä jauhot, leivinjauhe, ruokasooda, kaneli ja muskottipähkinä.",
+      "2. Sekoita isossa kulhossa jogurtti, muscovadosokeri, vaniljasokeri, sulatettu voi, siirappi ja kananmunat. Voit korvata halutessasi muscovadosokerin fariinisokerilla.",
+      "3. Kaada joukkoon kuivat aineet ja sekoita. Lisää taikinaan omenaraaste ja –palat sekä rouhitut saksanpähkinät. Kääntele kunnes taikina on tasaista.",
+      "4. Kaada taikina voideltuun leipävuokaan (n. 25x12 com). Painele pintaan saksanpähkinöitä ja ripottele päälle kanelisokeria.",
+      "5. Paista 175 asteessa uunin keskitasolla 40-50 min. Laske kakku uunin alemmalle tasolle paistoajan loppuvaiheessa jos pinta ruskistuu liikaa."
+    ]
+  },
+  {
+    "name": "Kukkakaali-speltti mac&cheese",
+    "ingredients": [
+      {
+        "amount": "800",
+        "unit": "g",
+        "name": "kukkakaalia",
+        "clean_name": "kukkakaalia",
+        "tokens": [
+          "kukkakaalia"
+        ]
+      },
+      {
+        "amount": "330",
+        "unit": "g",
+        "name": "spelttipastaa",
+        "clean_name": "spelttipastaa",
+        "tokens": [
+          "spelttipastaa"
+        ]
+      },
+      {
+        "amount": "4",
+        "unit": "dl",
+        "name": "kermaa",
+        "clean_name": "kermaa",
+        "tokens": [
+          "kermaa"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tl",
+        "name": "currya",
+        "clean_name": "currya",
+        "tokens": [
+          "currya"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "tl",
+        "name": "suolaa",
+        "clean_name": "suolaa",
+        "tokens": [
+          "suolaa"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "tl",
+        "name": "jauhettua muskottipähkinää",
+        "clean_name": "jauhettua muskottipähkinää",
+        "tokens": [
+          "jauhettua",
+          "muskottipähkinää"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "tl",
+        "name": "mustapippuria",
+        "clean_name": "mustapippuria",
+        "tokens": [
+          "mustapippuria"
+        ]
+      },
+      {
+        "amount": "150",
+        "unit": "g",
+        "name": "cheddarjuustoa raastettuna",
+        "clean_name": "cheddarjuustoa raastettuna",
+        "tokens": [
+          "cheddarjuustoa",
+          "raastettuna"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Öljyä/voita vuoan voiteluun",
+        "clean_name": "öljyä/voita vuoan voiteluun",
+        "tokens": [
+          "öljyä/voita",
+          "vuoan",
+          "voiteluun"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Huuhtele kukkakaali ja pilko se pienemmiksi kukinnoiksi.",
+      "2. Keitä pasta suolalla maustetussa vedessä kypsäksi. Valuta pasta.",
+      "3. Voitele uunivuoka. Sekoita pasta ja kukkakaalin kukinnot ja kaada ne uunivuokaan.",
+      "4. Sekoita kermaan mausteet. Valuta seos kukkakaalin ja pastan päälle. Ripottele päälle reilusti cheddar-raastetta.",
+      "5. Paista 200 asteessa uunin keskitasolla n. 30 min kauniin väriseksi ja kypäsksi."
+    ]
+  },
+  {
+    "name": "Raparperihilloke",
+    "ingredients": [
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Tilkka vettä",
+        "clean_name": "tilkka vettä",
+        "tokens": [
+          "tilkka",
+          "vettä"
+        ]
+      },
+      {
+        "amount": "3",
+        "unit": "dl",
+        "name": "sokeria",
+        "clean_name": "sokeria",
+        "tokens": [
+          "sokeria"
+        ]
+      },
+      {
+        "amount": "500",
+        "unit": "g",
+        "name": "raparperia",
+        "clean_name": "raparperia",
+        "tokens": [
+          "raparperia"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Pese ja puhdista raparperit. Leikkaa varret kuutioiksi ja laita kattilaan. Lisää tilkka vettä ja sokeria.",
+      "2. Kuumenna ja kiehauta raparperit tai hauduta kannen alla, kunnes raparperi on sopivan pehmeää. Anna jäähtyä."
+    ]
+  },
+  {
+    "name": "Bataatti-omena-keitto",
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "bataatti",
+        "clean_name": "bataatti",
+        "tokens": [
+          "bataatti"
+        ]
+      },
+      {
+        "amount": "500",
+        "unit": "g",
+        "name": "(4-6) porkkanaa",
+        "clean_name": "porkkanaa",
+        "tokens": [
+          "porkkanaa"
+        ]
+      },
+      {
+        "amount": "4",
+        "unit": "",
+        "name": "omenaa",
+        "clean_name": "omenaa",
+        "tokens": [
+          "omenaa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "(mieto) punainen chili",
+        "clean_name": "punainen chili",
+        "tokens": [
+          "punainen",
+          "chili"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "rkl",
+        "name": "öljyä",
+        "clean_name": "öljyä",
+        "tokens": [
+          "öljyä"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tl",
+        "name": "curryjauhetta",
+        "clean_name": "curryjauhetta",
+        "tokens": [
+          "curryjauhetta"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "prk kookosmaitoa tai –kermaa",
+        "clean_name": "prk kookosmaitoa tai –kermaa",
+        "tokens": [
+          "prk",
+          "kookosmaitoa",
+          "tai",
+          "–kermaa"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tl",
+        "name": "suolaa",
+        "clean_name": "suolaa",
+        "tokens": [
+          "suolaa"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Kuori bataatti, porkkanat ja omenat. Poista omenista kodat. Pilko kaikki kuutioiksi. Siivuta chili.",
+      "2. Kuumenna öljy ison kattilan pohjalla. Lisää curry ja chili. Kuullota mausteita minuutin ajan ja lisää sitten kasvikset. Kääntele niitä öljyssä 5min. Lisää vettä niin, että kasvikset peittyvät.",
+      "3. Anna keiton kiehua, kunnes kaikki kasvikset ovat pehmeitä eli n. 20 min. Lisää kookosmaito ja suola. Soseuta keitto. Nosta vielä hellalle ja anna kiehahtaa kerran."
+    ]
+  },
+  {
+    "name": "Raparperipiirakka",
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "muna",
+        "clean_name": "muna",
+        "tokens": [
+          "muna"
+        ]
+      },
+      {
+        "amount": "1,5",
+        "unit": "dl",
+        "name": "sokeria",
+        "clean_name": "sokeria",
+        "tokens": [
+          "sokeria"
+        ]
+      },
+      {
+        "amount": "¾",
+        "unit": "dl",
+        "name": "valio Oivariini juoksevaa",
+        "clean_name": "valio oivariini juoksevaa",
+        "tokens": [
+          "valio",
+          "oivariini",
+          "juoksevaa"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "maitoa",
+        "clean_name": "maitoa",
+        "tokens": [
+          "maitoa"
+        ]
+      },
+      {
+        "amount": "4",
+        "unit": "dl",
+        "name": "vehnäjauhoja",
+        "clean_name": "vehnäjauhoja",
+        "tokens": [
+          "vehnäjauhoja"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tl",
+        "name": "leivinjauhetta",
+        "clean_name": "leivinjauhetta",
+        "tokens": [
+          "leivinjauhetta"
+        ]
+      },
+      {
+        "amount": "6-7",
+        "unit": "dl",
+        "name": "raparperin paloja",
+        "clean_name": "raparperin paloja",
+        "tokens": [
+          "raparperin",
+          "paloja"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "sokeria",
+        "clean_name": "sokeria",
+        "tokens": [
+          "sokeria"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "dl",
+        "name": "vettä",
+        "clean_name": "vettä",
+        "tokens": [
+          "vettä"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Keitä raparperipaloista, sokerista ja vedestä kattilassasakea hilloke. Jäähdytä.",
+      "2. Sekoita muna ja sokeri. Lisää Oivariini, maito ja jauho-leivinjauheseos nopeasti sekoittaen.",
+      "3. Kaada taikina voideltuun, korkeareunaiseen piirasvuokaan. Lisää taikinan päälle raparperihilloke. Paista 175 asteessa 30-35 min."
+    ]
+  },
+  {
+    "name": "Pannukeksi",
+    "ingredients": [
+      {
+        "amount": "100",
+        "unit": "g",
+        "name": "voita",
+        "clean_name": "voita",
+        "tokens": [
+          "voita"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "kananmuna",
+        "clean_name": "kananmuna",
+        "tokens": [
+          "kananmuna"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "dl",
+        "name": "maapähkinävoita",
+        "clean_name": "maapähkinävoita",
+        "tokens": [
+          "maapähkinävoita"
+        ]
+      },
+      {
+        "amount": "200",
+        "unit": "g",
+        "name": "rouhittua suklaata",
+        "clean_name": "rouhittua suklaata",
+        "tokens": [
+          "rouhittua",
+          "suklaata"
+        ]
+      },
+      {
+        "amount": "3",
+        "unit": "dl",
+        "name": "vehnäjauhoja",
+        "clean_name": "vehnäjauhoja",
+        "tokens": [
+          "vehnäjauhoja"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "dl",
+        "name": "kaurahiutaleita",
+        "clean_name": "kaurahiutaleita",
+        "tokens": [
+          "kaurahiutaleita"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tl",
+        "name": "leivinjauhetta",
+        "clean_name": "leivinjauhetta",
+        "tokens": [
+          "leivinjauhetta"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tl",
+        "name": "vaniljasokeria",
+        "clean_name": "vaniljasokeria",
+        "tokens": [
+          "vaniljasokeria"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "",
+        "name": "hyppysellistä merisuolakiteitä",
+        "clean_name": "hyppysellistä merisuolakiteitä",
+        "tokens": [
+          "hyppysellistä",
+          "merisuolakiteitä"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Vaahdota voi ja sokeri. Lisää vaahtoon kananmuna, maapähkinävoi ja rouhittu suklaa. Yhdistä kaikki kuivat aineet keskenään ja sekoita yhteem voi-sokerimassan kanssa.",
+      "2. Voitele uuninkestävä paistinpannu tai piirakkavuoka. Kaada keksimassa pannulle. Paista 175-asteisessa uunissa noin puoli tuntia, kunnes pinta on kullanruskea."
+    ]
+  },
+  {
+    "name": "Teeleivät",
+    "ingredients": [
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "kaurahiutaleita",
+        "clean_name": "kaurahiutaleita",
+        "tokens": [
+          "kaurahiutaleita"
+        ]
+      },
+      {
+        "amount": "2,5",
+        "unit": "dl",
+        "name": "vehnäjauhoja",
+        "clean_name": "vehnäjauhoja",
+        "tokens": [
+          "vehnäjauhoja"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tl",
+        "name": "leivinjauhetta",
+        "clean_name": "leivinjauhetta",
+        "tokens": [
+          "leivinjauhetta"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "tl",
+        "name": "suolaa",
+        "clean_name": "suolaa",
+        "tokens": [
+          "suolaa"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "maitoa",
+        "clean_name": "maitoa",
+        "tokens": [
+          "maitoa"
+        ]
+      },
+      {
+        "amount": "2-3",
+        "unit": "rkl",
+        "name": "öljyä",
+        "clean_name": "öljyä",
+        "tokens": [
+          "öljyä"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Sekoita kuivat aineet keskenään.",
+      "2. Lisää maito ja öljy,",
+      "3. Paista 225-asteisessa uunissa n. 15 min."
+    ]
+  },
+  {
+    "name": "Feta-kurpitsansiemenleipä",
+    "ingredients": [
+      {
+        "amount": "5",
+        "unit": "dl",
+        "name": "vehnäjauhoja",
+        "clean_name": "vehnäjauhoja",
+        "tokens": [
+          "vehnäjauhoja"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rkl",
+        "name": "sokeria",
+        "clean_name": "sokeria",
+        "tokens": [
+          "sokeria"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "tl",
+        "name": "suolaa",
+        "clean_name": "suolaa",
+        "tokens": [
+          "suolaa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tl",
+        "name": "leivinjauhetta",
+        "clean_name": "leivinjauhetta",
+        "tokens": [
+          "leivinjauhetta"
+        ]
+      },
+      {
+        "amount": "2,5",
+        "unit": "dl",
+        "name": "maitoa",
+        "clean_name": "maitoa",
+        "tokens": [
+          "maitoa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "kananmuna",
+        "clean_name": "kananmuna",
+        "tokens": [
+          "kananmuna"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "dl",
+        "name": "voita sulatettuna",
+        "clean_name": "voita sulatettuna",
+        "tokens": [
+          "voita",
+          "sulatettuna"
+        ]
+      },
+      {
+        "amount": "30",
+        "unit": "g",
+        "name": "aurinkokuivattua tomaattia",
+        "clean_name": "aurinkokuivattua tomaattia",
+        "tokens": [
+          "aurinkokuivattua",
+          "tomaattia"
+        ]
+      },
+      {
+        "amount": "50",
+        "unit": "",
+        "name": "fetajuustoa",
+        "clean_name": "fetajuustoa",
+        "tokens": [
+          "fetajuustoa"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "dl",
+        "name": "kurpitsansiemeniä",
+        "clean_name": "kurpitsansiemeniä",
+        "tokens": [
+          "kurpitsansiemeniä"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Sekoita kuivat aineet keskenään. Lisää maito, muna, voi, aurinkokuivatut to,aatit ja fetamurut.",
+      "2. Sekoita nopeasti taikinaksi. Tee joko yksi iso leipä tai kaksi pienempää. Ripottele pinnalle kurpitsansiemeniä.",
+      "3. Paista 225-asteisessa uunissa alatasolla n. 40 minuuttia."
+    ]
+  },
+  {
+    "name": "Chilinen papupata",
+    "ingredients": [
+      {
+        "amount": "3",
+        "unit": "",
+        "name": "paprikaa",
+        "clean_name": "paprikaa",
+        "tokens": [
+          "paprikaa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "valkosipulinkynsi",
+        "clean_name": "valkosipulinkynsi",
+        "tokens": [
+          "valkosipulinkynsi"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rkl",
+        "name": "öljyä",
+        "clean_name": "öljyä",
+        "tokens": [
+          "öljyä"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "vettä",
+        "clean_name": "vettä",
+        "tokens": [
+          "vettä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "ps",
+        "name": "(450g) Pirkka Mexican Mix vihannessekoitusta",
+        "clean_name": "mexican mix vihannessekoitusta",
+        "tokens": [
+          "mexican",
+          "mix",
+          "vihannessekoitusta"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tlk",
+        "name": "(390g) Pirkka chili-tomaattimurskaa",
+        "clean_name": "chili-tomaattimurskaa",
+        "tokens": [
+          "chili-tomaattimurskaa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "dl",
+        "name": "vettä",
+        "clean_name": "vettä",
+        "tokens": [
+          "vettä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rkl",
+        "name": "siirappia",
+        "clean_name": "siirappia",
+        "tokens": [
+          "siirappia"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tl",
+        "name": "basililaa",
+        "clean_name": "basililaa",
+        "tokens": [
+          "basililaa"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "tl",
+        "name": "mustapippuria",
+        "clean_name": "mustapippuria",
+        "tokens": [
+          "mustapippuria"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "tl",
+        "name": "suolaa",
+        "clean_name": "suolaa",
+        "tokens": [
+          "suolaa"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. kuori porkkanat ja paloittele pieniksi kuutioiksi. Kuori ja murskaa valkosipuli. Kuullota porkkanoita ja valkosipulia öljyssä paistokasarissa. Lisää joukkoon vesi ja anna kiehua 10 minuuttia.",
+      "2. Kaada kasariin Mexican Mix kasvikset ja chilimaustettu tomaattimurska. Huuhdo tölkki vedellä ja kaada joukkoon. Lisää mausteet ja sekoita.",
+      "3. Hauduta kannen alla 10 minuuttia."
+    ]
+  },
+  {
+    "name": "Vihersmoothie",
+    "ingredients": [
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "pinaattia",
+        "clean_name": "pinaattia",
+        "tokens": [
+          "pinaattia"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "dl",
+        "name": "vettä",
+        "clean_name": "vettä",
+        "tokens": [
+          "vettä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "dl",
+        "name": "mangoa",
+        "clean_name": "mangoa",
+        "tokens": [
+          "mangoa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "dl",
+        "name": "ananasta",
+        "clean_name": "ananasta",
+        "tokens": [
+          "ananasta"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "banaani",
+        "clean_name": "banaani",
+        "tokens": [
+          "banaani"
+        ]
+      }
+    ],
+    "instructions": [
+      "Sekoita kaikki blenderillä tasaiseksi smoothieksi, nauti heti."
+    ]
+  },
+  {
+    "name": "Maapähkinänuudelit",
+    "ingredients": [
+      {
+        "amount": "0,5",
+        "unit": "dl",
+        "name": "maapähkinävoita",
+        "clean_name": "maapähkinävoita",
+        "tokens": [
+          "maapähkinävoita"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "dl",
+        "name": "kaurakermaa",
+        "clean_name": "kaurakermaa",
+        "tokens": [
+          "kaurakermaa"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "rkl",
+        "name": "soijakastiketta",
+        "clean_name": "soijakastiketta",
+        "tokens": [
+          "soijakastiketta"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "rkl",
+        "name": "riisiviinietikkaa",
+        "clean_name": "riisiviinietikkaa",
+        "tokens": [
+          "riisiviinietikkaa"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tl",
+        "name": "sokeria",
+        "clean_name": "sokeria",
+        "tokens": [
+          "sokeria"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Valkosipulinkynsi",
+        "clean_name": "valkosipulinkynsi",
+        "tokens": [
+          "valkosipulinkynsi"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "rkl",
+        "name": "nuudelivettä",
+        "clean_name": "nuudelivettä",
+        "tokens": [
+          "nuudelivettä"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "n. 100g riisinuudelia",
+        "clean_name": "n. 100g riisinuudelia",
+        "tokens": [
+          "n.",
+          "100g",
+          "riisinuudelia"
+        ]
+      }
+    ],
+    "instructions": [
+      "Keitä nuudelit kattilassa. Pilko valkosipulinkynsi ja sekoita kaikki aineet kulhossa. Kaada siivilöidyt nuudelit kulhoon ja sekoita."
+    ]
+  },
+  {
+    "name": "Raparperimehu (n. 5 dl)",
+    "ingredients": [
+      {
+        "amount": "1",
+        "unit": "l",
+        "name": "raparperia paloina",
+        "clean_name": "raparperia paloina",
+        "tokens": [
+          "raparperia",
+          "paloina"
+        ]
+      },
+      {
+        "amount": "5",
+        "unit": "dl",
+        "name": "vettä",
+        "clean_name": "vettä",
+        "tokens": [
+          "vettä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "dl",
+        "name": "sokeria",
+        "clean_name": "sokeria",
+        "tokens": [
+          "sokeria"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Puolikkaan sitruunan mehu",
+        "clean_name": "puolikkaan sitruunan mehu",
+        "tokens": [
+          "puolikkaan",
+          "sitruunan",
+          "mehu"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Pese ja pilko raparperit kuorineen pieniksi paloiksi. Mittaa kattilaan vesi ja raparperit ja anna kiehua hiljalleen puolisen tuntia. (Älä sekoita jos haluat kirkasta mehua.)",
+      "2. Siivilöi mehu ja kaada kattilaan. (Älä painele raparpereja vaan anna siivilöityä itsekseen, jos siis haluat kirkasta mehua.)",
+      "3. Lisää sokeri ja anna liueta mehun joukkoon. Lisää lopuksi sitruunan mehu ja jäähdytä.",
+      "Laimenna menu veteen tai kuplaveteen. Säilyy n. pari viikkoa viileässä."
+    ]
+  },
+  {
+    "name": "Paprikat linssi-kasvistäytteellä",
+    "ingredients": [
+      {
+        "amount": "9",
+        "unit": "",
+        "name": "keskikokoista paprikaa",
+        "clean_name": "keskikokoista paprikaa",
+        "tokens": [
+          "keskikokoista",
+          "paprikaa"
+        ]
+      },
+      {
+        "amount": "5",
+        "unit": "dl",
+        "name": "punaisia linssejä",
+        "clean_name": "punaisia linssejä",
+        "tokens": [
+          "punaisia",
+          "linssejä"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Kasvislientä",
+        "clean_name": "kasvislientä",
+        "tokens": [
+          "kasvislientä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "iso sipuli",
+        "clean_name": "sipuli",
+        "tokens": [
+          "sipuli"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "",
+        "name": "kesäkurpitsaa",
+        "clean_name": "kesäkurpitsaa",
+        "tokens": [
+          "kesäkurpitsaa"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Öljyä paistamiseen",
+        "clean_name": "öljyä paistamiseen",
+        "tokens": [
+          "öljyä",
+          "paistamiseen"
+        ]
+      },
+      {
+        "amount": "2,5",
+        "unit": "tl",
+        "name": "juustokuminaa",
+        "clean_name": "juustokuminaa",
+        "tokens": [
+          "juustokuminaa"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tl",
+        "name": "garam masalaa",
+        "clean_name": "garam masalaa",
+        "tokens": [
+          "garam",
+          "masalaa"
+        ]
+      },
+      {
+        "amount": "5",
+        "unit": "",
+        "name": "valkosipulin kynttä",
+        "clean_name": "valkosipulin kynttä",
+        "tokens": [
+          "valkosipulin",
+          "kynttä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "nippu",
+        "name": "kevätsipulia",
+        "clean_name": "kevätsipulia",
+        "tokens": [
+          "kevätsipulia"
+        ]
+      },
+      {
+        "amount": "100",
+        "unit": "g",
+        "name": "fetajuustoa",
+        "clean_name": "fetajuustoa",
+        "tokens": [
+          "fetajuustoa"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Mustapippuria",
+        "clean_name": "mustapippuria",
+        "tokens": [
+          "mustapippuria"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Suolaa",
+        "clean_name": "suolaa",
+        "tokens": [
+          "suolaa"
+        ]
+      },
+      {
+        "amount": "",
+        "unit": "",
+        "name": "Chilijauhetta",
+        "clean_name": "chilijauhetta",
+        "tokens": [
+          "chilijauhetta"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Huuhtele paprikat ja leikkaa niiden “hatut” irti. Poista paprikoista siemenet ja valkoinen osa.",
+      "2. Huuhtele linssit siivilässä ja keitä paketin ohjeen mukaan. Lisää keitinveteen kasvislientä.",
+      "3. Kuutio sipuli ja kesäkurpitsa.",
+      "4. Kuumenna öljy pannulla ja lisää mausteet. Kuullota sipulia pannulla mausteiden kanssa ja purista valkosipulinkynnet joukkoon.",
+      "5. Lisää pannulle kesäkurpitsa ja ohueksi pilkotut kevätsipulin varret. Jätä kaksi vartta myöhempää käyttöä varten.",
+      "6. Sekoittele kasviksia pannulla hetken aikaa ja lisää lopuksi keitetyt ja valutetut linssit. Anna täytteen porista miedolla lämmöllä ja mausta mustapippurilla ja suolalla. Lisää chilijauhetta maun mukaan.",
+      "7. Täytä paprikat linssi-kasvistäytteellä. Murustele päälle fetajuustoa ja viimeistele mustapippurilla.",
+      "8. Kypsennä paprikoita leivinpaperilla vuoratussa uunivuoassa, 175 asteessa noin 45 minuuttia tai kunnes paprikat ovat kypsiä ja pinta on saanut hieman väriä.",
+      "9. Ripottele päälle silputtua kevätsipulia."
+    ]
+  },
+  {
+    "name": "Täytetty uunibataatti",
+    "ingredients": [
+      {
+        "amount": "4",
+        "unit": "",
+        "name": "bataattia",
+        "clean_name": "bataattia",
+        "tokens": [
+          "bataattia"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "sipuli",
+        "clean_name": "sipuli",
+        "tokens": [
+          "sipuli"
+        ]
+      },
+      {
+        "amount": "3",
+        "unit": "",
+        "name": "valkosipulinkynttä",
+        "clean_name": "valkosipulinkynttä",
+        "tokens": [
+          "valkosipulinkynttä"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tl",
+        "name": "rypsiöljyä",
+        "clean_name": "rypsiöljyä",
+        "tokens": [
+          "rypsiöljyä"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "rkl",
+        "name": "voita",
+        "clean_name": "voita",
+        "tokens": [
+          "voita"
+        ]
+      },
+      {
+        "amount": "200",
+        "unit": "g",
+        "name": "pehmeää vuohenjuustoa",
+        "clean_name": "pehmeää vuohenjuustoa",
+        "tokens": [
+          "pehmeää",
+          "vuohenjuustoa"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "tlk",
+        "name": "(285g) papuja",
+        "clean_name": "papuja",
+        "tokens": [
+          "papuja"
+        ]
+      },
+      {
+        "amount": "0,5",
+        "unit": "",
+        "name": "ruukkua rucolaa",
+        "clean_name": "ruukkua rucolaa",
+        "tokens": [
+          "ruukkua",
+          "rucolaa"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "tl",
+        "name": "suolaa",
+        "clean_name": "suolaa",
+        "tokens": [
+          "suolaa"
+        ]
+      },
+      {
+        "amount": "0,25",
+        "unit": "tl",
+        "name": "mustapippuria",
+        "clean_name": "mustapippuria",
+        "tokens": [
+          "mustapippuria"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "avocado",
+        "clean_name": "avocado",
+        "tokens": [
+          "avocado"
+        ]
+      },
+      {
+        "amount": "1",
+        "unit": "",
+        "name": "prk (200g) kermaviiliä",
+        "clean_name": "prk kermaviiliä",
+        "tokens": [
+          "prk",
+          "kermaviiliä"
+        ]
+      },
+      {
+        "amount": "2",
+        "unit": "rkl",
+        "name": "makeaa chilikastiketta",
+        "clean_name": "makeaa chilikastiketta",
+        "tokens": [
+          "makeaa",
+          "chilikastiketta"
+        ]
+      }
+    ],
+    "instructions": [
+      "1. Nosta pestyt bataatit uunivuokaan. Kypsennä niitä 175-asteisessa uunissa noin tunti, bataattien koosta riippuen.",
+      "2. Bataattien kypsyessä kuori ja hienonna sipulit. Kuullota ne pannulla öljyssä. Siirrä syrjään.",
+      "3. Valmista tässä vaiheessa myös kastike. Halkaise avocado, poista siemen ja kuoret. Nosta avocado tehosekoittimeen. Lisää muut aineet ja käynnistä kone. Anna koneen käydä, kunnes kastike on sileää. Ohenna kastike tarvittaessa tilkalla maitoa. Nosta se peitettynä kylmään.",
+      "4. Kun bataatit ovat tikulla kokeiltaessa pehmeitä, nosta ne uunista. Anna bataattien jäähtyä hetki ja leikkaa niistä pitkittäin veneen muotoiset palat pois. Koverra bataateista pehmeää sisusta pois, kunnes koko on riittävän iso täytteelle.",
+      "5. Nosta puolet poistetusta bataatista kulhoon ja lisää voi. Lisää kuullotetut sipulit, pehmeä vuohenjuusto, pavut, hienonnettu rucola ja suola. Lusikoi täyte takaisin bataatteihin. Kuumenna bataatteja tarvittaessa vielä hetki uunissa.",
+      "Tarjoa avocadokastikkeen kanssa!"
+    ]
+  }
+]
