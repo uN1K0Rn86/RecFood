@@ -10,6 +10,8 @@ readme = "README.md"
 python = "^3.12"
 pandas = "^3.0.5"
 libvoikko = "^4.3"
+fastapi = "^0.142.2"
+uvicorn = {extras = ["standard"], version = "^0.54.0"}
 
 
 [build-system]
