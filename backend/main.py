@@ -3,12 +3,15 @@ from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy import select, text
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.orm import selectinload
+from fastapi.staticfiles import StaticFiles
+from pathlib import Path
 
 from database import get_db
 from models import Recipe, RecipeIngredient
 
 
 app = FastAPI(title="RecFood API")
+FRONTEND_DIST = Path(__file__).resolve().parent.parent / "frontend" / "dist"
 
 app.add_middleware(
     CORSMiddleware,
@@ -19,21 +22,20 @@ app.add_middleware(
 )
 
 
-@app.get("/")
+@app.get("/api/")
 def root():
     return {"message": "RecFood API is running"}
 
-
-@app.get("/health")
+@app.get("/api/health")
 def health():
     return {"status": "ok"}
 
-@app.get("/db-health")
+@app.get("/api/db-health")
 async def db_health(db: AsyncSession = Depends(get_db)):
     result = await db.execute(text("SELECT 1"))
     return {"database": result.scalar_one()}
 
-@app.get("/recipes")
+@app.get("/api/recipes")
 async def get_recipes(db: AsyncSession = Depends(get_db)):
     result = await db.execute(
         select(Recipe)
@@ -57,6 +59,8 @@ async def get_recipes(db: AsyncSession = Depends(get_db)):
                 {
                     "recipe_id": relation.recipe_id,
                     "ingredient_id": relation.ingredient_id,
+                    "amount": relation.amount,
+                    "unit": relation.unit,
                     "ingredient": {
                         "id": relation.ingredient.id,
                         "name": relation.ingredient.name,
@@ -67,3 +71,7 @@ async def get_recipes(db: AsyncSession = Depends(get_db)):
         }
         for recipe in recipes
     ]
+
+
+if FRONTEND_DIST.exists():
+    app.mount("/", StaticFiles(directory=FRONTEND_DIST, html=True), name="frontend")

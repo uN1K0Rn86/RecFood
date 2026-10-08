@@ -6,7 +6,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "pastaa",
         "clean_name": "pastaa",
@@ -31,7 +31,7 @@
         ]
       },
       {
-        "amount": 2.5,
+        "amount": "2.5",
         "unit": "dl",
         "name": "pakastettuja härkäpapuja",
         "clean_name": "pakastettuja härkäpapuja",
@@ -73,7 +73,7 @@
         ]
       },
       {
-        "amount": 200.0,
+        "amount": "200.0",
         "unit": "g",
         "name": "sokeriherneitä",
         "clean_name": "sokeriherneitä",
@@ -98,7 +98,7 @@
         ]
       },
       {
-        "amount": 155.0,
+        "amount": "155.0",
         "unit": "g",
         "name": "tuoreita parsan versoja",
         "clean_name": "tuoreita parsan versoja",
@@ -163,7 +163,7 @@
         ]
       },
       {
-        "amount": 30.0,
+        "amount": "30.0",
         "unit": "g",
         "name": "voita",
         "clean_name": "voita",
@@ -218,7 +218,7 @@
         ]
       },
       {
-        "amount": 2.5,
+        "amount": "2.5",
         "unit": "dl",
         "name": "kermaa",
         "clean_name": "kermaa",
@@ -243,7 +243,7 @@
         ]
       },
       {
-        "amount": 60.0,
+        "amount": "60.0",
         "unit": "g",
         "name": "vastaraastettua parmesaania",
         "clean_name": "vastaraastettua parmesaania",
@@ -285,7 +285,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "suolaa ja pippuria",
         "clean_name": "suolaa ja pippuria",
@@ -379,7 +379,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "pastaa",
         "clean_name": "pastaa",
@@ -404,7 +404,7 @@
         ]
       },
       {
-        "amount": 1.5,
+        "amount": "1.5",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -429,7 +429,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "hienonnettu sipuli",
         "clean_name": "hienonnettu sipuli",
@@ -471,7 +471,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "x 400 g (tlk) italialaisia tomaatteja pilkottuna",
         "clean_name": "x 400 g italialaisia tomaatteja pilkottuna",
@@ -572,7 +572,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "dl",
         "name": "tuoreita basilikanlehtiä",
         "clean_name": "tuoreita basilikanlehtiä",
@@ -613,7 +613,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "suolaa ja pippuria",
         "clean_name": "suolaa ja pippuria",
@@ -706,7 +706,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 50.0,
+        "amount": "50.0",
         "unit": "g",
         "name": "voita",
         "clean_name": "voita",
@@ -761,7 +761,7 @@
         ]
       },
       {
-        "amount": 180.0,
+        "amount": "180.0",
         "unit": "g",
         "name": "paksuja pekoniviipaleita tai silavaa, ilman nahkaa ja hienoksi kuutioituna",
         "clean_name": "paksuja pekoniviipaleita tai silavaa, ilman nahkaa ja hienoksi kuutioituna",
@@ -912,7 +912,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "iso hienonnettu sipuli",
         "clean_name": "hienonnettu sipuli",
@@ -954,7 +954,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "hienonnettu porkkana",
         "clean_name": "hienonnettu porkkana",
@@ -1005,7 +1005,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "hienonnettu lehtisellerin varsi",
         "clean_name": "hienonnettu lehtisellerin varsi",
@@ -1062,7 +1062,7 @@
         ]
       },
       {
-        "amount": 400.0,
+        "amount": "400.0",
         "unit": "g",
         "name": "vähärasvaista jauhettua naudanlihaa",
         "clean_name": "vähärasvaista jauhettua naudanlihaa",
@@ -1120,7 +1120,7 @@
         ]
       },
       {
-        "amount": 150.0,
+        "amount": "150.0",
         "unit": "g",
         "name": "broilerinmaksaa hienoksi paloiteltuna",
         "clean_name": "broilerinmaksaa hienoksi paloiteltuna",
@@ -1178,7 +1178,7 @@
         ]
       },
       {
-        "amount": 5.0,
+        "amount": "5.0",
         "unit": "dl",
         "name": "lihalientä",
         "clean_name": "lihalientä",
@@ -1203,7 +1203,7 @@
         ]
       },
       {
-        "amount": 2.5,
+        "amount": "2.5",
         "unit": "dl",
         "name": "paseerattuja tomaatteja",
         "clean_name": "paseerattuja tomaatteja",
@@ -1233,7 +1233,7 @@
         ]
       },
       {
-        "amount": 2.75,
+        "amount": "2.75",
         "unit": "dl",
         "name": "punaviiniä",
         "clean_name": "punaviiniä",
@@ -1267,7 +1267,7 @@
         ]
       },
       {
-        "amount": 0.25,
+        "amount": "0.25",
         "unit": "tl",
         "name": "vastaraastettua muskottipähkinää",
         "clean_name": "vastaraastettua muskottipähkinää",
@@ -1309,7 +1309,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "pastaa",
         "clean_name": "pastaa",
@@ -1334,7 +1334,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "vastaraastettua parmesaania tarjoiluun",
         "clean_name": "vastaraastettua parmesaania tarjoiluun",
@@ -1409,7 +1409,7 @@
     "servings": "4-6 annosta",
     "ingredients": [
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "pastaa",
         "clean_name": "pastaa",
@@ -1434,7 +1434,7 @@
         ]
       },
       {
-        "amount": 90.0,
+        "amount": "90.0",
         "unit": "g",
         "name": "voita",
         "clean_name": "voita",
@@ -1489,7 +1489,7 @@
         ]
       },
       {
-        "amount": 3.75,
+        "amount": "3.75",
         "unit": "dl",
         "name": "vastaraastettua parmesaania",
         "clean_name": "vastaraastettua parmesaania",
@@ -1531,7 +1531,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "dl",
         "name": "kermaa",
         "clean_name": "kermaa",
@@ -1556,7 +1556,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "rkl",
         "name": "hienonnettua tuoretta persiljaa",
         "clean_name": "hienonnettua tuoretta persiljaa",
@@ -1614,7 +1614,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "suolaa ja pippuria",
         "clean_name": "suolaa ja pippuria",
@@ -1710,7 +1710,7 @@
     "servings": "4-6 annosta",
     "ingredients": [
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -1735,7 +1735,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "hienonnettu sipuli",
         "clean_name": "hienonnettu sipuli",
@@ -1777,7 +1777,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "hienonnettu porkkana",
         "clean_name": "hienonnettu porkkana",
@@ -1828,7 +1828,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "hienonnettu lehtisellerin varsi",
         "clean_name": "hienonnettu lehtisellerin varsi",
@@ -1885,7 +1885,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "oikein kypsiä tomaatteja pilkottuna",
         "clean_name": "oikein kypsiä tomaatteja pilkottuna",
@@ -1976,7 +1976,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "hienonnettua tuoretta persiljaa",
         "clean_name": "hienonnettua tuoretta persiljaa",
@@ -2034,7 +2034,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "tl",
         "name": "sokeria",
         "clean_name": "sokeria",
@@ -2059,7 +2059,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "dl",
         "name": "vettä",
         "clean_name": "vettä",
@@ -2085,7 +2085,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "pastaa",
         "clean_name": "pastaa",
@@ -2110,7 +2110,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "suolaa ja pippuria",
         "clean_name": "suolaa ja pippuria",
@@ -2214,7 +2214,7 @@
     "servings": "4-6 annosta",
     "ingredients": [
       {
-        "amount": 8.0,
+        "amount": "8.0",
         "unit": "",
         "name": "pekoniviipaletta",
         "clean_name": "pekoniviipaletta",
@@ -2239,7 +2239,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "pastaa",
         "clean_name": "pastaa",
@@ -2264,7 +2264,7 @@
         ]
       },
       {
-        "amount": 4.0,
+        "amount": "4.0",
         "unit": "",
         "name": "munaa",
         "clean_name": "munaa",
@@ -2301,7 +2301,7 @@
         ]
       },
       {
-        "amount": 2.75,
+        "amount": "2.75",
         "unit": "dl",
         "name": "vastaraastettua parmesaania",
         "clean_name": "vastaraastettua parmesaania",
@@ -2343,7 +2343,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "dl",
         "name": "kermaa",
         "clean_name": "kermaa",
@@ -2368,7 +2368,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "mustapippuria",
         "clean_name": "mustapippuria",
@@ -2393,7 +2393,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "Irrota pekonin nahka ja heitä se pois, leikkaa pekoni ohuiksi suikaleiksi. Paista paksupohjaisessa pannussa keskilämmöllä rapeiksi. Valuta talouspaperin päällä.",
         "clean_name": "irrota pekonin nahka ja heitä se pois, leikkaa pekoni ohuiksi suikaleiksi. paista paksupohjaisessa pannussa keskilämmöllä rapeiksi. valuta talouspaperin päällä.",
@@ -2735,7 +2735,7 @@
     "servings": "4-6 annosta",
     "ingredients": [
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "pastaa",
         "clean_name": "pastaa",
@@ -2760,7 +2760,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "rkl",
         "name": "pinjansiemeniä",
         "clean_name": "pinjansiemeniä",
@@ -2785,7 +2785,7 @@
         ]
       },
       {
-        "amount": 5.0,
+        "amount": "5.0",
         "unit": "dl",
         "name": "tuoreita basilikanlehtiä",
         "clean_name": "tuoreita basilikanlehtiä",
@@ -2826,7 +2826,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "kuorittua valkosipulinkynttä",
         "clean_name": "kuorittua valkosipulinkynttä",
@@ -2868,7 +2868,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "tl",
         "name": "suolaa",
         "clean_name": "suolaa",
@@ -2905,7 +2905,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "rkl",
         "name": "vastaraastettua parmesaania",
         "clean_name": "vastaraastettua parmesaania",
@@ -2947,7 +2947,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "vastaraastettua pecorinojuustoa (el välttämätön)",
         "clean_name": "vastaraastettua pecorinojuustoa",
@@ -2979,7 +2979,7 @@
         ]
       },
       {
-        "amount": 1.25,
+        "amount": "1.25",
         "unit": "dl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -3004,7 +3004,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "mustapippuria",
         "clean_name": "mustapippuria",
@@ -3050,7 +3050,7 @@
     "servings": "4-6 annosta",
     "ingredients": [
       {
-        "amount": 6.0,
+        "amount": "6.0",
         "unit": "",
         "name": "ohutta pancettaviipaletta tai 3 pekoniviipaletta",
         "clean_name": "ohutta pancettaviipaletta tai 3 pekoniviipaletta",
@@ -3122,7 +3122,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "kg",
         "name": "oikein kypsiä tomaatteja",
         "clean_name": "oikein kypsiä tomaatteja",
@@ -3196,7 +3196,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "suolaa ja pippuria",
         "clean_name": "suolaa ja pippuria",
@@ -3270,7 +3270,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "pastaa",
         "clean_name": "pastaa",
@@ -3295,7 +3295,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -3320,7 +3320,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "pieni sipuli hienonnettuna",
         "clean_name": "sipuli hienonnettuna",
@@ -3362,7 +3362,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "tl",
         "name": "hienonnettua tuoretta chilipippuria",
         "clean_name": "hienonnettua tuoretta chilipippuria",
@@ -3420,7 +3420,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "parmesaanilastuja tarjoiluun",
         "clean_name": "parmesaanilastuja tarjoiluun",
@@ -3480,7 +3480,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "pastaa",
         "clean_name": "pastaa",
@@ -3505,7 +3505,7 @@
         ]
       },
       {
-        "amount": 6.0,
+        "amount": "6.0",
         "unit": "",
         "name": "pekoniviipaletta, ilman nahkaa ja paloiteltuna",
         "clean_name": "pekoniviipaletta, ilman nahkaa ja paloiteltuna",
@@ -3596,7 +3596,7 @@
         ]
       },
       {
-        "amount": 200.0,
+        "amount": "200.0",
         "unit": "g",
         "name": "nuoria herkkusieniä viipaloituna",
         "clean_name": "nuoria herkkusieniä viipaloituna",
@@ -3663,7 +3663,7 @@
         ]
       },
       {
-        "amount": 6.0,
+        "amount": "6.0",
         "unit": "dl",
         "name": "kermaa",
         "clean_name": "kermaa",
@@ -3688,7 +3688,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "viipaloitua kevätsipulia",
         "clean_name": "viipaloitua kevätsipulia",
@@ -3739,7 +3739,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "rkl",
         "name": "hienonnettua tuoretta persiljaa",
         "clean_name": "hienonnettua tuoretta persiljaa",
@@ -3830,7 +3830,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "pastaa",
         "clean_name": "pastaa",
@@ -3855,7 +3855,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -3880,7 +3880,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "",
         "name": "murskattua valkosipulinkynttä",
         "clean_name": "murskattua valkosipulinkynttä",
@@ -3922,7 +3922,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "hienonnettua tuoretta persiljaa",
         "clean_name": "hienonnettua tuoretta persiljaa",
@@ -3980,7 +3980,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "1/4-1/2 tl chilipippurihiutaleita tai -jauhetta",
         "clean_name": "1/4-1/2 tl chilipippurihiutaleita tai -jauhetta",
@@ -4053,7 +4053,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "x 425 g (tlk) tomaattimurskaa",
         "clean_name": "x 425 g tomaattimurskaa",
@@ -4121,7 +4121,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "rkl",
         "name": "kapriksia",
         "clean_name": "kapriksia",
@@ -4146,7 +4146,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "",
         "name": "anjovisfilettä ohueksi viipaloituna",
         "clean_name": "anjovisfilettä ohueksi viipaloituna",
@@ -4204,7 +4204,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "dl",
         "name": "mustia oliiveja",
         "clean_name": "mustia oliiveja",
@@ -4254,7 +4254,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "mustapippuria",
         "clean_name": "mustapippuria",
@@ -4279,7 +4279,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "vastaraastettua parmesaania tarjoiluun",
         "clean_name": "vastaraastettua parmesaania tarjoiluun",
@@ -4358,7 +4358,7 @@
     "servings": "4-6 annosta",
     "ingredients": [
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "lampaanfileitä",
         "clean_name": "lampaanfileitä",
@@ -4392,7 +4392,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "tl",
         "name": "jauhettua juustokuminaa",
         "clean_name": "jauhettua juustokuminaa",
@@ -4443,7 +4443,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "rkl",
         "name": "jauhettua korianteria.",
         "clean_name": "jauhettua korianteria.",
@@ -4475,7 +4475,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "tl",
         "name": "jauhettua maustepippuria",
         "clean_name": "jauhettua maustepippuria",
@@ -4517,7 +4517,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "tl",
         "name": "jauhettua kanelia",
         "clean_name": "jauhettua kanelia",
@@ -4559,7 +4559,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "tl",
         "name": "jauhettua cayennepippuria",
         "clean_name": "jauhettua cayennepippuria",
@@ -4601,7 +4601,7 @@
         ]
       },
       {
-        "amount": 4.0,
+        "amount": "4.0",
         "unit": "",
         "name": "murskattua valkosipulinkynttä",
         "clean_name": "murskattua valkosipulinkynttä",
@@ -4643,7 +4643,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "dl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -4668,7 +4668,7 @@
         ]
       },
       {
-        "amount": 2.75,
+        "amount": "2.75",
         "unit": "dl",
         "name": "sitruunamehua.",
         "clean_name": "sitruunamehua.",
@@ -4683,7 +4683,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "punaista paprikaa",
         "clean_name": "punaista paprikaa",
@@ -4724,7 +4724,7 @@
         ]
       },
       {
-        "amount": 400.0,
+        "amount": "400.0",
         "unit": "g",
         "name": "fusillia",
         "clean_name": "fusillia",
@@ -4739,7 +4739,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "dl",
         "name": "kylmäpuristettua oliiviöljyä",
         "clean_name": "kylmäpuristettua oliiviöljyä",
@@ -4792,7 +4792,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "tl",
         "name": "harissaa",
         "clean_name": "harissaa",
@@ -4807,7 +4807,7 @@
         ]
       },
       {
-        "amount": 150.0,
+        "amount": "150.0",
         "unit": "g",
         "name": "rucolaa",
         "clean_name": "rucolaa",
@@ -4855,7 +4855,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "pappardellea",
         "clean_name": "pappardellea",
@@ -4870,7 +4870,7 @@
         ]
       },
       {
-        "amount": 20.0,
+        "amount": "20.0",
         "unit": "g",
         "name": "voita",
         "clean_name": "voita",
@@ -4925,7 +4925,7 @@
         ]
       },
       {
-        "amount": 1.5,
+        "amount": "1.5",
         "unit": "tl",
         "name": "kasviöljyä",
         "clean_name": "kasviöljyä",
@@ -4950,7 +4950,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "ohueksi viipaloitu sipuli",
         "clean_name": "ohueksi viipaloitu sipuli",
@@ -5008,7 +5008,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "murskattu valkosipulinkynsi",
         "clean_name": "murskattu valkosipulinkynsi",
@@ -5050,7 +5050,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "tl",
         "name": "paprikajauhetta",
         "clean_name": "paprikajauhetta",
@@ -5075,7 +5075,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "ripaus cayennepippuria",
         "clean_name": "ripaus cayennepippuria",
@@ -5115,7 +5115,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "vähärasvaista sianlihaa (fileetä tai reisipaistia) ohueksi viipaloituna",
         "clean_name": "vähärasvaista sianlihaa ohueksi viipaloituna",
@@ -5189,7 +5189,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "rkl",
         "name": "hienonnettua tuoretta persiljaa",
         "clean_name": "hienonnettua tuoretta persiljaa",
@@ -5247,7 +5247,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "rkl",
         "name": "portviiniä tai muuta kuivaa väkevää viiniä",
         "clean_name": "portviiniä tai muuta kuivaa väkevää viiniä",
@@ -5401,7 +5401,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "rkl",
         "name": "tomaattipyreetä (kaksinkertainen väkevöite)",
         "clean_name": "tomaattipyreetä",
@@ -5426,7 +5426,7 @@
         ]
       },
       {
-        "amount": 300.0,
+        "amount": "300.0",
         "unit": "g",
         "name": "hapankermaa",
         "clean_name": "hapankermaa",
@@ -5451,7 +5451,7 @@
         ]
       },
       {
-        "amount": 150.0,
+        "amount": "150.0",
         "unit": "g",
         "name": "nuoria herkkusieniä viipaloituna",
         "clean_name": "nuoria herkkusieniä viipaloituna",
@@ -5518,7 +5518,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "tl",
         "name": "unikonsiemeniä",
         "clean_name": "unikonsiemeniä",
@@ -5543,7 +5543,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "hienonnettua tuoretta persiljaa",
         "clean_name": "hienonnettua tuoretta persiljaa",
@@ -5630,7 +5630,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "punainen paprika",
         "clean_name": "punainen paprika",
@@ -5671,7 +5671,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "vihreä paprika",
         "clean_name": "vihreä paprika",
@@ -5712,7 +5712,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "pieni viipaloitu munakoiso",
         "clean_name": "viipaloitu munakoiso",
@@ -5754,7 +5754,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "dl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -5779,7 +5779,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "viipaloitu sipuli",
         "clean_name": "viipaloitu sipuli",
@@ -5821,7 +5821,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "murskattu valkosipulinkynsi",
         "clean_name": "murskattu valkosipulinkynsi",
@@ -5863,7 +5863,7 @@
         ]
       },
       {
-        "amount": 250.0,
+        "amount": "250.0",
         "unit": "g",
         "name": "viipaloituja prinssimakkaroita",
         "clean_name": "viipaloituja prinssimakkaroita",
@@ -5914,7 +5914,7 @@
         ]
       },
       {
-        "amount": 425.0,
+        "amount": "425.0",
         "unit": "g",
         "name": "(tlk) tomaattimurskaa",
         "clean_name": "tomaattimurskaa",
@@ -5939,7 +5939,7 @@
         ]
       },
       {
-        "amount": 2.75,
+        "amount": "2.75",
         "unit": "dl",
         "name": "punaviiniä",
         "clean_name": "punaviiniä",
@@ -5973,7 +5973,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "dl",
         "name": "halkaistuja kivettömiä mustia oliiveja",
         "clean_name": "halkaistuja kivettömiä mustia oliiveja",
@@ -6056,7 +6056,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "rkl",
         "name": "hienonnettua tuoretta basilikaa",
         "clean_name": "hienonnettua tuoretta basilikaa",
@@ -6114,7 +6114,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "rkl",
         "name": "hienonnettua tuoretta persiljaa",
         "clean_name": "hienonnettua tuoretta persiljaa",
@@ -6172,7 +6172,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "zitiä",
         "clean_name": "zitiä",
@@ -6187,7 +6187,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "vastaraastettua parmesaania tarjoiluun",
         "clean_name": "vastaraastettua parmesaania tarjoiluun",
@@ -6267,7 +6267,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -6292,7 +6292,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "viipaloitu sipuli",
         "clean_name": "viipaloitu sipuli",
@@ -6334,7 +6334,7 @@
         ]
       },
       {
-        "amount": 250.0,
+        "amount": "250.0",
         "unit": "g",
         "name": "viipaloitua chorizomakkaraa",
         "clean_name": "viipaloitua chorizomakkaraa",
@@ -6375,7 +6375,7 @@
         ]
       },
       {
-        "amount": 425.0,
+        "amount": "425.0",
         "unit": "g",
         "name": "(tlk) tomaattimurskaa",
         "clean_name": "tomaattimurskaa",
@@ -6400,7 +6400,7 @@
         ]
       },
       {
-        "amount": 1.25,
+        "amount": "1.25",
         "unit": "dl",
         "name": "kuivaa valkoviiniä",
         "clean_name": "kuivaa valkoviiniä",
@@ -6483,7 +6483,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "1/2-1 tl pilkottua chilipippuria, ei välttämätön",
         "clean_name": "1/2-1 tl pilkottua chilipippuria, ei välttämätön",
@@ -6568,7 +6568,7 @@
         ]
       },
       {
-        "amount": 375.0,
+        "amount": "375.0",
         "unit": "g",
         "name": "rigatonia",
         "clean_name": "rigatonia",
@@ -6583,7 +6583,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "hienonnettua tuoretta persiljaa",
         "clean_name": "hienonnettua tuoretta persiljaa",
@@ -6641,7 +6641,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "vastaraastettua parmesaania",
         "clean_name": "vastaraastettua parmesaania",
@@ -6725,7 +6725,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "tl",
         "name": "kylmäpuristettua oliiviöljyä",
         "clean_name": "kylmäpuristettua oliiviöljyä",
@@ -6778,7 +6778,7 @@
         ]
       },
       {
-        "amount": 75.0,
+        "amount": "75.0",
         "unit": "g",
         "name": "pekonia tai pancettaa hienoksi pilkottuna",
         "clean_name": "pekonia tai pancettaa hienoksi pilkottuna",
@@ -6854,7 +6854,7 @@
         ]
       },
       {
-        "amount": 400.0,
+        "amount": "400.0",
         "unit": "g",
         "name": "vähärasvaista jauhettua naudanlihaa",
         "clean_name": "vähärasvaista jauhettua naudanlihaa",
@@ -6912,7 +6912,7 @@
         ]
       },
       {
-        "amount": 5.0,
+        "amount": "5.0",
         "unit": "dl",
         "name": "valmista tomaattipastakastiketta",
         "clean_name": "valmista tomaattipastakastiketta",
@@ -6965,7 +6965,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "tl",
         "name": "punaviinietikkaa",
         "clean_name": "punaviinietikkaa",
@@ -6990,7 +6990,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "tl",
         "name": "sokeria",
         "clean_name": "sokeria",
@@ -7015,7 +7015,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "tl",
         "name": "kuivattua oreganoa",
         "clean_name": "kuivattua oreganoa",
@@ -7057,7 +7057,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "spagettia",
         "clean_name": "spagettia",
@@ -7082,7 +7082,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "vastaraastettua parmesaania tarjoiluun",
         "clean_name": "vastaraastettua parmesaania tarjoiluun",
@@ -7160,7 +7160,7 @@
     "servings": "4-6 annosta",
     "ingredients": [
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -7185,7 +7185,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "iso hienonnettu sipuli",
         "clean_name": "hienonnettu sipuli",
@@ -7227,7 +7227,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "murskattua valkosipulinkynttä",
         "clean_name": "murskattua valkosipulinkynttä",
@@ -7269,7 +7269,7 @@
         ]
       },
       {
-        "amount": 150.0,
+        "amount": "150.0",
         "unit": "g",
         "name": "siivutettua mausteista salamia suikaleiksi leikattuna",
         "clean_name": "siivutettua mausteista salamia suikaleiksi leikattuna",
@@ -7368,7 +7368,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "isoa punaista paprikaa pilkottuna",
         "clean_name": "isoa punaista paprikaa pilkottuna",
@@ -7454,7 +7454,7 @@
         ]
       },
       {
-        "amount": 825.0,
+        "amount": "825.0",
         "unit": "g",
         "name": "(tlk) tomaattimurskaa",
         "clean_name": "tomaattimurskaa",
@@ -7479,7 +7479,7 @@
         ]
       },
       {
-        "amount": 2.75,
+        "amount": "2.75",
         "unit": "dl",
         "name": "kuivaa valkoviiniä",
         "clean_name": "kuivaa valkoviiniä",
@@ -7562,7 +7562,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "spagettia",
         "clean_name": "spagettia",
@@ -7607,7 +7607,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "",
         "name": "vasikanleikkeitä ohuiksi suikaleiksi Jeikattuna",
         "clean_name": "vasikanleikkeitä ohuiksi suikaleiksi jeikattuna",
@@ -7668,7 +7668,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "suolalla ja pippurilla maustettuja vehnäjauhoja",
         "clean_name": "suolalla ja pippurilla maustettuja vehnäjauhoja",
@@ -7762,7 +7762,7 @@
         ]
       },
       {
-        "amount": 60.0,
+        "amount": "60.0",
         "unit": "g",
         "name": "voita",
         "clean_name": "voita",
@@ -7817,7 +7817,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "viipaloitu sipuli",
         "clean_name": "viipaloitu sipuli",
@@ -7859,7 +7859,7 @@
         ]
       },
       {
-        "amount": 1.25,
+        "amount": "1.25",
         "unit": "dl",
         "name": "kuivaa valkoviiniä",
         "clean_name": "kuivaa valkoviiniä",
@@ -7942,7 +7942,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "3-4 rkl liha- tai kanalientä",
         "clean_name": "3-4 rkl liha- tai kanalientä",
@@ -8013,7 +8013,7 @@
         ]
       },
       {
-        "amount": 1.5,
+        "amount": "1.5",
         "unit": "dl",
         "name": "kermaa",
         "clean_name": "kermaa",
@@ -8038,7 +8038,7 @@
         ]
       },
       {
-        "amount": 600.0,
+        "amount": "600.0",
         "unit": "g",
         "name": "tuoretta tavallista tai pinaattitagliatellea",
         "clean_name": "tuoretta tavallista tai pinaattitagliatellea",
@@ -8108,7 +8108,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "(tai molempien sekoitusta)",
         "clean_name": "",
@@ -8116,7 +8116,7 @@
         "lemmatized": []
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "vastaraastettua parmesaania",
         "clean_name": "vastaraastettua parmesaania",
@@ -8158,7 +8158,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "leivitä vasikanlihasuikaleet maustetuilla jauhoilla Sulata voi pannussa. lisää vasikanlihasuikaleet ja ruskista nopeasti. Nosta pois reikä-kauhalla ja pane syrjään.",
         "clean_name": "leivitä vasikanlihasuikaleet maustetuilla jauhoilla sulata voi pannussa. lisää vasikanlihasuikaleet ja ruskista nopeasti. nosta pois reikä-kauhalla ja pane syrjään.",
@@ -8506,7 +8506,7 @@
     "servings": "4-6 annosta",
     "ingredients": [
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -8531,7 +8531,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "murskattua valkosipulinkynttä",
         "clean_name": "murskattua valkosipulinkynttä",
@@ -8573,7 +8573,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "iso pilkottu sipuli",
         "clean_name": "pilkottu sipuli",
@@ -8615,7 +8615,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "pilkottu porkkana",
         "clean_name": "pilkottu porkkana",
@@ -8666,7 +8666,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "pilkottu lehtisellerin varsi",
         "clean_name": "pilkottu lehtisellerin varsi",
@@ -8723,7 +8723,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "jauhettua naudanlihaa",
         "clean_name": "jauhettua naudanlihaa",
@@ -8765,7 +8765,7 @@
         ]
       },
       {
-        "amount": 5.0,
+        "amount": "5.0",
         "unit": "dl",
         "name": "lihalientä",
         "clean_name": "lihalientä",
@@ -8790,7 +8790,7 @@
         ]
       },
       {
-        "amount": 3.75,
+        "amount": "3.75",
         "unit": "dl",
         "name": "punaviiniä",
         "clean_name": "punaviiniä",
@@ -8824,7 +8824,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "x 425 g (tlk) tomaattimurskaa",
         "clean_name": "x 425 g tomaattimurskaa",
@@ -8892,7 +8892,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "tl",
         "name": "sokeria",
         "clean_name": "sokeria",
@@ -8917,7 +8917,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "dl",
         "name": "hienonnettua tuoretta persiljaa",
         "clean_name": "hienonnettua tuoretta persiljaa",
@@ -8975,7 +8975,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "spagettia",
         "clean_name": "spagettia",
@@ -9000,7 +9000,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "vastaraastettua parmesaania tarjoiluun",
         "clean_name": "vastaraastettua parmesaania tarjoiluun",
@@ -9078,7 +9078,7 @@
     "servings": "6-8 annosta",
     "ingredients": [
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "vähärasvaista lampaanlihaa kuutioituna",
         "clean_name": "vähärasvaista lampaanlihaa kuutioituna",
@@ -9136,7 +9136,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "hienonnettua sipulia",
         "clean_name": "hienonnettua sipulia",
@@ -9178,7 +9178,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "kuutioitua porkkanaa",
         "clean_name": "kuutioitua porkkanaa",
@@ -9229,7 +9229,7 @@
         ]
       },
       {
-        "amount": 4.0,
+        "amount": "4.0",
         "unit": "",
         "name": "kuutioitua lehtisellerin vartta",
         "clean_name": "kuutioitua lehtisellerin vartta",
@@ -9295,7 +9295,7 @@
         ]
       },
       {
-        "amount": 425.0,
+        "amount": "425.0",
         "unit": "g",
         "name": "(tlk) tomaattimurskaa",
         "clean_name": "tomaattimurskaa",
@@ -9320,7 +9320,7 @@
         ]
       },
       {
-        "amount": 21.0,
+        "amount": "21.0",
         "unit": "",
         "name": "lihalientä",
         "clean_name": "lihalientä",
@@ -9345,7 +9345,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "fusillia",
         "clean_name": "fusillia",
@@ -9360,7 +9360,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "hienonnettua tuoretta persiljaa tarjoiluun",
         "clean_name": "hienonnettua tuoretta persiljaa tarjoiluun",
@@ -9454,7 +9454,7 @@
     "servings": "4-6 annosta",
     "ingredients": [
       {
-        "amount": 700.0,
+        "amount": "700.0",
         "unit": "g",
         "name": "kurpitsaa",
         "clean_name": "kurpitsaa",
@@ -9479,7 +9479,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "perunaa",
         "clean_name": "perunaa",
@@ -9504,7 +9504,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -9529,7 +9529,7 @@
         ]
       },
       {
-        "amount": 30.0,
+        "amount": "30.0",
         "unit": "g",
         "name": "voita",
         "clean_name": "voita",
@@ -9584,7 +9584,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "iso hienonnettu sipuli",
         "clean_name": "hienonnettu sipuli",
@@ -9626,7 +9626,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "murskattua valkosipulinkynttä",
         "clean_name": "murskattua valkosipulinkynttä",
@@ -9668,7 +9668,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "",
         "name": "I valmista nestemäistä kanalientä",
         "clean_name": "i valmista nestemäistä kanalientä",
@@ -9762,7 +9762,7 @@
         ]
       },
       {
-        "amount": 125.0,
+        "amount": "125.0",
         "unit": "g",
         "name": "stelliniä tai rissonia",
         "clean_name": "stelliniä tai rissonia",
@@ -9795,7 +9795,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "hienonnettua tuoretta persiljaa tarjoiluun",
         "clean_name": "hienonnettua tuoretta persiljaa tarjoiluun",
@@ -9899,7 +9899,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "broilerin rintafilettä",
         "clean_name": "broilerin rintafilettä",
@@ -9939,7 +9939,7 @@
         ]
       },
       {
-        "amount": 90.0,
+        "amount": "90.0",
         "unit": "g",
         "name": "herkkusieniä",
         "clean_name": "herkkusieniä",
@@ -9964,7 +9964,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -9989,7 +9989,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "hienoksi kuutioitu sipuli",
         "clean_name": "hienoksi kuutioitu sipuli",
@@ -10047,7 +10047,7 @@
         ]
       },
       {
-        "amount": 180.0,
+        "amount": "180.0",
         "unit": "g",
         "name": "spagettia pätkittynä",
         "clean_name": "spagettia pätkittynä",
@@ -10089,7 +10089,7 @@
         ]
       },
       {
-        "amount": 0.5238095238095238,
+        "amount": "0.5238095238095238",
         "unit": "",
         "name": "kanalientä",
         "clean_name": "kanalientä",
@@ -10114,7 +10114,7 @@
         ]
       },
       {
-        "amount": 2.5,
+        "amount": "2.5",
         "unit": "dl",
         "name": "revittyjä tuoreita basilikanlehtiä",
         "clean_name": "revittyjä tuoreita basilikanlehtiä",
@@ -10172,7 +10172,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "suolaa ja pippuria",
         "clean_name": "suolaa ja pippuria",
@@ -10265,7 +10265,7 @@
     "servings": "4-6 annosta",
     "ingredients": [
       {
-        "amount": 4.0,
+        "amount": "4.0",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -10290,7 +10290,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "viipaloitu purjosipuli",
         "clean_name": "viipaloitu purjosipuli",
@@ -10332,7 +10332,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "20-30 ohueksi viipaloitua valkosipulinkynttä",
         "clean_name": "20-30 ohueksi viipaloitua valkosipulinkynttä",
@@ -10404,7 +10404,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "paloiteltua perunaa",
         "clean_name": "paloiteltua perunaa",
@@ -10446,7 +10446,7 @@
         ]
       },
       {
-        "amount": 21.0,
+        "amount": "21.0",
         "unit": "",
         "name": "kalalientä",
         "clean_name": "kalalientä",
@@ -10471,7 +10471,7 @@
         ]
       },
       {
-        "amount": 1.25,
+        "amount": "1.25",
         "unit": "dl",
         "name": "minipastaa",
         "clean_name": "minipastaa",
@@ -10496,7 +10496,7 @@
         ]
       },
       {
-        "amount": 10.0,
+        "amount": "10.0",
         "unit": "",
         "name": "pientä keltaista kiekkokurpitsaa halkaistuna",
         "clean_name": "pientä keltaista kiekkokurpitsaa halkaistuna",
@@ -10579,7 +10579,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "kesäkurpitsaa paksuiksi viipaleiksi leikattuna",
         "clean_name": "kesäkurpitsaa paksuiksi viipaleiksi leikattuna",
@@ -10652,7 +10652,7 @@
         ]
       },
       {
-        "amount": 300.0,
+        "amount": "300.0",
         "unit": "g",
         "name": "kalafileitä isoiksi paloiksi leikattuna",
         "clean_name": "kalafileitä isoiksi paloiksi leikattuna",
@@ -10752,7 +10752,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "1-2 rkl sitruunamehua",
         "clean_name": "1-2 rkl sitruunamehua",
@@ -10797,7 +10797,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "suikaleiksi revittyä tuoretta basilikaa",
         "clean_name": "suikaleiksi revittyä tuoretta basilikaa",
@@ -10891,7 +10891,7 @@
     "servings": "4-6 annosta",
     "ingredients": [
       {
-        "amount": 50.0,
+        "amount": "50.0",
         "unit": "g",
         "name": "borlottipapuja vedessä yön yli liotettuna",
         "clean_name": "borlottipapuja vedessä yön yli liotettuna",
@@ -10967,7 +10967,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "sian takapotka",
         "clean_name": "sian takapotka",
@@ -11007,7 +11007,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "pilkottu sipuli",
         "clean_name": "pilkottu sipuli",
@@ -11049,7 +11049,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "ripaus jauhettua kanelia",
         "clean_name": "ripaus jauhettua kanelia",
@@ -11106,7 +11106,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "ripaus cayennepippuria",
         "clean_name": "ripaus cayennepippuria",
@@ -11146,7 +11146,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "tl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -11171,7 +11171,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "S di kanalientä",
         "clean_name": "s di kanalientä",
@@ -11216,7 +11216,7 @@
         ]
       },
       {
-        "amount": 125.0,
+        "amount": "125.0",
         "unit": "g",
         "name": "tagliatellea (tavallista tai pinaattitagliatellea) pätkittynä",
         "clean_name": "tagliatellea pätkittynä",
@@ -11276,7 +11276,7 @@
     "servings": "8 annosta",
     "ingredients": [
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "",
         "name": "tuoretta persiljanvartta",
         "clean_name": "tuoretta persiljanvartta",
@@ -11317,7 +11317,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "iso tuore rosmariininoksa",
         "clean_name": "tuore rosmariininoksa",
@@ -11358,7 +11358,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "iso tuore timjaminoksa",
         "clean_name": "tuore timjaminoksa",
@@ -11399,7 +11399,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "iso tuore meiraminoksa laakerinlehti",
         "clean_name": "tuore meiraminoksa laakerinlehti",
@@ -11455,7 +11455,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "dl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -11480,7 +11480,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "ohueksi viipaloitua sipulia",
         "clean_name": "ohueksi viipaloitua sipulia",
@@ -11547,7 +11547,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "ohueksi viipaloitu purjosipuli",
         "clean_name": "ohueksi viipaloitu purjosipuli",
@@ -11605,7 +11605,7 @@
         ]
       },
       {
-        "amount": 375.0,
+        "amount": "375.0",
         "unit": "g",
         "name": "kurpitsaa pieniksi paloiksi pilkottuna",
         "clean_name": "kurpitsaa pieniksi paloiksi pilkottuna",
@@ -11696,7 +11696,7 @@
         ]
       },
       {
-        "amount": 250.0,
+        "amount": "250.0",
         "unit": "g",
         "name": "perunaa pieniksi paloiksi pilkottuna",
         "clean_name": "perunaa pieniksi paloiksi pilkottuna",
@@ -11787,7 +11787,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "porkkana pituussuuntaan halkaistuna ja ohueksi viipaloituna",
         "clean_name": "porkkana pituussuuntaan halkaistuna ja ohueksi viipaloituna",
@@ -11899,7 +11899,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "pientä ohueksi viipaloitua kesäkurpitsaa I tl suolaa",
         "clean_name": "pientä ohueksi viipaloitua kesäkurpitsaa i tl suolaa",
@@ -12048,7 +12048,7 @@
         ]
       },
       {
-        "amount": 21.0,
+        "amount": "21.0",
         "unit": "",
         "name": "vettä tai kasvislientä",
         "clean_name": "vettä tai kasvislientä",
@@ -12102,7 +12102,7 @@
         ]
       },
       {
-        "amount": 2.75,
+        "amount": "2.75",
         "unit": "dl",
         "name": "tuoreita tai pakastettuja härkäpapuja",
         "clean_name": "tuoreita tai pakastettuja härkäpapuja",
@@ -12173,7 +12173,7 @@
         ]
       },
       {
-        "amount": 2.75,
+        "amount": "2.75",
         "unit": "dl",
         "name": "tuoreita tai pakasteherneitä",
         "clean_name": "tuoreita tai pakasteherneitä",
@@ -12227,7 +12227,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "oikein kypsää tomaattia kuorittuna ja pilkottuna",
         "clean_name": "oikein kypsää tomaattia kuorittuna ja pilkottuna",
@@ -12348,7 +12348,7 @@
         ]
       },
       {
-        "amount": 2.75,
+        "amount": "2.75",
         "unit": "dl",
         "name": "lyhyttä makaronia tai conchiglieta (simpukankuoripastaa)",
         "clean_name": "lyhyttä makaronia tai conchiglieta",
@@ -12407,7 +12407,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "Pistou",
         "clean_name": "pistou",
@@ -12422,7 +12422,7 @@
         ]
       },
       {
-        "amount": 2.75,
+        "amount": "2.75",
         "unit": "dl",
         "name": "tuoreita basilikanlehtiä",
         "clean_name": "tuoreita basilikanlehtiä",
@@ -12463,7 +12463,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "isoa murskattua valkosipulinkynttä",
         "clean_name": "isoa murskattua valkosipulinkynttä",
@@ -12533,7 +12533,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "tl",
         "name": "mustapippuria",
         "clean_name": "mustapippuria",
@@ -12558,7 +12558,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "dl",
         "name": "vastaraastettua parmesaania",
         "clean_name": "vastaraastettua parmesaania",
@@ -12600,7 +12600,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "dl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -12649,7 +12649,7 @@
     "servings": "6 annosta",
     "ingredients": [
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "keskikokoinen munakoiso",
         "clean_name": "keskikokoinen munakoiso",
@@ -12690,7 +12690,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -12715,7 +12715,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "iso pilkottu sipuli",
         "clean_name": "pilkottu sipuli",
@@ -12757,7 +12757,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "iso pilkottu punainen paprika",
         "clean_name": "pilkottu punainen paprika",
@@ -12815,7 +12815,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "iso pilkottu vihreä paprika",
         "clean_name": "pilkottu vihreä paprika",
@@ -12873,7 +12873,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "murskattua valkosipulinkynttä",
         "clean_name": "murskattua valkosipulinkynttä",
@@ -12915,7 +12915,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "viipaloitua kesäkurpitsaa",
         "clean_name": "viipaloitua kesäkurpitsaa",
@@ -12966,7 +12966,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "x 400 g (tlk) tomaattimurskaa",
         "clean_name": "x 400 g tomaattimurskaa",
@@ -13034,7 +13034,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "tl",
         "name": "kuivattuja oreganonlehtiä",
         "clean_name": "kuivattuja oreganonlehtiä",
@@ -13076,7 +13076,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "tl",
         "name": "kuivattuja timjaminlehtiä",
         "clean_name": "kuivattuja timjaminlehtiä",
@@ -13118,7 +13118,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "II kasvislientä",
         "clean_name": "ii kasvislientä",
@@ -13176,7 +13176,7 @@
         ]
       },
       {
-        "amount": 1.25,
+        "amount": "1.25",
         "unit": "dl",
         "name": "fusillia",
         "clean_name": "fusillia",
@@ -13191,7 +13191,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "parmesaanilastuja tarjoiluun",
         "clean_name": "parmesaanilastuja tarjoiluun",
@@ -13252,7 +13252,7 @@
     "servings": "4-6 annosta",
     "ingredients": [
       {
-        "amount": 4.0,
+        "amount": "4.0",
         "unit": "",
         "name": "pekoniviipaletta",
         "clean_name": "pekoniviipaletta",
@@ -13277,7 +13277,7 @@
         ]
       },
       {
-        "amount": 50.0,
+        "amount": "50.0",
         "unit": "g",
         "name": "voita",
         "clean_name": "voita",
@@ -13332,7 +13332,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "iso hienonnettu sipuli",
         "clean_name": "hienonnettu sipuli",
@@ -13374,7 +13374,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "ohueksi viipaloitu lehtisellerin varsi",
         "clean_name": "ohueksi viipaloitu lehtisellerin varsi",
@@ -13447,7 +13447,7 @@
         ]
       },
       {
-        "amount": 21.0,
+        "amount": "21.0",
         "unit": "",
         "name": "kanalientä",
         "clean_name": "kanalientä",
@@ -13472,7 +13472,7 @@
         ]
       },
       {
-        "amount": 2.5,
+        "amount": "2.5",
         "unit": "dl",
         "name": "pakasteherneitä",
         "clean_name": "pakasteherneitä",
@@ -13497,7 +13497,7 @@
         ]
       },
       {
-        "amount": 250.0,
+        "amount": "250.0",
         "unit": "g",
         "name": "rissonia",
         "clean_name": "rissonia",
@@ -13512,7 +13512,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "hienonnettua tuoretta persiljaa",
         "clean_name": "hienonnettua tuoretta persiljaa",
@@ -13570,7 +13570,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "suolaa ja pippuria",
         "clean_name": "suolaa ja pippuria",
@@ -13664,7 +13664,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -13689,7 +13689,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "iso ohueksi viipaloitu sipuli",
         "clean_name": "ohueksi viipaloitu sipuli",
@@ -13747,7 +13747,7 @@
         ]
       },
       {
-        "amount": 50.0,
+        "amount": "50.0",
         "unit": "g",
         "name": "kuutioitua prosciuttoa tai keittokinkkua",
         "clean_name": "kuutioitua prosciuttoa tai keittokinkkua",
@@ -13825,7 +13825,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "murskattu valkosipulinkynsi",
         "clean_name": "murskattu valkosipulinkynsi",
@@ -13867,7 +13867,7 @@
         ]
       },
       {
-        "amount": 2.75,
+        "amount": "2.75",
         "unit": "",
         "name": "kanalientä",
         "clean_name": "kanalientä",
@@ -13892,7 +13892,7 @@
         ]
       },
       {
-        "amount": 50.0,
+        "amount": "50.0",
         "unit": "g",
         "name": "stelliniä tai muuta minipastaa",
         "clean_name": "stelliniä tai muuta minipastaa",
@@ -13962,7 +13962,7 @@
         ]
       },
       {
-        "amount": 250.0,
+        "amount": "250.0",
         "unit": "g",
         "name": "parsakaalia, latvat pieniksi kukinnoiksi",
         "clean_name": "parsakaalia, latvat pieniksi kukinnoiksi",
@@ -14032,7 +14032,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "leikattuna ja varren pehmeät osat ohuiksi suikaleiksi leikattuna",
         "clean_name": "leikattuna ja varren pehmeät osat ohuiksi suikaleiksi leikattuna",
@@ -14166,7 +14166,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "vastaraastettua parmesaania tarjoiluun",
         "clean_name": "vastaraastettua parmesaania tarjoiluun",
@@ -14244,7 +14244,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "",
         "name": "isoa oikein kypsää tomaattia (noin 750 g)",
         "clean_name": "isoa oikein kypsää tomaattia",
@@ -14346,7 +14346,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -14371,7 +14371,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "hienonnettu sipuli",
         "clean_name": "hienonnettu sipuli",
@@ -14413,7 +14413,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "murskattu valkosipulinkynsi",
         "clean_name": "murskattu valkosipulinkynsi",
@@ -14455,7 +14455,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "pieni punainen paprika hienonnettuna",
         "clean_name": "punainen paprika hienonnettuna",
@@ -14513,7 +14513,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "Il kana- tai kasvislientä",
         "clean_name": "il kana- tai kasvislientä",
@@ -14569,7 +14569,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "dl",
         "name": "tomaattipyreetä (kaksinkertainen väkevöite)",
         "clean_name": "tomaattipyreetä",
@@ -14594,7 +14594,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "tl",
         "name": "sokeria",
         "clean_name": "sokeria",
@@ -14619,7 +14619,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "dl",
         "name": "tuoreita basilikanlehtiä",
         "clean_name": "tuoreita basilikanlehtiä",
@@ -14660,7 +14660,7 @@
         ]
       },
       {
-        "amount": 2.5,
+        "amount": "2.5",
         "unit": "dl",
         "name": "conchiglieta (simpukankuoripastaa) tai makaronia",
         "clean_name": "conchiglieta tai makaronia",
@@ -14725,7 +14725,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 350.0,
+        "amount": "350.0",
         "unit": "g",
         "name": "broilerinreisiä tai siipiä ilman nahkaa",
         "clean_name": "broilerinreisiä tai siipiä ilman nahkaa",
@@ -14824,7 +14824,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "hienonnettua porkkanaa",
         "clean_name": "hienonnettua porkkanaa",
@@ -14866,7 +14866,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "hienonnettua lehtisellerin vartta",
         "clean_name": "hienonnettua lehtisellerin vartta",
@@ -14923,7 +14923,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "hienonnettua pientä purjosipulia",
         "clean_name": "hienonnettua pientä purjosipulia",
@@ -14990,7 +14990,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "",
         "name": "munanvalkuaista",
         "clean_name": "munanvalkuaista",
@@ -15015,7 +15015,7 @@
         ]
       },
       {
-        "amount": 0.5238095238095238,
+        "amount": "0.5238095238095238",
         "unit": "",
         "name": "kanalientä",
         "clean_name": "kanalientä",
@@ -15040,7 +15040,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "tabascoa",
         "clean_name": "tabascoa",
@@ -15055,7 +15055,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "suolaa ja pippuria",
         "clean_name": "suolaa ja pippuria",
@@ -15129,7 +15129,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "Korianteripasta",
         "clean_name": "korianteripasta",
@@ -15154,7 +15154,7 @@
         ]
       },
       {
-        "amount": 1.25,
+        "amount": "1.25",
         "unit": "dl",
         "name": "vehnäjauhoja",
         "clean_name": "vehnäjauhoja",
@@ -15179,7 +15179,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "muna",
         "clean_name": "muna",
@@ -15204,7 +15204,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "tl",
         "name": "seesaminöljyä",
         "clean_name": "seesaminöljyä",
@@ -15229,7 +15229,7 @@
         ]
       },
       {
-        "amount": 90.0,
+        "amount": "90.0",
         "unit": "g",
         "name": "korianterinlehtiä",
         "clean_name": "korianterinlehtiä",
@@ -15276,7 +15276,7 @@
     "servings": "4-6 annosta",
     "ingredients": [
       {
-        "amount": 4.0,
+        "amount": "4.0",
         "unit": "",
         "name": "italialaista makkaraa",
         "clean_name": "italialaista makkaraa",
@@ -15336,7 +15336,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "tl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -15361,7 +15361,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "viipaloitua purjosipulia",
         "clean_name": "viipaloitua purjosipulia",
@@ -15412,7 +15412,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "murskattu valkosipulinkynsi",
         "clean_name": "murskattu valkosipulinkynsi",
@@ -15454,7 +15454,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "iso porkkana pieneksi kuutioituna",
         "clean_name": "porkkana pieneksi kuutioituna",
@@ -15521,7 +15521,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "viipaloitua lehtisellerin vartta",
         "clean_name": "viipaloitua lehtisellerin vartta",
@@ -15587,7 +15587,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "vehnäjauhoja",
         "clean_name": "vehnäjauhoja",
@@ -15612,7 +15612,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "murennettua lihaliemikuutiota",
         "clean_name": "murennettua lihaliemikuutiota",
@@ -15654,7 +15654,7 @@
         ]
       },
       {
-        "amount": 21.0,
+        "amount": "21.0",
         "unit": "",
         "name": "kuumaa vettä",
         "clean_name": "kuumaa vettä",
@@ -15706,7 +15706,7 @@
         ]
       },
       {
-        "amount": 2.75,
+        "amount": "2.75",
         "unit": "dl",
         "name": "valkoviiniä",
         "clean_name": "valkoviiniä",
@@ -15740,7 +15740,7 @@
         ]
       },
       {
-        "amount": 125.0,
+        "amount": "125.0",
         "unit": "g",
         "name": "conchiglieta (simpukankuoripastaa)",
         "clean_name": "conchiglieta",
@@ -15755,7 +15755,7 @@
         ]
       },
       {
-        "amount": 440.0,
+        "amount": "440.0",
         "unit": "g",
         "name": "(tlk) kolmen pavun sekoitusta valutettuna",
         "clean_name": "kolmen pavun sekoitusta valutettuna",
@@ -15827,7 +15827,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "suolaa ja pippuria",
         "clean_name": "suolaa ja pippuria",
@@ -15924,7 +15924,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 12.0,
+        "amount": "12.0",
         "unit": "",
         "name": "jättikatkarapua",
         "clean_name": "jättikatkarapua",
@@ -15949,7 +15949,7 @@
         ]
       },
       {
-        "amount": 100.0,
+        "amount": "100.0",
         "unit": "g",
         "name": "sokeriherneita",
         "clean_name": "sokeriherneita",
@@ -15964,7 +15964,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "rkl",
         "name": "öljyä",
         "clean_name": "öljyä",
@@ -16001,7 +16001,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "pilkottua sipulia",
         "clean_name": "pilkottua sipulia",
@@ -16043,7 +16043,7 @@
         ]
       },
       {
-        "amount": 0.5238095238095238,
+        "amount": "0.5238095238095238",
         "unit": "",
         "name": "kanalientä",
         "clean_name": "kanalientä",
@@ -16068,7 +16068,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "tl",
         "name": "raastettua tuoretta inkivääriä",
         "clean_name": "raastettua tuoretta inkivääriä",
@@ -16126,7 +16126,7 @@
         ]
       },
       {
-        "amount": 200.0,
+        "amount": "200.0",
         "unit": "g",
         "name": "enkelinhiuspastaa cai spagettinia",
         "clean_name": "enkelinhiuspastaa cai spagettinia",
@@ -16161,7 +16161,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "tuoreita basilikanlehtiä koristelua varten",
         "clean_name": "tuoreita basilikanlehtiä koristelua varten",
@@ -16230,7 +16230,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "suolaa ja pippuria",
         "clean_name": "suolaa ja pippuria",
@@ -16304,7 +16304,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "Kuori katkaravut, poista suolet, mutta jätä pyrstöt paikoilleen. Perkaa herneenpalot, ja jos ne ovat isoja, pilko pienemmiksi.",
         "clean_name": "kuori katkaravut, poista suolet, mutta jätä pyrstöt paikoilleen. perkaa herneenpalot, ja jos ne ovat isoja, pilko pienemmiksi.",
@@ -16559,7 +16559,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 90.0,
+        "amount": "90.0",
         "unit": "g",
         "name": "voita",
         "clean_name": "voita",
@@ -16614,7 +16614,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "viipaloitua valkosipulinkynttä",
         "clean_name": "viipaloitua valkosipulinkynttä",
@@ -16665,7 +16665,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "isoa sipulia viipaloituna",
         "clean_name": "isoa sipulia viipaloituna",
@@ -16735,7 +16735,7 @@
         ]
       },
       {
-        "amount": 375.0,
+        "amount": "375.0",
         "unit": "g",
         "name": "herkkusieniä ohueksi viipaloituna",
         "clean_name": "herkkusieniä ohueksi viipaloituna",
@@ -16793,7 +16793,7 @@
         ]
       },
       {
-        "amount": 2.75,
+        "amount": "2.75",
         "unit": "",
         "name": "kanalientä",
         "clean_name": "kanalientä",
@@ -16818,7 +16818,7 @@
         ]
       },
       {
-        "amount": 125.0,
+        "amount": "125.0",
         "unit": "g",
         "name": "rissonia",
         "clean_name": "rissonia",
@@ -16833,7 +16833,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "dl",
         "name": "kermaa",
         "clean_name": "kermaa",
@@ -16858,7 +16858,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "suolaa ja pippuria",
         "clean_name": "suolaa ja pippuria",
@@ -16953,7 +16953,7 @@
     "servings": "6-8 annosta",
     "ingredients": [
       {
-        "amount": 250.0,
+        "amount": "250.0",
         "unit": "g",
         "name": "kuivattuja borlottipapuja yön yli vedessä liotettuna",
         "clean_name": "kuivattuja borlottipapuja yön yli vedessä liotettuna",
@@ -17046,7 +17046,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "pilkottua sipulia",
         "clean_name": "pilkottua sipulia",
@@ -17088,7 +17088,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "murskattua valkosipulinkynttä",
         "clean_name": "murskattua valkosipulinkynttä",
@@ -17130,7 +17130,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "",
         "name": "pilkottua pekoniviipaletta",
         "clean_name": "pilkottua pekoniviipaletta",
@@ -17172,7 +17172,7 @@
         ]
       },
       {
-        "amount": 4.0,
+        "amount": "4.0",
         "unit": "",
         "name": "kuorittua ja pilkottua luumutomaattia",
         "clean_name": "kuorittua ja pilkottua luumutomaattia",
@@ -17244,7 +17244,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "rkl",
         "name": "hienonnettua tuoretta persiljaa",
         "clean_name": "hienonnettua tuoretta persiljaa",
@@ -17302,7 +17302,7 @@
         ]
       },
       {
-        "amount": 2.25,
+        "amount": "2.25",
         "unit": "",
         "name": "1 liha- tai kasvislientä",
         "clean_name": "1 liha- tai kasvislientä",
@@ -17366,7 +17366,7 @@
         ]
       },
       {
-        "amount": 0.5,
+        "amount": "0.5",
         "unit": "dl",
         "name": "punaviiniä",
         "clean_name": "punaviiniä",
@@ -17400,7 +17400,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "paloiteltu porkkana ja I kuutioitu lanttu",
         "clean_name": "paloiteltu porkkana ja i kuutioitu lanttu",
@@ -17511,7 +17511,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "kuutioitua perunaa",
         "clean_name": "kuutioitua perunaa",
@@ -17562,7 +17562,7 @@
         ]
       },
       {
-        "amount": 3.0,
+        "amount": "3.0",
         "unit": "rkl",
         "name": "tomaattipyreetä (kaksinkertainen väkevöite)",
         "clean_name": "tomaattipyreetä",
@@ -17587,7 +17587,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "viipaloitua kesäkurpitsaa",
         "clean_name": "viipaloitua kesäkurpitsaa",
@@ -17638,7 +17638,7 @@
         ]
       },
       {
-        "amount": 1.25,
+        "amount": "1.25",
         "unit": "dl",
         "name": "herneitä",
         "clean_name": "herneitä",
@@ -17663,7 +17663,7 @@
         ]
       },
       {
-        "amount": 1.25,
+        "amount": "1.25",
         "unit": "dl",
         "name": "pikkumakaroneja",
         "clean_name": "pikkumakaroneja",
@@ -17688,7 +17688,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "vastaraastettua parmesaania ja pestoa tarjoiluun",
         "clean_name": "vastaraastettua parmesaania ja pestoa tarjoiluun",
@@ -17794,7 +17794,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "pilkottu sipuli",
         "clean_name": "pilkottu sipuli",
@@ -17836,7 +17836,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "",
         "name": "murskattua valkosipulinkynttä",
         "clean_name": "murskattua valkosipulinkynttä",
@@ -17878,7 +17878,7 @@
         ]
       },
       {
-        "amount": 1.25,
+        "amount": "1.25",
         "unit": "dl",
         "name": "punaviiniä",
         "clean_name": "punaviiniä",
@@ -17912,7 +17912,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "tomaattipyreetä",
         "clean_name": "tomaattipyreetä",
@@ -17937,7 +17937,7 @@
         ]
       },
       {
-        "amount": 425.0,
+        "amount": "425.0",
         "unit": "g",
         "name": "(tlk) tomaattimurskaa",
         "clean_name": "tomaattimurskaa",
@@ -17962,7 +17962,7 @@
         ]
       },
       {
-        "amount": 2.5,
+        "amount": "2.5",
         "unit": "dl",
         "name": "valmista tomaattipastakastiketta",
         "clean_name": "valmista tomaattipastakastiketta",
@@ -18015,7 +18015,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "rkl",
         "name": "hienonnettua tuoretta basilikaa ja oreganoa",
         "clean_name": "hienonnettua tuoretta basilikaa ja oreganoa",
@@ -18101,7 +18101,7 @@
         ]
       },
       {
-        "amount": 12.0,
+        "amount": "12.0",
         "unit": "",
         "name": "sinisimpukkaa puhtaaksi harjattuna (heitä pois valmiiksi auenneet)",
         "clean_name": "sinisimpukkaa puhtaaksi harjattuna",
@@ -18168,7 +18168,7 @@
         ]
       },
       {
-        "amount": 30.0,
+        "amount": "30.0",
         "unit": "g",
         "name": "voita",
         "clean_name": "voita",
@@ -18223,7 +18223,7 @@
         ]
       },
       {
-        "amount": 125.0,
+        "amount": "125.0",
         "unit": "g",
         "name": "pieniä mustekalanrenkaita",
         "clean_name": "pieniä mustekalanrenkaita",
@@ -18273,7 +18273,7 @@
         ]
       },
       {
-        "amount": 125.0,
+        "amount": "125.0",
         "unit": "g",
         "name": "ruodottomia siikafileitä kuutioiksi leikattuna",
         "clean_name": "ruodottomia siikafileitä kuutioiksi leikattuna",
@@ -18355,7 +18355,7 @@
         ]
       },
       {
-        "amount": 200.0,
+        "amount": "200.0",
         "unit": "g",
         "name": "tuoreita katkarapuja kuorittuna",
         "clean_name": "tuoreita katkarapuja kuorittuna",
@@ -18413,7 +18413,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "pastaa",
         "clean_name": "pastaa",
@@ -18462,7 +18462,7 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "Chiliumi-",
         "clean_name": "chiliumi-",
@@ -18477,7 +18477,7 @@
         ]
       },
       {
-        "amount": 2.75,
+        "amount": "2.75",
         "unit": "dl",
         "name": "pekonin rasvaa",
         "clean_name": "pekonin rasvaa",
@@ -18529,7 +18529,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "2-3 tuoretta punaista chilipippuria",
         "clean_name": "2-3 tuoretta punaista chilipippuria",
@@ -18591,7 +18591,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "oliiviöljyä",
         "clean_name": "oliiviöljyä",
@@ -18616,7 +18616,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "iso hienonnettu sipuli",
         "clean_name": "hienonnettu sipuli",
@@ -18658,7 +18658,7 @@
         ]
       },
       {
-        "amount": 1.0,
+        "amount": "1.0",
         "unit": "",
         "name": "hienonnettu valkosipulinkynsi",
         "clean_name": "hienonnettu valkosipulinkynsi",
@@ -18700,7 +18700,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "oikein kypsiä tomaatteja hienoksi",
         "clean_name": "oikein kypsiä tomaatteja hienoksi",
@@ -18790,7 +18790,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "pilkottuna",
         "clean_name": "pilkottuna",
@@ -18817,7 +18817,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "suolaa ja pippuria",
         "clean_name": "suolaa ja pippuria",
@@ -18891,7 +18891,7 @@
         ]
       },
       {
-        "amount": 500.0,
+        "amount": "500.0",
         "unit": "g",
         "name": "pastaa",
         "clean_name": "pastaa",
@@ -18916,7 +18916,7 @@
         ]
       },
       {
-        "amount": 2.0,
+        "amount": "2.0",
         "unit": "rkl",
         "name": "hienonnettua tuoretta persiljaa",
         "clean_name": "hienonnettua tuoretta persiljaa",
@@ -18974,7 +18974,7 @@
         ]
       },
       {
-        "amount": null,
+        "amount": "",
         "unit": null,
         "name": "vastaraastettua parmesaani- tai pecorinojuustoa tarjoiluun",
         "clean_name": "vastaraastettua parmesaani- tai pecorinojuustoa tarjoiluun",

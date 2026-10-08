@@ -30,8 +30,8 @@ const App = () => {
     const loadData = async () => {
       try {
         const [messageResponse, dbResponse] = await Promise.all([
-          axios.get("http://127.0.0.1:8000/"),
-          axios.get("http://127.0.0.1:8000/db-health"),
+          axios.get("/api/"),
+          axios.get("/api/db-health"),
         ]);
 
         setMessage(messageResponse.data.message);
@@ -44,6 +44,7 @@ const App = () => {
 
     loadData();
   }, []);
+  console.log(recipes);
 
   return (
     <div

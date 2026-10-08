@@ -14,9 +14,7 @@ const RecipeCard = ({ isExpanded, onToggle, recipe }) => (
       <h2 style={{ fontSize: "1.2rem", margin: 0 }}>{recipe.name}</h2>
       <Button
         aria-label={
-          isExpanded
-            ? `Collapse ${recipe.name}`
-            : `Expand ${recipe.name}`
+          isExpanded ? `Collapse ${recipe.name}` : `Expand ${recipe.name}`
         }
         onClick={onToggle}
         style={{
@@ -47,9 +45,12 @@ const RecipeCard = ({ isExpanded, onToggle, recipe }) => (
           {recipe.cooking_time} | Servings: {recipe.servings}
         </p>
         <ul>
-          {recipe.ingredients.map(({ ingredient, quantity, unit }) => (
+          {recipe.ingredients.map(({ amount, ingredient, unit }) => (
             <li key={ingredient.id}>
-              {quantity} {unit} {ingredient.name}
+              {amount && amount !== "None"
+                ? `${amount}${unit ? ` ${unit}` : ""} `
+                : ""}
+              {ingredient.name}
             </li>
           ))}
         </ul>
