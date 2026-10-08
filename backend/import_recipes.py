@@ -73,8 +73,8 @@ async def import_recipes():
                         relation = RecipeIngredient(
                             recipe_id=recipe.id,
                             ingredient_id=ingredient.id,
-                            amount=recipe_data.get("amount"),
-                            unit=recipe_data.get("unit"),
+                            amount=str(ingredient_data.get("amount")),
+                            unit=ingredient_data.get("unit"),
                         )
 
                         session.add(relation)

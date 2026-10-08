@@ -49,6 +49,10 @@ class RecipeIngredient(Base):
         primary_key=True
     )
 
+    # amount: Mapped[int] = mapped_column(primary_key=False)
+
+    # unit: Mapped[int] = mapped_column(primary_key=False)
+
     recipe: Mapped["Recipe"] = relationship(
         back_populates="ingredients"
     )
