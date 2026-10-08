@@ -3,14 +3,19 @@ import axios from "axios";
 import RecipeCard from "./components/RecipeCard.jsx";
 import RecipeFilters from "./components/RecipeFilters.jsx";
 import StatusCard from "./components/StatusCard.jsx";
-import dummyRecipes from "./data/recipes.js";
 import useRecipeFilters from "./hooks/useRecipeFilters.js";
+import useRecipes from "./hooks/useRecipes.js";
 
 const App = () => {
   const [message, setMessage] = useState("");
   const [dbHealth, setDbHealth] = useState("");
   const [error, setError] = useState("");
   const [expandedRecipeId, setExpandedRecipeId] = useState(null);
+  const {
+    recipes,
+    isLoading: recipesLoading,
+    error: recipesError,
+  } = useRecipes();
   const {
     addIngredientFilter,
     filteredRecipes,
@@ -19,7 +24,7 @@ const App = () => {
     searchTerm,
     setSearchTerm,
     updateIngredientFilter,
-  } = useRecipeFilters(dummyRecipes);
+  } = useRecipeFilters(recipes);
 
   useEffect(() => {
     const loadData = async () => {
@@ -55,6 +60,8 @@ const App = () => {
       }}
     >
       <StatusCard dbHealth={dbHealth} error={error} message={message} />
+      {recipesLoading ? <p>Loading recipes...</p> : null}
+      {recipesError ? <p>{recipesError}</p> : null}
       <RecipeFilters
         ingredientFilters={ingredientFilters}
         onAddIngredient={addIngredientFilter}
@@ -63,19 +70,21 @@ const App = () => {
         onSearchChange={setSearchTerm}
         searchTerm={searchTerm}
       />
-      {filteredRecipes.map((recipe) => (
-        <RecipeCard
-          isExpanded={expandedRecipeId === recipe.id}
-          key={recipe.id}
-          onToggle={() =>
-            setExpandedRecipeId((currentId) =>
-              currentId === recipe.id ? null : recipe.id,
-            )
-          }
-          recipe={recipe}
-        />
-      ))}
-      {filteredRecipes.length === 0 ? (
+      {!recipesLoading && !recipesError
+        ? filteredRecipes.map((recipe) => (
+            <RecipeCard
+              isExpanded={expandedRecipeId === recipe.id}
+              key={recipe.id}
+              onToggle={() =>
+                setExpandedRecipeId((currentId) =>
+                  currentId === recipe.id ? null : recipe.id,
+                )
+              }
+              recipe={recipe}
+            />
+          ))
+        : null}
+      {!recipesLoading && !recipesError && filteredRecipes.length === 0 ? (
         <p style={{ color: "#64748b" }}>No recipes found.</p>
       ) : null}
     </div>
