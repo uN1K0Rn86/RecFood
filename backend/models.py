@@ -56,3 +56,7 @@ class RecipeIngredient(Base):
     ingredient: Mapped["Ingredient"] = relationship(
         back_populates="recipes"
     )
+
+    amount: Mapped[str | None] = mapped_column(String)
+
+    unit: Mapped[str | None] = mapped_column(String)
