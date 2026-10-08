@@ -82,8 +82,8 @@
       },
       {
         "amount": 2.0,
-        "unit": "",
-        "name": "x 400 g (tlk) italialaisia tomaatteja pilkottuna"
+        "unit": "tlk",
+        "name": "italialaisia tomaatteja pilkottuna"
       },
       {
         "amount": 0.5,
@@ -315,16 +315,7 @@
     }
   },
   {
-    "name": "CARBONARA",
-    "preparation_time": "",
-    "cooking_time": "",
-    "servings": "",
-    "ingredients": [],
-    "instructions": [],
-    "nutrition": {}
-  },
-  {
-    "name": "(KERMAINEN MUNAPEKONIKASTIKE)",
+    "name": "CARBONARA (KERMAINEN MUNAPEKONIKASTIKE)",
     "preparation_time": "15 minuuttia",
     "cooking_time": "25 minuuttia",
     "servings": "4-6 annosta",
@@ -359,13 +350,9 @@
         "unit": null,
         "name": "mustapippuria"
       },
-      {
-        "amount": 1.0,
-        "unit": "",
-        "name": "Irrota pekonin nahka ja heitä se pois, leikkaa pekoni ohuiksi suikaleiksi. Paista paksupohjaisessa pannussa keskilämmöllä rapeiksi. Valuta talouspaperin päällä."
-      }
     ],
     "instructions": [
+      "Irrota pekonin nahka ja heitä se pois, leikkaa pekoni ohuiksi suikaleiksi. Paista paksupohjaisessa pannussa keskilämmöllä rapeiksi. Valuta talouspaperin päällä.",
       "lisää pasta runsaaseen, voimakkaasti kiehuvaan suolattuun veteen ja keitä al dente. Valuta ja kaada takaisin kattilaan.",
       "Pastan kichuessa vatkaa munat, parmesaani ja kerma kulhossa hyvin sekaisin. lisää pekoni seokseen. Kaada kastike kuuman pastan päälle ja sekoita kevyesti, kunnes kastike peittää pastan.",
       "Kuumenna pannu uudelleen hyvin miedolle lämmölle ja keitä 1/2-1 minuuttia, tai kunnes kastike on hieman saostunut. Vastajauhettua mustapippuria voidaan lisätä maun mukaan.",
@@ -454,7 +441,7 @@
       {
         "amount": 6.0,
         "unit": "",
-        "name": "ohutta pancettaviipaletta tai 3 pekoniviipaletta"
+        "name": "ohutta pancettaviipaletta"
       },
       {
         "amount": 1.0,
@@ -560,16 +547,7 @@
     }
   },
   {
-    "name": "PUTTANESCA",
-    "preparation_time": "",
-    "cooking_time": "",
-    "servings": "",
-    "ingredients": [],
-    "instructions": [],
-    "nutrition": {}
-  },
-  {
-    "name": "(KAPRISOLIIVIANJOVISKASTIKE)",
+    "name": "PUTTANESCA (KAPRISOLIIVIANJOVISKASTIKE)",
     "preparation_time": "20 minuuttia",
     "cooking_time": "20 minuuttia",
     "servings": "4 annosta",
@@ -595,14 +573,14 @@
         "name": "hienonnettua tuoretta persiljaa"
       },
       {
-        "amount": null,
-        "unit": null,
-        "name": "1/4-1/2 tl chilipippurihiutaleita tai -jauhetta"
+        "amount": "1/4-1/2",
+        "unit": "tl",
+        "name": "chilipippurihiutaleita tai -jauhetta"
       },
       {
         "amount": 2.0,
-        "unit": "",
-        "name": "x 425 g (tlk) tomaattimurskaa"
+        "unit": "tlk",
+        "name": "tomaattimurskaa"
       },
       {
         "amount": 1.0,
@@ -834,16 +812,7 @@
     }
   },
   {
-    "name": "ZITIA VIHANNESTEN JA MAKKARAN KERA",
-    "preparation_time": "30 minuuttia",
-    "cooking_time": "",
-    "servings": "",
-    "ingredients": [],
-    "instructions": [],
-    "nutrition": {}
-  },
-  {
-    "name": "PASTAA JA",
+    "name": "PASTAA JA ZITIA VIHANNESTEN JA MAKKARAN KERA",
     "preparation_time": "",
     "cooking_time": "40 minuuttia",
     "servings": "4 annosta",
@@ -886,7 +855,7 @@
       {
         "amount": 425.0,
         "unit": "g",
-        "name": "(tlk) tomaattimurskaa"
+        "name": "tomaattimurskaa"
       },
       {
         "amount": 2.75,
@@ -959,7 +928,7 @@
       {
         "amount": 425.0,
         "unit": "g",
-        "name": "(tlk) tomaattimurskaa"
+        "name": "tomaattimurskaa"
       },
       {
         "amount": 1.25,
@@ -967,9 +936,9 @@
         "name": "kuivaa valkoviiniä"
       },
       {
-        "amount": null,
-        "unit": null,
-        "name": "1/2-1 tl pilkottua chilipippuria, ei välttämätön"
+        "amount": "1/2-1",
+        "unit": "tl",
+        "name": "pilkottua chilipippuria, ei välttämätön"
       },
       {
         "amount": 375.0,
@@ -1120,9 +1089,9 @@
         "name": "isoa punaista paprikaa pilkottuna"
       },
       {
-        "amount": 825.0,
-        "unit": "g",
-        "name": "(tlk) tomaattimurskaa"
+        "amount": 1,
+        "unit": "tlk",
+        "name": "tomaattimurskaa"
       },
       {
         "amount": 2.75,
@@ -1180,9 +1149,9 @@
         "name": "kuivaa valkoviiniä"
       },
       {
-        "amount": null,
-        "unit": null,
-        "name": "3-4 rkl liha- tai kanalientä"
+        "amount": "3-4",
+        "unit": "rkl",
+        "name": "liha- tai kanalientä"
       },
       {
         "amount": 1.5,
@@ -1203,14 +1172,10 @@
         "amount": null,
         "unit": null,
         "name": "vastaraastettua parmesaania"
-      },
-      {
-        "amount": null,
-        "unit": null,
-        "name": "leivitä vasikanlihasuikaleet maustetuilla jauhoilla Sulata voi pannussa. lisää vasikanlihasuikaleet ja ruskista nopeasti. Nosta pois reikä-kauhalla ja pane syrjään."
       }
     ],
     "instructions": [
+      "leivitä vasikanlihasuikaleet maustetuilla jauhoilla Sulata voi pannussa. lisää vasikanlihasuikaleet ja ruskista nopeasti. Nosta pois reikä-kauhalla ja pane syrjään.",
       "lisää sipuliviipaleet pannuun ja hämmennä pehmeiksi ja kullanvärisiksi, noin 8-10 minuuttia, Kaada joukkoon viini ja keitä neste nopeasti kokoon. lisää lihaliemi sekä kerma ja mausta suolalla ja pippurilla maun mukaan. keitä kastiketta jälleen kokoon ja lisää vasikanliha keittämisen loppupuolella.",
       "keitä tagliatelle sillä välin runsaassa, voimakkaasti kiehuvassa suolatussa vedessä al dente. Valuta ja siirrä lämpimään tarjoiluastiaan.",
       "Sekoita 1 rkl parmesaania kastikkeeseen. Kaada kastike pastan päälle. Ripottele pinnalle parmesaania ja tarjoile. lisäkoristeena voidaan käyttää hiukan hienonnettuja yrttejä, jotka antavat lisämakua.",
@@ -1227,7 +1192,7 @@
   {
     "name": "SPAGHETTI BOLOGNESE",
     "preparation_time": "20 minuuttia",
-    "cooking_time": "I tunti 40 minuuttia",
+    "cooking_time": "1 tunti 40 minuuttia",
     "servings": "4-6 annosta",
     "ingredients": [
       {
@@ -1272,8 +1237,8 @@
       },
       {
         "amount": 2.0,
-        "unit": "",
-        "name": "x 425 g (tlk) tomaattimurskaa"
+        "unit": "tlk",
+        "name": "tomaattimurskaa"
       },
       {
         "amount": 1.0,
@@ -1339,7 +1304,7 @@
       {
         "amount": 425.0,
         "unit": "g",
-        "name": "(tlk) tomaattimurskaa"
+        "name": "tomaattimurskaa"
       },
       {
         "amount": 21.0,
@@ -1409,8 +1374,8 @@
       },
       {
         "amount": 3.0,
-        "unit": "",
-        "name": "I valmista nestemäistä kanalientä"
+        "unit": "l",
+        "name": "valmista nestemäistä kanalientä"
       },
       {
         "amount": 125.0,
@@ -1523,9 +1488,9 @@
         "name": "viipaloitu purjosipuli"
       },
       {
-        "amount": null,
+        "amount": "20-30",
         "unit": null,
-        "name": "20-30 ohueksi viipaloitua valkosipulinkynttä"
+        "name": "ohueksi viipaloitua valkosipulinkynttä"
       },
       {
         "amount": 2.0,
@@ -1558,9 +1523,9 @@
         "name": "kalafileitä isoiksi paloiksi leikattuna"
       },
       {
-        "amount": null,
-        "unit": null,
-        "name": "1-2 rkl sitruunamehua"
+        "amount": "1-2",
+        "unit": "rkl",
+        "name": "sitruunamehua"
       },
       {
         "amount": 2.0,
@@ -1619,9 +1584,9 @@
         "name": "oliiviöljyä"
       },
       {
-        "amount": null,
-        "unit": null,
-        "name": "S di kanalientä"
+        "amount": 5,
+        "unit": "dl",
+        "name": "kanalientä"
       },
       {
         "amount": 125.0,
@@ -1699,7 +1664,12 @@
       {
         "amount": 2.0,
         "unit": "",
-        "name": "pientä ohueksi viipaloitua kesäkurpitsaa I tl suolaa"
+        "name": "pientä ohueksi viipaloitua kesäkurpitsaa"
+      },
+      {
+        "amount": 1,
+        "unit": "tl",
+        "name": "suolaa"
       },
       {
         "amount": 21.0,
@@ -1817,8 +1787,8 @@
       },
       {
         "amount": 2.0,
-        "unit": "",
-        "name": "x 400 g (tlk) tomaattimurskaa"
+        "unit": "tlk",
+        "name": "tomaattimurskaa"
       },
       {
         "amount": 1.0,
@@ -1831,9 +1801,9 @@
         "name": "kuivattuja timjaminlehtiä"
       },
       {
-        "amount": null,
-        "unit": null,
-        "name": "II kasvislientä"
+        "amount": "1",
+        "unit": "l",
+        "name": "kasvislientä"
       },
       {
         "amount": 1.25,
@@ -1998,9 +1968,9 @@
     "servings": "4 annosta",
     "ingredients": [
       {
-        "amount": 3.0,
-        "unit": "",
-        "name": "isoa oikein kypsää tomaattia (noin 750 g)"
+        "amount": 750,
+        "unit": "g",
+        "name": "oikein kypsää tomaattia"
       },
       {
         "amount": 2.0,
@@ -2023,9 +1993,9 @@
         "name": "pieni punainen paprika hienonnettuna"
       },
       {
-        "amount": null,
-        "unit": null,
-        "name": "Il kana- tai kasvislientä"
+        "amount": "1",
+        "unit": "l",
+        "name": "kana- tai kasvislientä"
       },
       {
         "amount": 0.5,
@@ -2214,7 +2184,7 @@
       {
         "amount": 440.0,
         "unit": "g",
-        "name": "(tlk) kolmen pavun sekoitusta valutettuna"
+        "name": "kolmen pavun sekoitusta valutettuna"
       },
       {
         "amount": null,
@@ -2288,14 +2258,10 @@
         "amount": null,
         "unit": null,
         "name": "suolaa ja pippuria"
-      },
-      {
-        "amount": null,
-        "unit": null,
-        "name": "Kuori katkaravut, poista suolet, mutta jätä pyrstöt paikoilleen. Perkaa herneenpalot, ja jos ne ovat isoja, pilko pienemmiksi."
       }
     ],
     "instructions": [
+      "Kuori katkaravut, poista suolet, mutta jätä pyrstöt paikoilleen. Perkaa herneenpalot, ja jos ne ovat isoja, pilko pienemmiksi.",
       "Kuumenna öljy pannussa, lisää sipuli ja pehMitä miedolla lämmöllä. lisää kanaliemi pannuun ja kuumenna kiehuvaksi,",
       "lisää tuore inkivääri, sokeriherneet, katkaravut ja pasta. keitä keskilämmöllä 4 minuuttia. Maus... ta suolalla ja pippurilla ja tarjoa heti tuoreilla basilikanlehdillä koristeltuna."
     ],
@@ -2404,8 +2370,8 @@
       },
       {
         "amount": 2.25,
-        "unit": "",
-        "name": "1 liha- tai kasvislientä"
+        "unit": "l",
+        "name": "liha- tai kasvislientä"
       },
       {
         "amount": 0.5,
@@ -2491,7 +2457,7 @@
       {
         "amount": 425.0,
         "unit": "g",
-        "name": "(tlk) tomaattimurskaa"
+        "name": "tomaattimurskaa"
       },
       {
         "amount": 2.5,
@@ -2568,9 +2534,9 @@
         "name": "pekonin rasvaa"
       },
       {
-        "amount": null,
+        "amount": "2-3",
         "unit": null,
-        "name": "2-3 tuoretta punaista chilipippuria"
+        "name": "tuoretta punaista chilipippuria"
       },
       {
         "amount": 2.0,

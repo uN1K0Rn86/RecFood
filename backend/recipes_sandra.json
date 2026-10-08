@@ -5,27 +5,27 @@
       {
         "amount": "2",
         "unit": "pkt",
-        "name": "(400g) Pirkka piirakkataikinaa"
+        "name": "Pirkka piirakkataikinaa"
       },
       {
         "amount": "1",
         "unit": "",
-        "name": "iso (n. 200g) keltainen paprika"
+        "name": "iso keltainen paprika"
       },
       {
         "amount": "1",
         "unit": "",
-        "name": "iso (n. 200g) punainen paprika"
+        "name": "iso punainen paprika"
       },
       {
         "amount": "1",
         "unit": "",
-        "name": "pieni (n. 100g) vihreä paprika"
+        "name": "pieni vihreä paprika"
       },
       {
         "amount": "1",
         "unit": "tlk",
-        "name": "(385g) Pirkka salaattijuustokuutioita suolavedessä"
+        "name": "Pirkka salaattijuustokuutioita suolavedessä"
       },
       {
         "amount": "",
@@ -35,7 +35,7 @@
       {
         "amount": "1",
         "unit": "rs",
-        "name": "(200g) Pirkka kevyt Italian yrtit tuorejuustoa"
+        "name": "Pirkka kevyt Italian yrtit tuorejuustoa"
       },
       {
         "amount": "3",
@@ -103,7 +103,8 @@
     ]
   },
   {
-    "name": "Salmiakkiletut (n. 20 pientä)",
+    "name": "Salmiakkiletut",
+    "servings": "n. 20 pientä",
     "ingredients": [
       {
         "amount": "5",
@@ -116,9 +117,9 @@
         "name": "lakritsikastiketta"
       },
       {
-        "amount": "1",
-        "unit": "ps",
-        "name": "(250g) ohukais- ja vohvelijauheseosta"
+        "amount": "250",
+        "unit": "g",
+        "name": "ohukais- ja vohvelijauheseosta"
       },
       {
         "amount": "4",
@@ -139,7 +140,7 @@
       {
         "amount": "1",
         "unit": "l",
-        "name": "(n. 200g) suppilovahveroita"
+        "name": "suppilovahveroita"
       },
       {
         "amount": "1",
@@ -168,8 +169,8 @@
       },
       {
         "amount": "1",
-        "unit": "",
-        "name": "prk (500g) tomaattimurskaa"
+        "unit": "prk",
+        "name": "tomaattimurskaa"
       },
       {
         "amount": "5",
@@ -206,7 +207,7 @@
       {
         "amount": "1",
         "unit": "tlk",
-        "name": "(380g) kypsiä kikherneitä"
+        "name": "kypsiä kikherneitä"
       },
       {
         "amount": "½",
@@ -299,7 +300,7 @@
       {
         "amount": "1/2",
         "unit": "tl",
-        "name": "ti jauhettua muskottipahkinää"
+        "name": "jauhettua muskottipahkinää"
       },
       {
         "amount": "500",
@@ -533,9 +534,9 @@
         "name": "Öljyä"
       },
       {
-        "amount": "",
-        "unit": "",
-        "name": "Currya n. 2-3 tl"
+        "amount": "2-3",
+        "unit": "tl",
+        "name": "Currya"
       },
       {
         "amount": "",
@@ -608,7 +609,7 @@
       {
         "amount": "25",
         "unit": "g",
-        "name": "tuorehiivaa tai 1 ps kuivahiivaa"
+        "name": "tuorehiivaa"
       },
       {
         "amount": "2",
@@ -632,7 +633,7 @@
       }
     ],
     "instructions": [
-      "1. Sekoita hiiva kädenlämpöiseen veteen. Lisää suola ja öljy.",
+      "1. Sekoita hiiva kädenlämpöiseen veteen. Tuorehiivan voi korvata pussillisella kuivahiivaa. Lisää suola ja öljy.",
       "2. Sekoita vehnäjauhot joukkoon (tarvittaessa enemmän ettei taikina jää kiinni sormiin).",
       "3. Kohota n. 30 min.",
       "4. Kaulitse, täytä ja paista 225 asteessa n. 20 min."
@@ -775,9 +776,9 @@
         "name": "kananmunaa"
       },
       {
-        "amount": "",
+        "amount": "3-4",
         "unit": "",
-        "name": "3-4- omenaa, 2,5 dl raastettuna ja reilu 1 dl pilkottuna"
+        "name": "omenaa, "
       },
       {
         "amount": "2",
@@ -796,7 +797,7 @@
       }
     ],
     "instructions": [
-      "1. Kuori, raasta ja pilko omenat. Yhdistä jauhot, leivinjauhe, ruokasooda, kaneli ja muskottipähkinä.",
+      "1. Kuori, raasta ja pilko omenat (2,5 dl raastettuna ja reilu 1 dl pilkottuna). Yhdistä jauhot, leivinjauhe, ruokasooda, kaneli ja muskottipähkinä.",
       "2. Sekoita isossa kulhossa jogurtti, muscovadosokeri, vaniljasokeri, sulatettu voi, siirappi ja kananmunat. Voit korvata halutessasi muscovadosokerin fariinisokerilla.",
       "3. Kaada joukkoon kuivat aineet ja sekoita. Lisää taikinaan omenaraaste ja –palat sekä rouhitut saksanpähkinät. Kääntele kunnes taikina on tasaista.",
       "4. Kaada taikina voideltuun leipävuokaan (n. 25x12 com). Painele pintaan saksanpähkinöitä ja ripottele päälle kanelisokeria.",
@@ -895,7 +896,7 @@
       {
         "amount": "500",
         "unit": "g",
-        "name": "(4-6) porkkanaa"
+        "name": "porkkanaa"
       },
       {
         "amount": "4",
@@ -1169,7 +1170,7 @@
       {
         "amount": "1",
         "unit": "ps",
-        "name": "(450g) Pirkka Mexican Mix vihannessekoitusta"
+        "name": "Pirkka Mexican Mix vihannessekoitusta"
       },
       {
         "amount": "1",
@@ -1280,9 +1281,9 @@
         "name": "nuudelivettä"
       },
       {
-        "amount": "",
-        "unit": "",
-        "name": "n. 100g riisinuudelia"
+        "amount": "n. 100",
+        "unit": "g",
+        "name": "riisinuudelia"
       }
     ],
     "instructions": [
@@ -1442,7 +1443,7 @@
       {
         "amount": "2",
         "unit": "tlk",
-        "name": "(285g) papuja"
+        "name": "papuja"
       },
       {
         "amount": "0,5",
@@ -1466,8 +1467,8 @@
       },
       {
         "amount": "1",
-        "unit": "",
-        "name": "prk (200g) kermaviiliä"
+        "unit": "prk",
+        "name": "kermaviiliä"
       },
       {
         "amount": "2",
