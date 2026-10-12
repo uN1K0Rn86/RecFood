@@ -44,7 +44,6 @@ const App = () => {
 
     loadData();
   }, []);
-  console.log(recipes);
 
   return (
     <div

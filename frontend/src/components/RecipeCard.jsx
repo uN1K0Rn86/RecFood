@@ -1,6 +1,15 @@
 import Button from "./Button.jsx";
 import Card from "./Card.jsx";
 
+const formatAmount = (amount) => {
+  if (!amount || amount === "None") {
+    return "";
+  }
+
+  const numericAmount = Number(amount);
+  return Number.isFinite(numericAmount) ? String(numericAmount) : amount;
+};
+
 const RecipeCard = ({ isExpanded, onToggle, recipe }) => (
   <Card>
     <div
@@ -47,8 +56,8 @@ const RecipeCard = ({ isExpanded, onToggle, recipe }) => (
         <ul>
           {recipe.ingredients.map(({ amount, ingredient, unit }) => (
             <li key={ingredient.id}>
-              {amount && amount !== "None"
-                ? `${amount}${unit ? ` ${unit}` : ""} `
+              {formatAmount(amount)
+                ? `${formatAmount(amount)}${unit ? ` ${unit}` : ""} `
                 : ""}
               {ingredient.name}
             </li>
