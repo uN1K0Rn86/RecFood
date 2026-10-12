@@ -1,6 +1,6 @@
 import Card from "./Card.jsx";
 
-const StatusCard = ({ error, message, dbHealth }) => (
+const StatusCard = ({ apiError, dbError, recipesError }) => (
   <Card
     style={{
       backgroundColor: "#0f172a",
@@ -8,15 +8,22 @@ const StatusCard = ({ error, message, dbHealth }) => (
       textAlign: "center",
     }}
   >
-    {error ? (
-      <div style={{ color: "#fca5a5" }}>Request failed: {error}</div>
+    <div style={{ fontSize: "1.1rem", fontWeight: "600" }}>RecFood</div>
+    {apiError ? (
+      <div style={{ color: "#fca5a5", marginTop: "0.5rem" }}>
+        API unavailable: {apiError}
+      </div>
     ) : null}
-    <div style={{ fontSize: "1.1rem", fontWeight: "600" }}>
-      {message || "Loading..."}
-    </div>
-    <div style={{ color: "#cbd5e1", marginTop: "0.5rem" }}>
-      Database status: {dbHealth || "Loading..."}
-    </div>
+    {dbError ? (
+      <div style={{ color: "#fca5a5", marginTop: "0.5rem" }}>
+        Database unavailable: {dbError}
+      </div>
+    ) : null}
+    {recipesError ? (
+      <div style={{ color: "#fca5a5", marginTop: "0.5rem" }}>
+        Recipes unavailable: {recipesError}
+      </div>
+    ) : null}
   </Card>
 );
 

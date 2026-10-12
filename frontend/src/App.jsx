@@ -7,9 +7,8 @@ import useRecipeFilters from "./hooks/useRecipeFilters.js";
 import useRecipes from "./hooks/useRecipes.js";
 
 const App = () => {
-  const [message, setMessage] = useState("");
-  const [dbHealth, setDbHealth] = useState("");
-  const [error, setError] = useState("");
+  const [apiError, setApiError] = useState("");
+  const [dbError, setDbError] = useState("");
   const [expandedRecipeId, setExpandedRecipeId] = useState(null);
   const {
     recipes,
@@ -28,17 +27,19 @@ const App = () => {
 
   useEffect(() => {
     const loadData = async () => {
-      try {
-        const [messageResponse, dbResponse] = await Promise.all([
-          axios.get("/api/"),
-          axios.get("/api/db-health"),
-        ]);
+      const [apiResponse, dbResponse] = await Promise.allSettled([
+        axios.get("/api/"),
+        axios.get("/api/db-health"),
+      ]);
 
-        setMessage(messageResponse.data.message);
-        setDbHealth(String(dbResponse.data.database));
-      } catch (error) {
-        console.error(error);
-        setError(error.message);
+      if (apiResponse.status === "rejected") {
+        console.error(apiResponse.reason);
+        setApiError(apiResponse.reason.message);
+      }
+
+      if (dbResponse.status === "rejected") {
+        console.error(dbResponse.reason);
+        setDbError(dbResponse.reason.message);
       }
     };
 
@@ -59,9 +60,12 @@ const App = () => {
         padding: "2rem 1rem 4rem",
       }}
     >
-      <StatusCard dbHealth={dbHealth} error={error} message={message} />
+      <StatusCard
+        apiError={apiError}
+        dbError={dbError}
+        recipesError={recipesError}
+      />
       {recipesLoading ? <p>Loading recipes...</p> : null}
-      {recipesError ? <p>{recipesError}</p> : null}
       <RecipeFilters
         ingredientFilters={ingredientFilters}
         onAddIngredient={addIngredientFilter}
