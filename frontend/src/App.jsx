@@ -65,7 +65,7 @@ const App = () => {
         dbError={dbError}
         recipesError={recipesError}
       />
-      {recipesLoading ? <p>Loading recipes...</p> : null}
+      {recipesLoading ? <p>Ladataan reseptejä...</p> : null}
       <RecipeFilters
         ingredientFilters={ingredientFilters}
         onAddIngredient={addIngredientFilter}
@@ -89,7 +89,7 @@ const App = () => {
           ))
         : null}
       {!recipesLoading && !recipesError && filteredRecipes.length === 0 ? (
-        <p style={{ color: "#64748b" }}>No recipes found.</p>
+        <p style={{ color: "#64748b" }}>Reseptejä ei löytynyt.</p>
       ) : null}
     </div>
   );

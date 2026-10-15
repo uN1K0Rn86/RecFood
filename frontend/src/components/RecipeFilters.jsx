@@ -12,11 +12,11 @@ const RecipeFilters = ({
 }) => (
   <Card>
     <h1 style={{ fontSize: "1.5rem", margin: "0 0 1.25rem" }}>
-      Find a recipe
+      Etsi resepti
     </h1>
     <Input
       onChange={(event) => onSearchChange(event.target.value)}
-      placeholder="Filter recipes by name"
+      placeholder="Suodata reseptejä nimen perusteella"
       style={{
         border: "1px solid #cbd5e1",
         borderRadius: "8px",
@@ -29,7 +29,7 @@ const RecipeFilters = ({
     />
     <div style={{ marginTop: "1.25rem" }}>
       <p style={{ fontWeight: "600", margin: "0 0 0.75rem" }}>
-        Filter by ingredients
+        Suodata ainesosien perusteella
       </p>
       {ingredientFilters.map((filter, index) => (
         <div
@@ -45,7 +45,7 @@ const RecipeFilters = ({
             onChange={(event) =>
               onIngredientChange(index, event.target.value)
             }
-            placeholder={`Ingredient ${index + 1}`}
+            placeholder={`Ainesosa ${index + 1}`}
             style={{
               border: "1px solid #cbd5e1",
               borderRadius: "8px",
@@ -57,7 +57,7 @@ const RecipeFilters = ({
           />
           {ingredientFilters.length > 1 ? (
             <Button
-              aria-label={`Remove ingredient filter ${index + 1}`}
+              aria-label={`Poista ainesosasuodatin ${index + 1}`}
               onClick={() => onRemoveIngredient(index)}
               style={{
                 backgroundColor: "transparent",
@@ -84,7 +84,7 @@ const RecipeFilters = ({
           padding: "0.65rem 0.9rem",
         }}
       >
-        + Add ingredient
+        + Lisää ainesosa
       </Button>
     </div>
   </Card>

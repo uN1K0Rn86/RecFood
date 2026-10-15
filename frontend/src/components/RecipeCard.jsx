@@ -23,7 +23,7 @@ const RecipeCard = ({ isExpanded, onToggle, recipe }) => (
       <h2 style={{ fontSize: "1.2rem", margin: 0 }}>{recipe.name}</h2>
       <Button
         aria-label={
-          isExpanded ? `Collapse ${recipe.name}` : `Expand ${recipe.name}`
+          isExpanded ? `Supista ${recipe.name}` : `Laajenna ${recipe.name}`
         }
         onClick={onToggle}
         style={{
@@ -50,8 +50,8 @@ const RecipeCard = ({ isExpanded, onToggle, recipe }) => (
       >
         <p>{recipe.instructions}</p>
         <p>
-          Preparation: {recipe.preparation_time} | Cooking:{" "}
-          {recipe.cooking_time} | Servings: {recipe.servings}
+          Valmisteluaika: {recipe.preparation_time} | Kypsennysaika:{" "}
+          {recipe.cooking_time} | Annoksia: {recipe.servings}
         </p>
         <ul>
           {recipe.ingredients.map(({ amount, ingredient, unit }) => (
